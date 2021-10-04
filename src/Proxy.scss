@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Damion&display=swap');
+
+$primary: rgba(57, 162, 174, 1);
+$secondary: rgba(86, 31, 55, 1);
+$dark: rgba(17, 0, 28, 1);
+$light: rgba(85, 219, 203, 1);
+$alternate: rgba(117, 228, 179, 1);
+$white: rgba(255, 255, 255, 1);
+$black: rgba(0, 0, 0, 1);
+
+$header: 'Abril Fatface',
+cursive;
+$body: 'Poppins',
+sans-serif;
+$bodyweight: 300;
+$cursive: 'Damion',
+cursive;
+
+body {
+    //display: flex;
+    text-align: center;
+    color: $white;
+    background: $dark;
+    // height: 100vh;
+    // width: 100vw;
+    text-align: center;
+    font-family: $body;
+    font-weight: $bodyweight;
+    // overflow: hidden;
+    // white-space: nowrap;
+}
+
+ul {
+    list-style: none;
+
+    a {
+        text-decoration: none;
+        color: $primary;
+    }
+}
+
+a {
+    text-decoration: none;
+}
+
+.SiteNav {
+    display: flex;
+    position: fixed;
+    width: 100vw;
+    // flex-wrap: wrap;
+    // flex-direction: column;
+    // justify-content: flex-end;
+    // align-items: center;
+    color: $light;
+    background: $black;
+    padding-right: 35px;
+    padding-top: 15px;
+
+    i {
+        font-size: 23px;
+    }
+}
+
+#home {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    width: 100vw;
+    height: 100vh;
+    background: $light;
+    overflow: hidden;
+
+    .site-title {
+        padding-top: 10px;
+
+        h1 {
+            color: $secondary;
+            font-family: $header;
+            font-size: 50px;
+            text-shadow: 2px 6px 10px $primary;
+        }
+
+
+    }
+
+    .main {
+
+        #summary {
+            font-size: 26px;
+            opacity: 0;
+            animation: fadeIn ease-in 1;
+            animation-fill-mode: forwards;
+            animation-duration: 1s;
+            animation-delay: 1.2s;
+
+            #summary-info {
+                font-size: 15px;
+                font-style: italic;
+            }
+
+            a {
+                color: $primary;
+                font-size: 20px;
+            }
+        }
+
+        #quote {
+            font-family: $cursive;
+            font-size: 20px;
+            padding-top: 60px;
+            opacity: 0;
+            animation: fadeIn ease-in 1;
+            animation-fill-mode: forwards;
+            animation-duration: 1s;
+            animation-delay: 2.7s;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+    }
+}
+
+
+#maincontent {
+    height: 100vh;
+}
+
+
+#about {
+    height: 100vh;
+}
+
+
+#underconstruction {
+    width: 100vw;
+    text-align: center;
+    position: relative;
+    top: 0;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    // background: rgba(2, 2, 65, .7);
+    border-radius: 50px;
+
+    h1 {
+        font-size: 65px;
+        background: linear-gradient(90deg, #11001cff, #561f37ff, #39a2aeff, #55dbcbff, #75e4b3ff);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-repeat: no-repeat;
+        background-size: 80%;
+        animation: shine 10s linear infinite;
+    }
+
+    @keyframes shine {
+        0% {
+            background-position-x: -500%;
+        }
+
+        100% {
+            background-position-x: 500%;
+        }
+    }
+
+    button#sendupdatesBtn {
+        background: $dark;
+        border: none;
+        animation: pulse 20s infinite;
+        opacity: 0;
+            animation: fadeIn ease-in 1;
+            animation-fill-mode: forwards;
+            animation-duration: 1s;
+            animation-delay: 2.7s;
+    }
+
+    @keyframes pulse {
+        0% {
+            background-color: $primary;
+            background-position: 0% 82%
+        }
+
+        50% {
+            background-color: $dark;
+            background-position: 100% 19%
+        }
+
+        100% {
+            background-color: $primary;
+            background-position: 0% 82%
+        }
+    }
+
+}
+
+.modal-content {
+    background: $primary;
+    padding: 10px;
+
+    button.close {
+        background: $light;
+        border-radius: 50%;
+        border-style: hidden;
+
+    }
+
+    form {
+        text-align: left;
+        background: $primary;
+
+        input {
+            padding-left: 15px;
+            padding-right: 15px;
+            width: 38vw;
+        }
+    }
+}
+
+// Mobile Styles
+
+@media (max-width:768px) {
+    .SiteNav {
+        display: none;
+    }
+
+    #home {
+        width: 100vw;
+        height: 100vh;
+
+        header.site-title h1 {
+            font-size: 37px;
+        }
+        p#summary.lead {
+            font-size: 15px;
+        }
+        p#summary.lead a {
+            font-size: 15px;
+        }
+        p#quote.lead {
+            padding-top: 17px;
+            font-size: 15px;
+        }
+    }
+
+    h1#construction-page {
+        font-size: 40px;
+
+        
+    }
+    input#form-control {
+        padding-left: 5px;
+        padding-right: 5px;
+     width: 100vw;  
+    }
+}

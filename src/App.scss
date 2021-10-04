@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Damion&display=swap');
+
+$primary: rgba(57, 162, 174, 1);
+$secondary: rgba(86, 31, 55, 1);
+$dark: rgba(17, 0, 28, 1);
+$light: rgba(85, 219, 203, 1);
+$alternate: rgba(117, 228, 179, 1);
+$white: rgba(255, 255, 255, 1);
+$black: rgba(0, 0, 0, 1);
+
+$header: 'Abril Fatface',
+cursive;
+$body: 'Poppins',
+sans-serif;
+$bodyweight: 300;
+$cursive: 'Damion',
+cursive;
+
+body {
+    //display: flex;
+    text-align: center;
+    color: $white;
+    background: $dark;
+    // height: 100vh;
+    // width: 100vw;
+    text-align: center;
+    font-family: $body;
+    font-weight: $bodyweight;
+    // overflow: hidden;
+    // white-space: nowrap;
+}
+
+ul {
+    list-style: none;
+
+    a {
+        text-decoration: none;
+        color: $primary;
+    }
+}
+
+a {
+    text-decoration: none;
+}
+
+.SiteNav {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-end;
+    color: $light;
+    background: $black;
+}
+
+#home {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    width: 100vw;
+    height: 100vh;
+    background: $light;
+
+
+    .site-title {
+
+        h1 {
+            font-family: $header;
+            font-size: 75px;
+        }
+
+
+    }
+
+    .main {
+
+
+
+        #summary {
+            font-size: 34px;
+            opacity: 0;
+            animation: fadeIn ease-in 1;
+            animation-fill-mode: forwards;
+            animation-duration: 1s;
+            animation-delay: 1.2s;
+
+            #summary-info {
+                font-size: 19px;
+                font-style: italic;
+            }
+
+            a {
+                color: $primary;
+                font-size: 20px;
+            }
+        }
+
+        #quote {
+            font-family: $cursive;
+            font-size: 27px;
+            padding-top: 60px;
+            opacity: 0;
+            animation: fadeIn ease-in 1;
+            animation-fill-mode: forwards;
+            animation-duration: 1s;
+            animation-delay: 2.7s;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+    }
+}
+
+
+#maincontent {
+    height: 100vh;
+}
+
+
+#about {
+    height: 100vh;
+}
+
+
+#underconstruction {
+    text-align: center;
+    position: absolute;
+    top: 0;
+}
+
+
+/* font-family: 'Abril Fatface', cursive;
+font-family: 'Alegreya', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Overpass', sans-serif;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Quattrocento', serif;
+font-family: 'Questrial', sans-serif;
+font-family: 'Work Sans', sans-serif; */
+
+// /* CSS HEX */
+// --xiketic: #11001cff;
+// --old-mauve: #561f37ff;
+// --cadet-blue: #39a2aeff;
+// --turquoise: #55dbcbff;
+// --medium-aquamarine: #75e4b3ff;
+
+// /* CSS HSL */
+// --xiketic: hsla(276, 100%, 5%, 1);
+// --old-mauve: hsla(334, 47%, 23%, 1);
+// --cadet-blue: hsla(186, 51%, 45%, 1);
+// --turquoise: hsla(173, 65%, 60%, 1);
+// --medium-aquamarine: hsla(154, 67%, 68%, 1);
+
+// /* SCSS HEX */
+// $xiketic: #11001cff;
+// $old-mauve: #561f37ff;
+// $cadet-blue: #39a2aeff;
+// $turquoise: #55dbcbff;
+// $medium-aquamarine: #75e4b3ff;
+
+// /* SCSS HSL */
+// $xiketic: hsla(276, 100%, 5%, 1);
+// $old-mauve: hsla(334, 47%, 23%, 1);
+// $cadet-blue: hsla(186, 51%, 45%, 1);
+// $turquoise: hsla(173, 65%, 60%, 1);
+// $medium-aquamarine: hsla(154, 67%, 68%, 1);
+
+// /* SCSS RGB */
+// $xiketic: rgba(17, 0, 28, 1);
+// $old-mauve: rgba(86, 31, 55, 1);
+// $cadet-blue: rgba(57, 162, 174, 1);
+// $turquoise: rgba(85, 219, 203, 1);
+// $medium-aquamarine: rgba(117, 228, 179, 1);
+
+// /* SCSS Gradient */
+// $gradient-top: linear-gradient(0deg, #11001cff, #561f37ff, #39a2aeff, #55dbcbff, #75e4b3ff);
+// $gradient-right: linear-gradient(90deg, #11001cff, #561f37ff, #39a2aeff, #55dbcbff, #75e4b3ff);
+// $gradient-bottom: linear-gradient(180deg, #11001cff, #561f37ff, #39a2aeff, #55dbcbff, #75e4b3ff);
+// $gradient-left: linear-gradient(270deg, #11001cff, #561f37ff, #39a2aeff, #55dbcbff, #75e4b3ff);
+// $gradient-top-right: linear-gradient(45deg, #11001cff, #561f37ff, #39a2aeff, #55dbcbff, #75e4b3ff);
+// $gradient-bottom-right: linear-gradient(135deg, #11001cff, #561f37ff, #39a2aeff, #55dbcbff, #75e4b3ff);
+// $gradient-top-left: linear-gradient(225deg, #11001cff, #561f37ff, #39a2aeff, #55dbcbff, #75e4b3ff);
+// $gradient-bottom-left: linear-gradient(315deg, #11001cff, #561f37ff, #39a2aeff, #55dbcbff, #75e4b3ff);
+// $gradient-radial: radial-gradient(#11001cff, #561f37ff, #39a2aeff, #55dbcbff, #75e4b3ff);
