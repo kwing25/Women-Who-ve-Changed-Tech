@@ -5,7 +5,7 @@
         "known_for": "First Computer Programmer",
         "Bio": {
             "Summary": "The daughter of famed poet Lord Byron, Augusta Ada Byron, Countess of Lovelace — better known as \"Ada Lovelace\" — showed her gift for mathematics at an early age. She translated an article on an invention by Charles Babbage, and added her own comments. Because she introduced many computer concepts, Lovelace is considered the first computer program",
-            "Orgin": "London, England",
+            "Origin": "London, England",
             "DOB": "10 December 1815",
             "DOD": "27 November 1852"
         },
@@ -40,7 +40,7 @@
         "known_for": "Computer Scientist and Naval Officer",
         "Bio": {
             "Summary": "Grace Hopper joined the U.S. Navy during World War II and was assigned to program the Mark I computer. She continued to work in computing after the war, leading the team that created the first computer language compiler, which led to the popular COBOL language. She resumed active naval service at the age of 60, becoming a rear admiral before retiring in 1986.",
-            "Orgin": "New York, United States",
+            "Origin": "New York, United States",
             "DOB": "6 December 1906",
             "DOD": "1 January 1992"
         },
@@ -74,7 +74,7 @@
         "known_for": "Inventor of WiFi",
         "Bio": {
             "Summary": "Hedy was a self-taught inventor and film actress, who was awarded a patent in 1942 for her secret communication system, designed with the help of the composer George Antheil. This frequency hopping system was intended as a way to set radio-guided torpedos off course during the war, but the idea eventually inspired Wi-Fi, GPS and Bluetooth technology commonly used today.",
-            "Orgin": "Vienna, Austria-Hungary",
+            "Origin": "Vienna, Austria-Hungary",
             "DOB": "9 November 1914",
             "DOD": "19 January 2000"
         },
