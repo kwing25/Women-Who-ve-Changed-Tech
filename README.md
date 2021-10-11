@@ -18,7 +18,8 @@
 
 <div align="center">
 
-  [![Status](https://img.shields.io/badge/status-active-success.svg)](https://women-who-changed-tech.netlify.app/) 
+![Website](https://img.shields.io/website?down_color=red&up_color=green&url=https%3A%2F%2Fwomen-who-changed-tech.netlify.app%2F)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://women-who-changed-tech.netlify.app/) 
 ![GitHub issues](https://img.shields.io/github/issues/kwing25/Women-Who-ve-Changed-Tech?style=flat)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/kwing25/Women-Who-ve-Changed-Tech?style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/kwing25/Women-Who-ve-Changed-Tech)
@@ -86,8 +87,6 @@ This project uses various Frameworks, Libraries, and other tech.
 Contributions help this project to grow and document the histories of Tech & STEM Female Pioneers. Any contributions you make are **greatly appreciated**! 🤝 <br><br>
 If you have a suggestion that would make this project better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! ⭐️
 
-
-
 ### **General Contributions**
   1. Fork the Project 
   2. Clone the repo 
@@ -111,22 +110,21 @@ git push origin branch-name
 > ⚠️ Note: 
   Please look at [open issues](https://github.com/kwing25/Women-Who-ve-Changed-Tech/issues) & include all contribution details when submitting a Pull Request. Thanks!
 
+
+
   <p align="right"><a href="#top">↑</a></p>
 
 ### Add a Tech Pioneer to the Project API
 
 ☞ See [Tech Pioneer Contribution](#) for more info
 
+***Go to [CONTRIBUTING.md](/CONTRIBUTING)***
 <!-- > *JSON Data Screenshot-*
 
 <img src="https://raw.githubusercontent.com/kwing25/Women-Who-ve-Changed-Tech/main/src/assets/techpeoplelistjson.png" width="500px" height="340px"> -->
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-#### Demo
-<img src="https://raw.githubusercontent.com/kwing25/Women-Who-ve-Changed-Tech/main/src/assets/homepagescreenshot.png" width="500px" height="350px"> 
-<img src="https://raw.githubusercontent.com/kwing25/Women-Who-ve-Changed-Tech/main/src/assets/techpioneercarddemopic.png" width="220px" height="380px">
 
 To Clone:  (```git clone https://github.com/your_username/Women-Who-ve-Changed-Tech.git```)
 
@@ -151,14 +149,13 @@ See `LICENSE.md` for more information.
 
 <!-- CONTACT -->
 ## Contact
-Kendra Wing 
+
 [![GitHub ](https://img.shields.io/badge/GitHub-@kwing25-85e2cd?style=flat&logo=GitHub&link=https://github.com/kwing25)](https://github.com/kwing25)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/kendrawing/)](https://www.linkedin.com/in/kendrawing/)
 
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-gray?style=for-the-badge&logo=GitHub&link=https://github.com/kwing25/Women-Who-ve-Changed-Tech)](https://github.com/kwing25/Women-Who-ve-Changed-Tech)
+<!-- [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-gray?style=flat&logo=GitHub&link=https://github.com/kwing25/Women-Who-ve-Changed-Tech)](https://github.com/kwing25/Women-Who-ve-Changed-Tech) -->
 
-[Live Site](https://women-who-changed-tech.netlify.app/)
 <p align="right"><a href="#top">↑</a></p>
 
 <!-- ACKNOWLEDGMENTS -->
@@ -173,6 +170,7 @@ This project has been made with many resources and contributors. Thank you for a
 * [Editor.md](https://pandao.github.io/editor.md/en.html) 
 * [Awesome Open Source](https://awesomeopensource.com/)
 * [Amazing Github Template](https://github.com/dec0dOS/amazing-github-template)
+* [Documentation Compendium](https://github.com/kylelobo/The-Documentation-Compendium)
 
 <p align="right"><a href="#top">↑</a></p>
 
