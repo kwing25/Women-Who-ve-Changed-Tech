@@ -68,4 +68,39 @@
         "image_path": "https://cdn.britannica.com/00/149300-050-DC398492/Grace-Murray-Hopper-Bureau-of-Ordnance-Computation-1946.jpg",
         "image_width": "150"
     }
+
+    {
+        "id": "3",
+        "name": "Hedy Lamarr",
+        "known_for": "Inventor of WiFi",
+        "Bio": {
+            "Summary": "Hedy was a self-taught inventor and film actress, who was awarded a patent in 1942 for her secret communication system, designed with the help of the composer George Antheil. This frequency hopping system was intended as a way to set radio-guided torpedos off course during the war, but the idea eventually inspired Wi-Fi, GPS and Bluetooth technology commonly used today.",
+            "Orgin": "Vienna, Austria-Hungary",
+            "DOB": "9 November 1914",
+            "DOD": "19 January 2000"
+        },
+        "Fields": [
+            {
+                "Mathematics": null
+            },
+            {
+                "Computing": [
+                    "Wireless Communication"
+                ]
+            }
+        ],
+        "Legacy": "Hedy was awarded U.S. Patent No. 2,292,387 in August of 1942. The Electronic Frontier Foundation jointly awarded Lamarr and Antheil with their Pioneer Award in 1997. Lamarr also became the first woman to receive the Invention Convention’s Bulbie Gnass Spirit of Achievement Award. Lamarr was inducted posthumously into the National Inventors Hall of Fame for the development of her frequency hopping technology in 2014.",
+        "Tags": [
+            "WiFi",
+            "Communication",
+            "Tech Pioneer",
+            "Women in Tech",
+            "GPS",
+            "Bluetooth"
+        ],
+        "url": "https://www.britannica.com/biography/Hedy-Lamarr",
+        "media": "https://www.britannica.com/biography/Hedy-Lamarr/images-videos",
+        "image_path": "https://cdn.britannica.com/96/133096-050-34226B5F/Hedy-Lamarr.jpg",
+        "image_width": "150"
+    }
 ]
