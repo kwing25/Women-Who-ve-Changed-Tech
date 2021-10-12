@@ -25,8 +25,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/kwing25/Women-Who-ve-Changed-Tech)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-
-
 </div>
 
 
@@ -59,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A list of Female Tech Pioneers API & Website using the Framework React.js. The goal of this Project is to document and share the histories of Women in Tech & STEM Roles. Everyone is welcome to share and participate in this project. 
+A list of Female Tech Pioneers API & Website using the Framework React.js. The goal of this Project is to document and share the histories of Women in Tech & STEM Roles. Everyone is welcome to share and participate in this project. See [Code of Conduct]
 
 
 <p align="right"><a href="#top">↑</a></p>
@@ -119,9 +117,6 @@ git push origin branch-name
 ☞ See [Tech Pioneer Contribution](#) for more info
 
 ***Go to [CONTRIBUTING.md](/CONTRIBUTING)***
-<!-- > *JSON Data Screenshot-*
-
-<img src="https://raw.githubusercontent.com/kwing25/Women-Who-ve-Changed-Tech/main/src/assets/techpeoplelistjson.png" width="500px" height="340px"> -->
 
 <!-- USAGE EXAMPLES -->
 ## Usage
