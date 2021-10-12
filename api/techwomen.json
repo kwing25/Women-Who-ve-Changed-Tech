@@ -171,3 +171,38 @@
         "image_width": "150"
     }
 ]
+   {
+        "id": "6",
+        "name": "Mary Kenneth Keller",
+        "known_for": "The first woman to receive a PH. D in Computer Science ",
+        "Bio": {
+            "Summary": "Keller was born in 1913 and worked as an American Roman Catholic Sister. In 1958, she joined the National Science Foundation workshop at Dartmouth College in the Computer Science department which was an all male school. At that time, she teamed up with two scientists to develop the BASIC programming language. In 165, Keller went on to earn het PH. D in Computer Science at the University of Michigan. Using this knowledge, she developed a CompSci department at an all female catholic college named Clarke College. She chaired the department for over 20 years where she continued to encourage women to enter STEM fields of study and even encouraged young mothers to bring their babies to class with them. She is the first women to ever receive a PH.D in Computer Science",
+            "Orgin": "Cleveland, Ohio, U.S",
+            "DOB": "17 December 1913",
+            "DOD": "January 10 1985"
+        },
+        "Fields": [
+            {
+                "Mathematics": null
+            },
+            {
+                "Computing": [
+                    "True"
+                   
+                ]
+            }
+        ],
+        "Legacy": "Being the first to earn a PH. D in Computer Science, Clarke College have since established the Mary Keller Computer Science Scholarship to honour her achievements.",
+        "Tags": [
+            "Mary Kenneth Keller",
+            "First PH. D",
+            "STEM Pioneer",
+            "Women in Tech",
+            "Scholarship"
+        ],
+        "url": "https://www.cs.wisc.edu/2019/03/18/2759/",
+        "media": "https://www.cs.wisc.edu/2019/03/18/2759/",
+        "image_path": "https://dou0x1vlhajjl.cloudfront.net/wp-content/uploads/sites/871/2019/03/Sister-Mary-Kenneth-Keller-cropped-300x173.png",
+        "image_width": "150"
+    }
+]
