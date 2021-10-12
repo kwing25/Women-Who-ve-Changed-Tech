@@ -101,5 +101,39 @@
         "media": "https://www.britannica.com/biography/Hedy-Lamarr/images-videos",
         "image_path": "https://cdn.britannica.com/96/133096-050-34226B5F/Hedy-Lamarr.jpg",
         "image_width": "150"
+    },
+    {
+      "id": "4",
+      "name": "Katherine Johnson",
+      "known_for": "Early NASA Pioneer",
+        "Bio": {
+            "Summary": "West Virigina born mathematician Katherine Johnson, began her career working at the National Advisory Committee for Aeronautics (NACA)’s West Area Computing unit, a group of African American women who manually performed complex mathematical calculations for the program’s engineers. There she analyzed test data and provided mathematical computations that were essential to the success of the early U.S. space program. Johnson, also known as \"Katherine Coleman\", would continue her work at NASA where she calculated and analyzed the flight paths of many spacecraft during her more than 30 years working with the U.S. space program, including the Apollo 11 mission of 1969 helped send astronauts to the Moon.",
+            "Origin": "West Virigina, United States",
+            "DOB": "26 August 1918",
+            "DOD": "24 February 2020"
+        },
+        "Fields": [
+            {
+                "Mathematics": true
+            },
+            {
+                "Computing": [
+                    "Algorithims",
+                    "Data Analysis"
+                ]
+            }
+        ],
+        "Legacy": "Johnson has been widely recognized for her achievements through a series of awards, including but not limited to, the 1967 NASA Lunar Orbiter Spacecraft and Operations team award, and the National Technical Association’s designation as its 1997 Mathematician of the Year. Additionally, she earned honorary degrees from SUNY Farmingdale, Maryland's Capitol College, Virginia's Old Dominion University and West Virginia University. She also went on to receive the Presidential Medal of Freedom in 2015.",
+        "Tags": [
+          "Aerospace",
+          "Women in Tech",
+          "NASA",
+          "Human computer",
+          "Hidden Figures"
+        ],
+        "url": "https://www.britannica.com/biography/Katherine-Johnson-mathematician",
+        "media": "https://www.britannica.com/biography/Katherine-Johnson-mathematician/images-videos",
+        "image_path": "https://cdn.britannica.com/74/194174-050-7D2254A4/Katherine-Johnson-1966.jpg",
+        "image_width": ""
     }
 ]
