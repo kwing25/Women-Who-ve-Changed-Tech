@@ -135,5 +135,39 @@
         "media": "https://www.britannica.com/biography/Katherine-Johnson-mathematician/images-videos",
         "image_path": "https://cdn.britannica.com/74/194174-050-7D2254A4/Katherine-Johnson-1966.jpg",
         "image_width": ""
+    },
+    {
+        "id": "5",
+        "name": "Barbara McClintock",
+        "known_for": "Discovering genetic transposition (jumping genes) ",
+        "Bio": {
+            "Summary": "She was an American scientist and cytogeneticist who was awarded the 1983 Nobel Prize in Physiology or Medicine. McClintock received her PhD in botany from Cornell University in 1927. There she started her career as the leader in the development of maize cytogenetics, the focus of her research for the rest of her life. From the late 1920s, McClintock studied chromosomes and how they change during reproduction in maize. She developed the technique for visualizing Maize chromosomes and used microscopic analysis to demonstrate many fundamental genetic ideas.",
+            "Orgin": "Hartford, Connecticut, U.S",
+            "DOB": "16 June 1902",
+            "DOD": "2 September 1992"
+        },
+        "Fields": [
+            {
+                "Mathematics": null
+            },
+            {
+                "Computing": [
+                    "null"
+                   
+                ]
+            }
+        ],
+        "Legacy": "She received the Nobel Prize for Physiology or Medicine in 1983, the first woman to win that prize unshared and the first American woman to win any unshared Nobel Prize. It was given to her by the Nobel Foundation for discovering mobile genetic elements. ",
+        "Tags": [
+            "Barbara McClintock",
+            "jumping genes",
+            "STEM Pioneer",
+            "Women in Medicine",
+            "Noble Prize Winner"
+        ],
+        "url": "https://www.britannica.com/biography/Barbara-McClintock",
+        "media": "https://www.britannica.com/biography/Barbara-McClintock/images-videos",
+        "image_path": "https://cdn.britannica.com/19/151119-050-6AAFA850/Barbara-McClintock-laboratory-Cold-Spring-Harbor-New-March-26-1947.jpg",
+        "image_width": "150"
     }
 ]
