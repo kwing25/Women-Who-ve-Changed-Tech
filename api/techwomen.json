@@ -4,7 +4,7 @@
         "name": "Ada Lovelace",
         "known_for": "First Computer Programmer",
         "Bio": {
-            "Summary": "The daughter of famed poet Lord Byron, Augusta Ada Byron, Countess of Lovelace — better known as \"Ada Lovelace\" — showed her gift for mathematics at an early age. She translated an article on an invention by Charles Babbage, and added her own comments. Because she introduced many computer concepts, Lovelace is considered the first computer program",
+            "Summary": "The daughter of famed poet Lord Byron, Augusta Ada Byron, Countess of Lovelace — better known as \"Ada Lovelace\" — showed her gift for mathematics at an early age. She translated an article on an invention by Charles Babbage, and added her own comments. Because she introduced many computer concepts, Lovelace is considered the first computer programmer",
             "Origin": "London, England",
             "DOB": "10 December 1815",
             "DOD": "27 November 1852"
@@ -16,7 +16,7 @@
             {
                 "Computing": [
                     "Programming",
-                    "Algorithims"
+                    "Algorithms"
                 ]
             }
         ],
@@ -54,7 +54,7 @@
                 ]
             }
         ],
-        "Legacy": "She was awarded the National Medal of Technology in 1991—becoming the first female individual recipient of the honor. In addition to her programming accomplishments, Hopper's legacy includes encouraging young people to learn how to program. The Grace Hopper Celebration of Women In Computing Conference is a technical conference that encourages women to become part of the world of computing, while the Association for Computing Machinery offers a Grace Murray Hopper Award. Awareded the Presidential Medal of Freedom posthumously in 2016.",
+        "Legacy": "Hopper was awarded the National Medal of Technology in 1991, becoming the first female individual recipient of the honor. In addition to her programming accomplishments, Hopper's legacy includes encouraging young people to learn how to program. The Grace Hopper Celebration of Women In Computing Conference is a technical conference that encourages women to become part of the world of computing, while the Association for Computing Machinery offers a Grace Murray Hopper Award. Hopper was awarded the Presidential Medal of Freedom posthumously in 2016.",
         "Tags": [
             "COBOL",
             "UNIVAC I",
@@ -73,7 +73,7 @@
         "name": "Hedy Lamarr",
         "known_for": "Inventor of WiFi",
         "Bio": {
-            "Summary": "Hedy was a self-taught inventor and film actress, who was awarded a patent in 1942 for her secret communication system, designed with the help of the composer George Antheil. This frequency hopping system was intended as a way to set radio-guided torpedos off course during the war, but the idea eventually inspired Wi-Fi, GPS and Bluetooth technology commonly used today.",
+            "Summary": "Lamarr was a self-taught inventor and film actress, who was awarded a patent in 1942 for her secret communication system, designed with the help of the composer George Antheil. This frequency hopping system was intended as a way to set radio-guided torpedos off course during the war, but the idea eventually inspired Wi-Fi, GPS and Bluetooth technology commonly used today.",
             "Origin": "Vienna, Austria-Hungary",
             "DOB": "9 November 1914",
             "DOD": "19 January 2000"
@@ -88,7 +88,7 @@
                 ]
             }
         ],
-        "Legacy": "Hedy was awarded U.S. Patent No. 2,292,387 in August of 1942. The Electronic Frontier Foundation jointly awarded Lamarr and Antheil with their Pioneer Award in 1997. Lamarr also became the first woman to receive the Invention Convention’s Bulbie Gnass Spirit of Achievement Award. Lamarr was inducted posthumously into the National Inventors Hall of Fame for the development of her frequency hopping technology in 2014.",
+        "Legacy": "Lamarr was awarded U.S. Patent No. 2,292,387 in August of 1942. The Electronic Frontier Foundation jointly awarded Lamarr and Antheil with their Pioneer Award in 1997. Lamarr also became the first woman to receive the Invention Convention’s Bulbie Gnass Spirit of Achievement Award. Lamarr was inducted posthumously into the National Inventors Hall of Fame for the development of her frequency hopping technology in 2014.",
         "Tags": [
             "WiFi",
             "Communication",
@@ -107,8 +107,8 @@
       "name": "Katherine Johnson",
       "known_for": "Early NASA Pioneer",
         "Bio": {
-            "Summary": "West Virigina born mathematician Katherine Johnson, began her career working at the National Advisory Committee for Aeronautics (NACA)’s West Area Computing unit, a group of African American women who manually performed complex mathematical calculations for the program’s engineers. There she analyzed test data and provided mathematical computations that were essential to the success of the early U.S. space program. Johnson, also known as \"Katherine Coleman\", would continue her work at NASA where she calculated and analyzed the flight paths of many spacecraft during her more than 30 years working with the U.S. space program, including the Apollo 11 mission of 1969 helped send astronauts to the Moon.",
-            "Origin": "West Virigina, United States",
+            "Summary": "West Virgina born mathematician Katherine Johnson, began her career working at the National Advisory Committee for Aeronautics (NACA)’s West Area Computing unit, a group of African American women who manually performed complex mathematical calculations for the program’s engineers. She analyzed test data and provided mathematical computations that were essential to the success of the early U.S. space program. Johnson, also known as \"Katherine Coleman\", would continue her work at NASA where she calculated and analyzed the flight paths of many spacecraft during her more than 30 years working with the U.S. space program, including the Apollo 11 mission of 1969, that helped send astronauts to the Moon.",
+            "Origin": "West Virgina, United States",
             "DOB": "26 August 1918",
             "DOD": "24 February 2020"
         },
@@ -118,7 +118,7 @@
             },
             {
                 "Computing": [
-                    "Algorithims",
+                    "Algorithms",
                     "Data Analysis"
                 ]
             }
@@ -141,7 +141,7 @@
         "name": "Barbara McClintock",
         "known_for": "Discovering genetic transposition (jumping genes) ",
         "Bio": {
-            "Summary": "She was an American scientist and cytogeneticist who was awarded the 1983 Nobel Prize in Physiology or Medicine. McClintock received her PhD in botany from Cornell University in 1927. There she started her career as the leader in the development of maize cytogenetics, the focus of her research for the rest of her life. From the late 1920s, McClintock studied chromosomes and how they change during reproduction in maize. She developed the technique for visualizing Maize chromosomes and used microscopic analysis to demonstrate many fundamental genetic ideas.",
+            "Summary": "McClintock was an American scientist and cytogeneticist who was awarded the 1983 Nobel Prize in Physiology or Medicine. McClintock received her PhD in botany from Cornell University in 1927. There she started her career as the leader in the development of maize cytogenetics, the focus of her research for the rest of her life. From the late 1920s, McClintock studied chromosomes and how they change during reproduction in maize. She developed the technique for visualizing Maize chromosomes and used microscopic analysis to demonstrate many fundamental genetic ideas.",
             "Orgin": "Hartford, Connecticut, U.S",
             "DOB": "16 June 1902",
             "DOD": "2 September 1992"
@@ -157,7 +157,7 @@
                 ]
             }
         ],
-        "Legacy": "She received the Nobel Prize for Physiology or Medicine in 1983, the first woman to win that prize unshared and the first American woman to win any unshared Nobel Prize. It was given to her by the Nobel Foundation for discovering mobile genetic elements. ",
+        "Legacy": "McClintock received the Nobel Prize for Physiology or Medicine in 1983, the first woman to win that prize unshared and the first American woman to win any unshared Nobel Prize. It was given to her by the Nobel Foundation for discovering mobile genetic elements. ",
         "Tags": [
             "Barbara McClintock",
             "jumping genes",
