@@ -169,5 +169,41 @@
         "media": "https://www.britannica.com/biography/Barbara-McClintock/images-videos",
         "image_path": "https://cdn.britannica.com/19/151119-050-6AAFA850/Barbara-McClintock-laboratory-Cold-Spring-Harbor-New-March-26-1947.jpg",
         "image_width": "150"
+    },
+    {
+        "id": "6",
+        "name": "Elizebeth Smith Friedman",
+        "known_for": "America's first female cryptanalyst",
+        "Bio": {
+            "Summary": "Armed with a sharp mind and nerves of steel, Elizebeth Smith Friedman cracked hundreds of ciphers during her career as America’s first female cryptanalyst, successfully busting smugglers during Prohibition and, most notably, breaking up a Nazi spy ring across South America during the 1940s.",
+            "Origin": "Huntington, Indiana, U.S",
+            "DOB": "August 26 1892",
+            "DOD": "October 31 1980"
+        },
+        "Fields": [
+            {
+                "Mathematics": null
+            },
+            {
+                "Computing": [
+                    "Cryptanalysis",
+                    "Cryptography",
+                    "Algorithms"
+                ]
+            }
+        ],
+        "Legacy": "Elizebeth Smith Friedman’s wartime codebreaking work was so secret that she was forbidden to mention it in public. She died many years before government archives were brought to light showing what she had done. During and after World War 2, J. Edgar Hoover and the FBI took the credit for work Elizebeth and her U.S. Coast Guard team had carried out.",
+        "Tags": [
+            "Elizebeth Smith Friedman",
+            "First Female Cryptanalyst",
+            "American Expert and Author",
+            "Women in Tech",
+            "Cryptography",
+            "Codebreaker"
+        ],
+        "url": "https://www.famousscientists.org/elizebeth-smith-friedman/",
+        "media": "https://time.com/5928583/elizebeth-friedman-codebreaker/?jwsource=cl",
+        "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Elizebeth-Friedman.jpg/450px-Elizebeth-Friedman.jpg",
+        "image_width": "150"
     }
 ]
