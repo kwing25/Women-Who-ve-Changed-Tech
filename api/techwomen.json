@@ -169,5 +169,41 @@
         "media": "https://www.britannica.com/biography/Barbara-McClintock/images-videos",
         "image_path": "https://cdn.britannica.com/19/151119-050-6AAFA850/Barbara-McClintock-laboratory-Cold-Spring-Harbor-New-March-26-1947.jpg",
         "image_width": "150"
+    },
+    {
+      "id": "8",
+      "name": "Maria Klawe",
+      "known_for": "Computer scientist and fifth president of Harvey Mudd College",
+      "Bio": {
+        "Summary": "Toronto born naturalised American citizen Klawe holds PhDs in Mathematics and Computer Science. She worked as a researcher for IBM and became the manager of their Mathematics and Related Computer Science Department. Klawe moved to the University of British Colombia and served as head of the Department of Computer Science (1988-1995), vice president of student and academic services (1995-1998), and dean of science (1998-2002). She was on the board of directors of Microsoft from 2009-2015. Klawe is a strong advocate for increasing the representation of women in STEM fields. In 1991, she founded CRA-W (The Computing Research Association's Committee on the Status of Women in Computing Research) with Nancy Leveson.",
+        "Origin": "Toronto, Ontario, Canada",
+        "DOB": "1951",
+        "DOD": ""
+      },
+      "Fields": [
+        {
+          "Mathematics": true
+      },
+      {
+          "Computing": [
+              "Computer Science",
+              "Algorithms for Geometry"
+          ]
+      }
+      ],
+      "Legacy": "Klawe is a fellow of the Association for Computing Machinery, the American Academy of Arts and Sciences, the American Mathematical Society, and the Association for Women in Mathematics. She is a founding fellow of the Canadian Information Processing Society. Klawe holds honorary doctorates from Ryerson Polytechnic University, University of Waterloo, Queen's University, Dalhousie University, Acadia University, University of Alberta, University of Ottawa, University of British Columbia, University of Toronto, Concordia University and McGill University.",
+      "Tags": [
+        "Maria Klawe",
+        "Harvey Mudd College",
+        "Women in Computer Science",
+        "Anita Borg Institute",
+        "Aphasia Project",
+        "Association for Computing Machinery",
+        "A. Nico Habermann award"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Maria_Klawe",
+      "media": "",
+      "image_path": "https://en.wikipedia.org/wiki/Maria_Klawe#/media/File:Maria_Klawe_2015.jpg",
+      "image_width": ""
     }
 ]
