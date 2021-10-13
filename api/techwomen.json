@@ -169,5 +169,35 @@
         "media": "https://www.britannica.com/biography/Barbara-McClintock/images-videos",
         "image_path": "https://cdn.britannica.com/19/151119-050-6AAFA850/Barbara-McClintock-laboratory-Cold-Spring-Harbor-New-March-26-1947.jpg",
         "image_width": "150"
+    },
+    {
+        "id" : "6",
+        "name": "Marie Curie",
+        "known_for": "Work on radioactivity",
+        "Bio": {
+            "Summary": "From childhood she was remarkable for her prodigious memory, and at the age of 16 she won a gold medal on completion of her secondary education at the Russian lycée. Because her father, a teacher of mathematics and physics, lost his savings through bad investment, she had to take work as a teacher and, at the same time, took part clandestinely in the nationalist “free university,” reading in Polish to women workers. At the age of 18 she took a post as governess, where she suffered an unhappy love affair. From her earnings she was able to finance her sister Bronisława’s medical studies in Paris, with the understanding that Bronisława would in turn later help her to get an education.",
+            "Orgin": "Loch Arbour, New Jersey",
+            "DOB": "7 November 1867",
+            "DOD": "4 July 1934"
+        },
+        "Fields": [
+            {
+                "Physics": [
+                    "Radioactivity",
+                    "Radium"
+                ]
+            }
+        ],
+        "Legacy": "She was a famous for her work on radioactivity and twice a winner of the Nobel Prize. With Henri Becquerel and her husband, Pierre Curie, she was awarded the 1903 Nobel Prize for Physics. She was the sole winner of the 1911 Nobel Prize for Chemistry. She was the first woman to win a Nobel Prize, and she is the only woman to win the award in two different fields.",
+        "Tags": [
+            "Physics Pioneer",
+            "Women in Tech",
+            "Nobel Prize Winner",
+            "Radioactivity"
+        ],
+        "url": "https://www.britannica.com/biography/Marie-Curie",
+        "media": "https://www.britannica.com/biography/Marie-Curie/images-videos",
+        "image_path": "https://cdn.britannica.com/12/12512-004-80322EC3/Marie-Curie.jpg",
+        "image_width": "150"
     }
 ]
