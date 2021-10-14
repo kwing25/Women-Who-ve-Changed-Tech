@@ -337,5 +337,40 @@
         "media": "https://www.britannica.com/biography/Susan-Wojcicki/images-videos",
         "image_path": "https://cdn.britannica.com/40/193940-050-5446F640/Susan-Wojcicki-2014.jpg",
         "image_width": "150"
+    },
+    {
+      "id": "11",
+      "name": "Rosalind Franklin",
+      "known_for": "Discovered the molecular structure of DNA",
+      "Bio": {
+        "Summary": "Franklin was a British scientist best known for her contributions to the discovery of the molecular structure of deoxyribonucleic acid (DNA), a constituent of chromosomes that serves to encode genetic information. Her work to make clearer X-ray patterns of DNA molecules laid the foundation for studies on the structure of DNA as a double-helix polymer. Franklin discovered the B type DNA, establishing that DNA molecules can exist in more than one form. She also contributed new insight on the structure of viruses, helping to lay the foundation for the field of structural virology.",
+        "Origin": "London, England",
+        "DOB": "25 July 1920",
+        "DOD": "16 April 1958"
+      },
+      "Fields": [
+        {
+          "Physical Chemistry": true
+        },
+        {
+          " X-ray diffraction technology": true
+        },
+        {
+          "Virology": true
+        }
+      ],
+      "Legacy": "Franklin received a doctorate in Physical Chemistry from Cambridge University. She was a Research Fellow at King's College. Franklin published 17 papers on viruses, and laid the foundations for structural virology. Her X-ray diffraction research of DNA became critical evidence in identifying the structure of DNA. Two scientists, Crick and Watson, took most of the credit for the finding. They used it as the basis for their famous model of DNA, for which they received a Nobel Prize in 1962.",
+      "Tags": [
+        "Rosalind Franklin",
+        "DNA structure",
+        "B type DNA",
+        "Double-helix polymer",
+        "X-ray diffraction",
+        "Structural virology"
+      ],
+      "url": "https://www.britannica.com/biography/Rosalind-Franklin",
+      "media": "https://www.britannica.com/biography/Rosalind-Franklin/images-videos",
+      "image_path":"https://cdn.britannica.com/30/99730-050-E68F62FF/Rosalind-Franklin.jpg",
+      "image_width": "150"
     }
 ]
