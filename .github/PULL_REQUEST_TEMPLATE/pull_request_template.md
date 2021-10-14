@@ -1,19 +1,23 @@
-***🚨 Please review the [guidelines for contributing](./CONTRIBUTING.md) to this repository.***
-
+## ✍️ **Title:**
+***⚠️(Required)***
 <!--- Provide a general summary of your changes in the Title above -->
-## ✍️ Description:
+
+---
+## 📝 Description:
+***⚠️(Required)***
 <!--- Describe your changes in detail -->
 
-#### Screenshots *(if applicable)*:
+##### ~Screenshots *(if applicable)*:
 
 ---
 ## 🤔 Reason for PR & what it fixes/accomplishes: 
+***⚠️(Required)***
 <!--- Why is this change required? What problem does it solve? -->
 <!--- If it fixes an open issue, please link to the issue here. -->
 Fixes Issue #
 
 ---
-### 🧮 How Has This Been Tested? *(if applicable)*: 
+## 🧮 How Has This Been Tested? *(if applicable)*: 
 <!--- Please describe in detail how you tested your changes. -->
 <!--- Include details of your testing environment, and the tests you ran to -->
 <!--- see how your change affects other areas of the code, etc. -->
