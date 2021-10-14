@@ -1,410 +1,445 @@
 [
-    {
-        "id": "1",
-        "name": "Ada Lovelace",
-        "known_for": "First Computer Programmer",
-        "Bio": {
-            "Summary": "The daughter of famed poet Lord Byron, Augusta Ada Byron, Countess of Lovelace — better known as \"Ada Lovelace\" — showed her gift for mathematics at an early age. She translated an article on an invention by Charles Babbage, and added her own comments. Because she introduced many computer concepts, Lovelace is considered the first computer programmer",
-            "Origin": "London, England",
-            "DOB": "10 December 1815",
-            "DOD": "27 November 1852"
-        },
-        "Fields": [
-            {
-                "Mathematics": null
-            },
-            {
-                "Computing": [
-                    "Programming",
-                    "Algorithms"
-                ]
-            }
-        ],
-        "Legacy": "Lovelace's contributions to the field of computer science were not discovered until the 1950s. Her notes were reintroduced to the world by B.V. Bowden, who republished them in 'Faster Than Thought - A Symposium on Digital Computing Machines'. Since then, Ada has received many posthumous honors for her work.",
-        "Tags": [
-            "Ada Lovelace Day",
-            "History of Computing",
-            "Tech Pioneer",
-            "Women in Tech",
-            "Analytical Engine",
-            "Computer Programming"
-        ],
-        "url": "https://www.britannica.com/biography/Ada-Lovelace",
-        "media": "https://www.britannica.com/biography/Ada-Lovelace/images-videos",
-        "image_path": "https://cdn.britannica.com/22/23622-050-E60DC899/Ada-King-countess-Lovelace-Alfred-Edward-Chalon-circa-1838.jpg",
-        "image_width": "150"
+  {
+    "id": "1",
+    "name": "Ada Lovelace",
+    "known_for": "First Computer Programmer",
+    "Bio": {
+      "Summary": "The daughter of famed poet Lord Byron, Augusta Ada Byron, Countess of Lovelace — better known as \"Ada Lovelace\" — showed her gift for mathematics at an early age. She translated an article on an invention by Charles Babbage, and added her own comments. Because she introduced many computer concepts, Lovelace is considered the first computer programmer",
+      "Origin": "London, England",
+      "DOB": "10 December 1815",
+      "DOD": "27 November 1852"
     },
-    {
-        "id": "2",
-        "name": "Grace Hopper",
-        "known_for": "Computer Scientist and Naval Officer",
-        "Bio": {
-            "Summary": "Grace Hopper joined the U.S. Navy during World War II and was assigned to program the Mark I computer. She continued to work in computing after the war, leading the team that created the first computer language compiler, which led to the popular COBOL language. She resumed active naval service at the age of 60, becoming a rear admiral before retiring in 1986.",
-            "Origin": "New York, United States",
-            "DOB": "6 December 1906",
-            "DOD": "1 January 1992"
-        },
-        "Fields": [
-            {
-                "Mathematics": null
-            },
-            {
-                "Computing": [
-                    "Programming"
-                ]
-            }
-        ],
-        "Legacy": "Hopper was awarded the National Medal of Technology in 1991, becoming the first female individual recipient of the honor. In addition to her programming accomplishments, Hopper's legacy includes encouraging young people to learn how to program. The Grace Hopper Celebration of Women In Computing Conference is a technical conference that encourages women to become part of the world of computing, while the Association for Computing Machinery offers a Grace Murray Hopper Award. Hopper was awarded the Presidential Medal of Freedom posthumously in 2016.",
-        "Tags": [
-            "COBOL",
-            "UNIVAC I",
-            "History of Computing",
-            "Tech Pioneer",
-            "Women in Tech",
-            "Computer Programming"
-        ],
-        "url": "https://www.britannica.com/biography/Grace-Hopper",
-        "media": "https://www.britannica.com/biography/Grace-Hopper/images-videos",
-        "image_path": "https://cdn.britannica.com/00/149300-050-DC398492/Grace-Murray-Hopper-Bureau-of-Ordnance-Computation-1946.jpg",
-        "image_width": "150"
+    "Fields": [
+      {
+        "Mathematics": null
+      },
+      {
+        "Computing": [
+          "Programming",
+          "Algorithms"
+        ]
+      }
+    ],
+    "Legacy": "Lovelace's contributions to the field of computer science were not discovered until the 1950s. Her notes were reintroduced to the world by B.V. Bowden, who republished them in 'Faster Than Thought - A Symposium on Digital Computing Machines'. Since then, Ada has received many posthumous honors for her work.",
+    "Tags": [
+      "Ada Lovelace Day",
+      "History of Computing",
+      "Tech Pioneer",
+      "Women in Tech",
+      "Analytical Engine",
+      "Computer Programming"
+    ],
+    "url": "https://www.britannica.com/biography/Ada-Lovelace",
+    "media": "https://www.britannica.com/biography/Ada-Lovelace/images-videos",
+    "image_path": "https://cdn.britannica.com/22/23622-050-E60DC899/Ada-King-countess-Lovelace-Alfred-Edward-Chalon-circa-1838.jpg",
+    "image_width": "150"
+  },
+  {
+    "id": "2",
+    "name": "Grace Hopper",
+    "known_for": "Computer Scientist and Naval Officer",
+    "Bio": {
+      "Summary": "Grace Hopper joined the U.S. Navy during World War II and was assigned to program the Mark I computer. She continued to work in computing after the war, leading the team that created the first computer language compiler, which led to the popular COBOL language. She resumed active naval service at the age of 60, becoming a rear admiral before retiring in 1986.",
+      "Origin": "New York, United States",
+      "DOB": "6 December 1906",
+      "DOD": "1 January 1992"
     },
-    {
-        "id": "3",
-        "name": "Hedy Lamarr",
-        "known_for": "Inventor of WiFi",
-        "Bio": {
-            "Summary": "Lamarr was a self-taught inventor and film actress, who was awarded a patent in 1942 for her secret communication system, designed with the help of the composer George Antheil. This frequency hopping system was intended as a way to set radio-guided torpedos off course during the war, but the idea eventually inspired Wi-Fi, GPS and Bluetooth technology commonly used today.",
-            "Origin": "Vienna, Austria-Hungary",
-            "DOB": "9 November 1914",
-            "DOD": "19 January 2000"
-        },
-        "Fields": [
-            {
-                "Mathematics": null
-            },
-            {
-                "Computing": [
-                    "Wireless Communication"
-                ]
-            }
-        ],
-        "Legacy": "Lamarr was awarded U.S. Patent No. 2,292,387 in August of 1942. The Electronic Frontier Foundation jointly awarded Lamarr and Antheil with their Pioneer Award in 1997. Lamarr also became the first woman to receive the Invention Convention’s Bulbie Gnass Spirit of Achievement Award. Lamarr was inducted posthumously into the National Inventors Hall of Fame for the development of her frequency hopping technology in 2014.",
-        "Tags": [
-            "WiFi",
-            "Communication",
-            "Tech Pioneer",
-            "Women in Tech",
-            "GPS",
-            "Bluetooth"
-        ],
-        "url": "https://www.britannica.com/biography/Hedy-Lamarr",
-        "media": "https://www.britannica.com/biography/Hedy-Lamarr/images-videos",
-        "image_path": "https://cdn.britannica.com/96/133096-050-34226B5F/Hedy-Lamarr.jpg",
-        "image_width": "150"
+    "Fields": [
+      {
+        "Mathematics": null
+      },
+      {
+        "Computing": [
+          "Programming"
+        ]
+      }
+    ],
+    "Legacy": "Hopper was awarded the National Medal of Technology in 1991, becoming the first female individual recipient of the honor. In addition to her programming accomplishments, Hopper's legacy includes encouraging young people to learn how to program. The Grace Hopper Celebration of Women In Computing Conference is a technical conference that encourages women to become part of the world of computing, while the Association for Computing Machinery offers a Grace Murray Hopper Award. Hopper was awarded the Presidential Medal of Freedom posthumously in 2016.",
+    "Tags": [
+      "COBOL",
+      "UNIVAC I",
+      "History of Computing",
+      "Tech Pioneer",
+      "Women in Tech",
+      "Computer Programming"
+    ],
+    "url": "https://www.britannica.com/biography/Grace-Hopper",
+    "media": "https://www.britannica.com/biography/Grace-Hopper/images-videos",
+    "image_path": "https://cdn.britannica.com/00/149300-050-DC398492/Grace-Murray-Hopper-Bureau-of-Ordnance-Computation-1946.jpg",
+    "image_width": "150"
+  },
+  {
+    "id": "3",
+    "name": "Hedy Lamarr",
+    "known_for": "Inventor of WiFi",
+    "Bio": {
+      "Summary": "Lamarr was a self-taught inventor and film actress, who was awarded a patent in 1942 for her secret communication system, designed with the help of the composer George Antheil. This frequency hopping system was intended as a way to set radio-guided torpedos off course during the war, but the idea eventually inspired Wi-Fi, GPS and Bluetooth technology commonly used today.",
+      "Origin": "Vienna, Austria-Hungary",
+      "DOB": "9 November 1914",
+      "DOD": "19 January 2000"
     },
-    {
-        "id": "4",
-        "name": "Katherine Johnson",
-        "known_for": "Early NASA Pioneer",
-        "Bio": {
-            "Summary": "West Virgina born mathematician Katherine Johnson, began her career working at the National Advisory Committee for Aeronautics (NACA)’s West Area Computing unit, a group of African American women who manually performed complex mathematical calculations for the program’s engineers. She analyzed test data and provided mathematical computations that were essential to the success of the early U.S. space program. Johnson, also known as \"Katherine Coleman\", would continue her work at NASA where she calculated and analyzed the flight paths of many spacecraft during her more than 30 years working with the U.S. space program, including the Apollo 11 mission of 1969, that helped send astronauts to the Moon.",
-            "Origin": "West Virgina, United States",
-            "DOB": "26 August 1918",
-            "DOD": "24 February 2020"
-        },
-        "Fields": [
-            {
-                "Mathematics": true
-            },
-            {
-                "Computing": [
-                    "Algorithms",
-                    "Data Analysis"
-                ]
-            }
-        ],
-        "Legacy": "Johnson has been widely recognized for her achievements through a series of awards, including but not limited to, the 1967 NASA Lunar Orbiter Spacecraft and Operations team award, and the National Technical Association’s designation as its 1997 Mathematician of the Year. Additionally, she earned honorary degrees from SUNY Farmingdale, Maryland's Capitol College, Virginia's Old Dominion University and West Virginia University. She also went on to receive the Presidential Medal of Freedom in 2015.",
-        "Tags": [
-            "Aerospace",
-            "Women in Tech",
-            "NASA",
-            "Human computer",
-            "Hidden Figures"
-        ],
-        "url": "https://www.britannica.com/biography/Katherine-Johnson-mathematician",
-        "media": "https://www.britannica.com/biography/Katherine-Johnson-mathematician/images-videos",
-        "image_path": "https://cdn.britannica.com/74/194174-050-7D2254A4/Katherine-Johnson-1966.jpg",
-        "image_width": ""
+    "Fields": [
+      {
+        "Mathematics": null
+      },
+      {
+        "Computing": [
+          "Wireless Communication"
+        ]
+      }
+    ],
+    "Legacy": "Lamarr was awarded U.S. Patent No. 2,292,387 in August of 1942. The Electronic Frontier Foundation jointly awarded Lamarr and Antheil with their Pioneer Award in 1997. Lamarr also became the first woman to receive the Invention Convention’s Bulbie Gnass Spirit of Achievement Award. Lamarr was inducted posthumously into the National Inventors Hall of Fame for the development of her frequency hopping technology in 2014.",
+    "Tags": [
+      "WiFi",
+      "Communication",
+      "Tech Pioneer",
+      "Women in Tech",
+      "GPS",
+      "Bluetooth"
+    ],
+    "url": "https://www.britannica.com/biography/Hedy-Lamarr",
+    "media": "https://www.britannica.com/biography/Hedy-Lamarr/images-videos",
+    "image_path": "https://cdn.britannica.com/96/133096-050-34226B5F/Hedy-Lamarr.jpg",
+    "image_width": "150"
+  },
+  {
+    "id": "4",
+    "name": "Katherine Johnson",
+    "known_for": "Early NASA Pioneer",
+    "Bio": {
+      "Summary": "West Virgina born mathematician Katherine Johnson, began her career working at the National Advisory Committee for Aeronautics (NACA)’s West Area Computing unit, a group of African American women who manually performed complex mathematical calculations for the program’s engineers. She analyzed test data and provided mathematical computations that were essential to the success of the early U.S. space program. Johnson, also known as \"Katherine Coleman\", would continue her work at NASA where she calculated and analyzed the flight paths of many spacecraft during her more than 30 years working with the U.S. space program, including the Apollo 11 mission of 1969, that helped send astronauts to the Moon.",
+      "Origin": "West Virgina, United States",
+      "DOB": "26 August 1918",
+      "DOD": "24 February 2020"
     },
-    {
-        "id": "5",
-        "name": "Barbara McClintock",
-        "known_for": "Discovering genetic transposition (jumping genes) ",
-        "Bio": {
-            "Summary": "McClintock was an American scientist and cytogeneticist who was awarded the 1983 Nobel Prize in Physiology or Medicine. McClintock received her PhD in botany from Cornell University in 1927. There she started her career as the leader in the development of maize cytogenetics, the focus of her research for the rest of her life. From the late 1920s, McClintock studied chromosomes and how they change during reproduction in maize. She developed the technique for visualizing Maize chromosomes and used microscopic analysis to demonstrate many fundamental genetic ideas.",
-            "Orgin": "Hartford, Connecticut, U.S",
-            "DOB": "16 June 1902",
-            "DOD": "2 September 1992"
-        },
-        "Fields": [
-            {
-                "Mathematics": null
-            },
-            {
-                "Computing": [
-                    "null"
-                ]
-            }
-        ],
-        "Legacy": "McClintock received the Nobel Prize for Physiology or Medicine in 1983, the first woman to win that prize unshared and the first American woman to win any unshared Nobel Prize. It was given to her by the Nobel Foundation for discovering mobile genetic elements. ",
-        "Tags": [
-            "Barbara McClintock",
-            "jumping genes",
-            "STEM Pioneer",
-            "Women in Medicine",
-            "Noble Prize Winner"
-        ],
-        "url": "https://www.britannica.com/biography/Barbara-McClintock",
-        "media": "https://www.britannica.com/biography/Barbara-McClintock/images-videos",
-        "image_path": "https://cdn.britannica.com/19/151119-050-6AAFA850/Barbara-McClintock-laboratory-Cold-Spring-Harbor-New-March-26-1947.jpg",
-        "image_width": "150"
+    "Fields": [
+      {
+        "Mathematics": true
+      },
+      {
+        "Computing": [
+          "Algorithms",
+          "Data Analysis"
+        ]
+      }
+    ],
+    "Legacy": "Johnson has been widely recognized for her achievements through a series of awards, including but not limited to, the 1967 NASA Lunar Orbiter Spacecraft and Operations team award, and the National Technical Association’s designation as its 1997 Mathematician of the Year. Additionally, she earned honorary degrees from SUNY Farmingdale, Maryland's Capitol College, Virginia's Old Dominion University and West Virginia University. She also went on to receive the Presidential Medal of Freedom in 2015.",
+    "Tags": [
+      "Aerospace",
+      "Women in Tech",
+      "NASA",
+      "Human computer",
+      "Hidden Figures"
+    ],
+    "url": "https://www.britannica.com/biography/Katherine-Johnson-mathematician",
+    "media": "https://www.britannica.com/biography/Katherine-Johnson-mathematician/images-videos",
+    "image_path": "https://cdn.britannica.com/74/194174-050-7D2254A4/Katherine-Johnson-1966.jpg",
+    "image_width": ""
+  },
+  {
+    "id": "5",
+    "name": "Barbara McClintock",
+    "known_for": "Discovering genetic transposition (jumping genes) ",
+    "Bio": {
+      "Summary": "McClintock was an American scientist and cytogeneticist who was awarded the 1983 Nobel Prize in Physiology or Medicine. McClintock received her PhD in botany from Cornell University in 1927. There she started her career as the leader in the development of maize cytogenetics, the focus of her research for the rest of her life. From the late 1920s, McClintock studied chromosomes and how they change during reproduction in maize. She developed the technique for visualizing Maize chromosomes and used microscopic analysis to demonstrate many fundamental genetic ideas.",
+      "Orgin": "Hartford, Connecticut, U.S",
+      "DOB": "16 June 1902",
+      "DOD": "2 September 1992"
     },
-    {
-        "id": "6",
-        "name": "Elizebeth Smith Friedman",
-        "known_for": "America's first female cryptanalyst",
-        "Bio": {
-            "Summary": "Armed with a sharp mind and nerves of steel, Elizebeth Smith Friedman cracked hundreds of ciphers during her career as America’s first female cryptanalyst, successfully busting smugglers during Prohibition and, most notably, breaking up a Nazi spy ring across South America during the 1940s.",
-            "Origin": "Huntington, Indiana, U.S",
-            "DOB": "August 26 1892",
-            "DOD": "October 31 1980"
-        },
-        "Fields": [
-            {
-                "Mathematics": null
-            },
-            {
-                "Computing": [
-                    "Cryptanalysis",
-                    "Cryptography",
-                    "Algorithms"
-                ]
-            }
-        ],
-        "Legacy": "Elizebeth Smith Friedman’s wartime codebreaking work was so secret that she was forbidden to mention it in public. She died many years before government archives were brought to light showing what she had done. During and after World War 2, J. Edgar Hoover and the FBI took the credit for work Elizebeth and her U.S. Coast Guard team had carried out.",
-        "Tags": [
-            "Elizebeth Smith Friedman",
-            "First Female Cryptanalyst",
-            "American Expert and Author",
-            "Women in Tech",
-            "Cryptography",
-            "Codebreaker"
-        ],
-        "url": "https://www.famousscientists.org/elizebeth-smith-friedman/",
-        "media": "https://time.com/5928583/elizebeth-friedman-codebreaker/?jwsource=cl",
-        "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Elizebeth-Friedman.jpg/450px-Elizebeth-Friedman.jpg"
+    "Fields": [
+      {
+        "Mathematics": null
+      },
+      {
+        "Computing": [
+          "null"
+        ]
+      }
+    ],
+    "Legacy": "McClintock received the Nobel Prize for Physiology or Medicine in 1983, the first woman to win that prize unshared and the first American woman to win any unshared Nobel Prize. It was given to her by the Nobel Foundation for discovering mobile genetic elements. ",
+    "Tags": [
+      "Barbara McClintock",
+      "jumping genes",
+      "STEM Pioneer",
+      "Women in Medicine",
+      "Noble Prize Winner"
+    ],
+    "url": "https://www.britannica.com/biography/Barbara-McClintock",
+    "media": "https://www.britannica.com/biography/Barbara-McClintock/images-videos",
+    "image_path": "https://cdn.britannica.com/19/151119-050-6AAFA850/Barbara-McClintock-laboratory-Cold-Spring-Harbor-New-March-26-1947.jpg",
+    "image_width": "150"
+  },
+  {
+    "id": "6",
+    "name": "Elizebeth Smith Friedman",
+    "known_for": "America's first female cryptanalyst",
+    "Bio": {
+      "Summary": "Armed with a sharp mind and nerves of steel, Elizebeth Smith Friedman cracked hundreds of ciphers during her career as America’s first female cryptanalyst, successfully busting smugglers during Prohibition and, most notably, breaking up a Nazi spy ring across South America during the 1940s.",
+      "Origin": "Huntington, Indiana, U.S",
+      "DOB": "August 26 1892",
+      "DOD": "October 31 1980"
     },
-    {
-        "id": "7",
-        "name": "Edith Clarke",
-        "known_for": "First female professor of electrical engineering in the USA",
-        "Bio": {
-            "Summary": "Clarke was the first woman to be professionally employed as an engineer. She was the first woman named as a Fellow of the American Institute of Electrical Engineers. She specialized in electrical power system analysis. As the first woman to deliver a paper at the American Institute of Electrical Engineers' (AIEE) annual meeting, she showed the use of hyperbolic functions for calculating the maximum power that a line could carry without instability. Clarke wrote an influential textbook in the field of power engineering that was used as the basis of education for electrical engineers.",
-            "Origin": "Howard County, Maryland, United States",
-            "DOB": "10 February 1883",
-            "DOD": "October 29, 1959"
-        },
-        "Fields": [
-            {
-                "Mathematics": true
-            },
-            {
-                "Computing": null
-            },
-            {
-                "Electrical Engineering": [
-                    "Power Transmission",
-                    "Hydroelectricity",
-                    "Power Engineering"
-                ]
-            }
-        ],
-        "Legacy": "Clarke was the first woman to earn an M.S. in electrical engineering from MIT. She was awarded a patent for her Clarke Calculator in 1925. She became the first female engineer to achieve professional standing in Tau Beta Pi. Clarke was the first female Fellow, and full voting member, of the American Institute of Electrical Engineers. She received the Society of Women Engineers Achievement Award in 1954. In 2015 Clarke was posthumously inducted into the National Inventors Hall of Fame.",
-        "Tags": [
-            "Women in Engineering",
-            "Society of Women Engineers",
-            "Clarke calculator",
-            "Power Engineering",
-            "Women in Tech",
-            "Female professors"
-        ],
-        "url": "https://en.wikipedia.org/wiki/Edith_Clarke",
-        "media": "",
-        "image_path": "https://en.wikipedia.org/wiki/Edith_Clarke#/media/File:Edith_Clarke.jpg",
-        "image_width": "150"
+    "Fields": [
+      {
+        "Mathematics": null
+      },
+      {
+        "Computing": [
+          "Cryptanalysis",
+          "Cryptography",
+          "Algorithms"
+        ]
+      }
+    ],
+    "Legacy": "Elizebeth Smith Friedman’s wartime codebreaking work was so secret that she was forbidden to mention it in public. She died many years before government archives were brought to light showing what she had done. During and after World War 2, J. Edgar Hoover and the FBI took the credit for work Elizebeth and her U.S. Coast Guard team had carried out.",
+    "Tags": [
+      "Elizebeth Smith Friedman",
+      "First Female Cryptanalyst",
+      "American Expert and Author",
+      "Women in Tech",
+      "Cryptography",
+      "Codebreaker"
+    ],
+    "url": "https://www.famousscientists.org/elizebeth-smith-friedman/",
+    "media": "https://time.com/5928583/elizebeth-friedman-codebreaker/?jwsource=cl",
+    "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Elizebeth-Friedman.jpg/450px-Elizebeth-Friedman.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Edith Clarke",
+    "known_for": "First female professor of electrical engineering in the USA",
+    "Bio": {
+      "Summary": "Clarke was the first woman to be professionally employed as an engineer. She was the first woman named as a Fellow of the American Institute of Electrical Engineers. She specialized in electrical power system analysis. As the first woman to deliver a paper at the American Institute of Electrical Engineers' (AIEE) annual meeting, she showed the use of hyperbolic functions for calculating the maximum power that a line could carry without instability. Clarke wrote an influential textbook in the field of power engineering that was used as the basis of education for electrical engineers.",
+      "Origin": "Howard County, Maryland, United States",
+      "DOB": "10 February 1883",
+      "DOD": "October 29, 1959"
     },
-    {
-        "id": "8",
-        "name": "Marie Curie",
-        "known_for": "Work on radioactivity",
-        "Bio": {
-            "Summary": "From childhood she was remarkable for her prodigious memory, and at the age of 16 she won a gold medal on completion of her secondary education at the Russian lycée. Because her father, a teacher of mathematics and physics, lost his savings through bad investment, she had to take work as a teacher and, at the same time, took part clandestinely in the nationalist “free university,” reading in Polish to women workers. At the age of 18 she took a post as governess, where she suffered an unhappy love affair. From her earnings she was able to finance her sister Bronisława’s medical studies in Paris, with the understanding that Bronisława would in turn later help her to get an education.",
-            "Orgin": "Loch Arbour, New Jersey",
-            "DOB": "7 November 1867",
-            "DOD": "4 July 1934"
-        },
-        "Fields": [
-            {
-                "Physics": [
-                    "Radioactivity",
-                    "Radium"
-                ]
-            }
-        ],
-        "Legacy": "She was a famous for her work on radioactivity and twice a winner of the Nobel Prize. With Henri Becquerel and her husband, Pierre Curie, she was awarded the 1903 Nobel Prize for Physics. She was the sole winner of the 1911 Nobel Prize for Chemistry. She was the first woman to win a Nobel Prize, and she is the only woman to win the award in two different fields.",
-        "Tags": [
-            "Physics Pioneer",
-            "Women in Tech",
-            "Nobel Prize Winner",
-            "Radioactivity"
-        ],
-        "url": "https://www.britannica.com/biography/Marie-Curie",
-        "media": "https://www.britannica.com/biography/Marie-Curie/images-videos",
-        "image_path": "https://cdn.britannica.com/12/12512-004-80322EC3/Marie-Curie.jpg",
-        "image_width": "150"
+    "Fields": [
+      {
+        "Mathematics": true
+      },
+      {
+        "Computing": null
+      },
+      {
+        "Electrical Engineering": [
+          "Power Transmission",
+          "Hydroelectricity",
+          "Power Engineering"
+        ]
+      }
+    ],
+    "Legacy": "Clarke was the first woman to earn an M.S. in electrical engineering from MIT. She was awarded a patent for her Clarke Calculator in 1925. She became the first female engineer to achieve professional standing in Tau Beta Pi. Clarke was the first female Fellow, and full voting member, of the American Institute of Electrical Engineers. She received the Society of Women Engineers Achievement Award in 1954. In 2015 Clarke was posthumously inducted into the National Inventors Hall of Fame.",
+    "Tags": [
+      "Women in Engineering",
+      "Society of Women Engineers",
+      "Clarke calculator",
+      "Power Engineering",
+      "Women in Tech",
+      "Female professors"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Edith_Clarke",
+    "media": "",
+    "image_path": "https://en.wikipedia.org/wiki/Edith_Clarke#/media/File:Edith_Clarke.jpg",
+    "image_width": "150"
+  },
+  {
+    "id": "8",
+    "name": "Marie Curie",
+    "known_for": "Work on radioactivity",
+    "Bio": {
+      "Summary": "From childhood she was remarkable for her prodigious memory, and at the age of 16 she won a gold medal on completion of her secondary education at the Russian lycée. Because her father, a teacher of mathematics and physics, lost his savings through bad investment, she had to take work as a teacher and, at the same time, took part clandestinely in the nationalist “free university,” reading in Polish to women workers. At the age of 18 she took a post as governess, where she suffered an unhappy love affair. From her earnings she was able to finance her sister Bronisława’s medical studies in Paris, with the understanding that Bronisława would in turn later help her to get an education.",
+      "Orgin": "Loch Arbour, New Jersey",
+      "DOB": "7 November 1867",
+      "DOD": "4 July 1934"
     },
-    {
-        "id": "9",
-        "name": "Maria Klawe",
-        "known_for": "Computer scientist and fifth president of Harvey Mudd College",
-        "Bio": {
-            "Summary": "Toronto born naturalised American citizen Klawe holds PhDs in Mathematics and Computer Science. She worked as a researcher for IBM and became the manager of their Mathematics and Related Computer Science Department. Klawe moved to the University of British Colombia and served as head of the Department of Computer Science (1988-1995), vice president of student and academic services (1995-1998), and dean of science (1998-2002). She was on the board of directors of Microsoft from 2009-2015. Klawe is a strong advocate for increasing the representation of women in STEM fields. In 1991, she founded CRA-W (The Computing Research Association's Committee on the Status of Women in Computing Research) with Nancy Leveson.",
-            "Origin": "Toronto, Ontario, Canada",
-            "DOB": "1951",
-            "DOD": ""
-        },
-        "Fields": [
-            {
-                "Mathematics": true
-            },
-            {
-                "Computing": [
-                    "Computer Science",
-                    "Algorithms for Geometry"
-                ]
-            }
-        ],
-        "Legacy": "Klawe is a fellow of the Association for Computing Machinery, the American Academy of Arts and Sciences, the American Mathematical Society, and the Association for Women in Mathematics. She is a founding fellow of the Canadian Information Processing Society. Klawe holds honorary doctorates from Ryerson Polytechnic University, University of Waterloo, Queen's University, Dalhousie University, Acadia University, University of Alberta, University of Ottawa, University of British Columbia, University of Toronto, Concordia University and McGill University.",
-        "Tags": [
-            "Maria Klawe",
-            "Harvey Mudd College",
-            "Women in Computer Science",
-            "Anita Borg Institute",
-            "Aphasia Project",
-            "Association for Computing Machinery",
-            "A. Nico Habermann award"
-        ],
-        "url": "https://en.wikipedia.org/wiki/Maria_Klawe",
-        "media": "",
-        "image_path": "https://en.wikipedia.org/wiki/Maria_Klawe#/media/File:Maria_Klawe_2015.jpg",
-        "image_width": ""
+    "Fields": [
+      {
+        "Physics": [
+          "Radioactivity",
+          "Radium"
+        ]
+      }
+    ],
+    "Legacy": "She was a famous for her work on radioactivity and twice a winner of the Nobel Prize. With Henri Becquerel and her husband, Pierre Curie, she was awarded the 1903 Nobel Prize for Physics. She was the sole winner of the 1911 Nobel Prize for Chemistry. She was the first woman to win a Nobel Prize, and she is the only woman to win the award in two different fields.",
+    "Tags": [
+      "Physics Pioneer",
+      "Women in Tech",
+      "Nobel Prize Winner",
+      "Radioactivity"
+    ],
+    "url": "https://www.britannica.com/biography/Marie-Curie",
+    "media": "https://www.britannica.com/biography/Marie-Curie/images-videos",
+    "image_path": "https://cdn.britannica.com/12/12512-004-80322EC3/Marie-Curie.jpg",
+    "image_width": "150"
+  },
+  {
+    "id": "9",
+    "name": "Maria Klawe",
+    "known_for": "Computer scientist and fifth president of Harvey Mudd College",
+    "Bio": {
+      "Summary": "Toronto born naturalised American citizen Klawe holds PhDs in Mathematics and Computer Science. She worked as a researcher for IBM and became the manager of their Mathematics and Related Computer Science Department. Klawe moved to the University of British Colombia and served as head of the Department of Computer Science (1988-1995), vice president of student and academic services (1995-1998), and dean of science (1998-2002). She was on the board of directors of Microsoft from 2009-2015. Klawe is a strong advocate for increasing the representation of women in STEM fields. In 1991, she founded CRA-W (The Computing Research Association's Committee on the Status of Women in Computing Research) with Nancy Leveson.",
+      "Origin": "Toronto, Ontario, Canada",
+      "DOB": "1951",
+      "DOD": ""
     },
-    {
-        "id": "10",
-        "name": "Susan Diane Wojcicki",
-        "known_for": "CEO of YouTube",
-        "Bio": {
-            "Summary": "Wojcicki was involved in the founding of Google, and became Google's first marketing manager in 1999. She later led the company's online advertising business and was put in charge of Google's original video service. After observing the success of YouTube, Wojcicki proposed the acquisition of YouTube by Google in 2006, and has served as CEO of YouTube since 2014",
-            "Orgin": "Santa Clara County, California, U.S.",
-            "DOB": "5 July 1968",
-            "DOD": null
-        },
-        "Fields": [
-            {
-                "Economics": true
-            },
-            {
-                "Business Administration": true
-            }
-        ],
-        "Legacy": "Wojcicki first became involved with video sharing in connection with the launch of Google Video in 2005. The following year she oversaw the purchase of rival YouTube, an equally new venture that was enjoying greater success.",
-        "Tags": [
-            "Women in Tech",
-            "World's 100 Most Powerful Women",
-            "America's Self-Made Women"
-        ],
-        "url": "https://en.wikipedia.org/wiki/Susan_Wojcicki",
-        "media": "https://www.britannica.com/biography/Susan-Wojcicki/images-videos",
-        "image_path": "https://cdn.britannica.com/40/193940-050-5446F640/Susan-Wojcicki-2014.jpg",
-        "image_width": "150"
+    "Fields": [
+      {
+        "Mathematics": true
+      },
+      {
+        "Computing": [
+          "Computer Science",
+          "Algorithms for Geometry"
+        ]
+      }
+    ],
+    "Legacy": "Klawe is a fellow of the Association for Computing Machinery, the American Academy of Arts and Sciences, the American Mathematical Society, and the Association for Women in Mathematics. She is a founding fellow of the Canadian Information Processing Society. Klawe holds honorary doctorates from Ryerson Polytechnic University, University of Waterloo, Queen's University, Dalhousie University, Acadia University, University of Alberta, University of Ottawa, University of British Columbia, University of Toronto, Concordia University and McGill University.",
+    "Tags": [
+      "Maria Klawe",
+      "Harvey Mudd College",
+      "Women in Computer Science",
+      "Anita Borg Institute",
+      "Aphasia Project",
+      "Association for Computing Machinery",
+      "A. Nico Habermann award"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Maria_Klawe",
+    "media": "",
+    "image_path": "https://en.wikipedia.org/wiki/Maria_Klawe#/media/File:Maria_Klawe_2015.jpg",
+    "image_width": ""
+  },
+  {
+    "id": "10",
+    "name": "Susan Diane Wojcicki",
+    "known_for": "CEO of YouTube",
+    "Bio": {
+      "Summary": "Wojcicki was involved in the founding of Google, and became Google's first marketing manager in 1999. She later led the company's online advertising business and was put in charge of Google's original video service. After observing the success of YouTube, Wojcicki proposed the acquisition of YouTube by Google in 2006, and has served as CEO of YouTube since 2014",
+      "Orgin": "Santa Clara County, California, U.S.",
+      "DOB": "5 July 1968",
+      "DOD": null
     },
-    {
-        "id": "11",
-        "name": "Adele Goldberg",
-        "known_for": "creators of Smalltalk-80—a programming language",
-        "Bio": {
-            "Summary": "Adele Goldberg was one of the creator of the Smalltalk-80-a at Xeron Palo Alto Research Center, smalltalk-80 was a programming language that later incorporated into the programming configuration of the Macintosh computer. She is also the co-founder of the ParcPlace and on the board at Cognito Learning Media",
-            "Orgin": "Cleveland, Ohio, U.S.",
-            "DOB": "July 22, 1945",
-            "DOD": null
-        },
-        "Fields": [
-            {
-                "Computer science": true
-            }
-        ],
-        "Legacy": "Adele Goldberg was one of the developer of the smalltalk-80, it is a programming language that developed the object-oriented approach of Simula 67 and introduced a programming environment of overlapping windows on graphic display screens,she was also involved in the development of design templates, forerunners of the design patterns later used in software design",
-        "Tags": [
-            "Smalltalk-80 developer",
-            "Forbes’s 20 Who Matter",
-            "co-founder ParcPlace Systems",
-            "Presidenr Association for Computing Machinery (ACM) "
-        ],
-        "url": "https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)",
-        "media": "",
-        "image_path": "https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)#/media/File:Adele_Goldberg_at_PyCon_2007.jpg",
-        "image_width": ""
+    "Fields": [
+      {
+        "Economics": true
+      },
+      {
+        "Business Administration": true
+      }
+    ],
+    "Legacy": "Wojcicki first became involved with video sharing in connection with the launch of Google Video in 2005. The following year she oversaw the purchase of rival YouTube, an equally new venture that was enjoying greater success.",
+    "Tags": [
+      "Women in Tech",
+      "World's 100 Most Powerful Women",
+      "America's Self-Made Women"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Susan_Wojcicki",
+    "media": "https://www.britannica.com/biography/Susan-Wojcicki/images-videos",
+    "image_path": "https://cdn.britannica.com/40/193940-050-5446F640/Susan-Wojcicki-2014.jpg",
+    "image_width": "150"
+  },
+  {
+    "id": "11",
+    "name": "Adele Goldberg",
+    "known_for": "creators of Smalltalk-80—a programming language",
+    "Bio": {
+      "Summary": "Adele Goldberg was one of the creator of the Smalltalk-80-a at Xeron Palo Alto Research Center, smalltalk-80 was a programming language that later incorporated into the programming configuration of the Macintosh computer. She is also the co-founder of the ParcPlace and on the board at Cognito Learning Media",
+      "Orgin": "Cleveland, Ohio, U.S.",
+      "DOB": "July 22, 1945",
+      "DOD": null
     },
-    {
-        "id": "12",
-        "name": "Ellen Ochoa",
-        "known_for": "American astronaut and first Hispanic woman to travel into space",
-        "Bio": {
-            "Summary": "Ochoa studied electrical engineering at Stanford University. She was selected by NASA in 1990 to participate in its astronaut program, and she became the first Hispanic female astronaut when she completed her training in 1991. In April 1993 Ochoa served as mission specialist aboard the STS-56 mission of the space shuttle Discovery, becoming the first Latina to be launched into space. In May 1999 she was a member of the Discovery STS-96 crew that executed the first docking to the International Space Station (ISS). Ochoa served as director of NASA’s Johnson Space Center (2013–18).",
-            "Orgin": "Los Angeles, California, U.SA.",
-            "DOB": "10 May 1958",
-            "DOD": ""
-        },
-        "Fields": [
-            {
-                "Aeronautics and Astronautics": true
-            },
-            {
-                "Electrical Engineering": [
-                    "Optical Systems",
-                    "Aerospace Engineering"
-                ]
-            },
-            {
-                "Mathematics": true
-            },
-            {
-                "Computing": true
-            }
-        ],
-        "Legacy": "Women in Aerospace Outstanding Achievement Award, Hispanic Engineer Albert Baez Award for Outstanding Technical Contribution to Humanity, Hispanic Heritage Leadership Award, Distinguished Service Medal, Exceptional Service Medal, Outstanding Leadership Medal, and four Space Flight Medals.",
-        "Tags": [
-            "Ellen Ochoa",
-            "Female Astronaut",
-            "Latina Astronaut",
-            "Female Engineer",
-            "NASA",
-            "Lyndon B. Johnson Space Center",
-            "Optical Systems"
-        ],
-        "url": "https://www.britannica.com/biography/Ellen-Ochoa",
-        "media": "https://www.britannica.com/biography/Ellen-Ochoa/images-videos",
-        "image_path": "https://cdn.britannica.com/97/92997-050-241C3C38/Ellen-Ochoa.jpg",
-        "image_width": "150"
-    }
+    "Fields": [
+      {
+        "Computer science": true
+      }
+    ],
+    "Legacy": "Adele Goldberg was one of the developer of the smalltalk-80, it is a programming language that developed the object-oriented approach of Simula 67 and introduced a programming environment of overlapping windows on graphic display screens,she was also involved in the development of design templates, forerunners of the design patterns later used in software design",
+    "Tags": [
+      "Smalltalk-80 developer",
+      "Forbes’s 20 Who Matter",
+      "co-founder ParcPlace Systems",
+      "Presidenr Association for Computing Machinery (ACM) "
+    ],
+    "url": "https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)",
+    "media": "",
+    "image_path": "https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)#/media/File:Adele_Goldberg_at_PyCon_2007.jpg",
+    "image_width": ""
+  },
+  {
+    "id": "12",
+    "name": "Ellen Ochoa",
+    "known_for": "American astronaut and first Hispanic woman to travel into space",
+    "Bio": {
+      "Summary": "Ochoa studied electrical engineering at Stanford University. She was selected by NASA in 1990 to participate in its astronaut program, and she became the first Hispanic female astronaut when she completed her training in 1991. In April 1993 Ochoa served as mission specialist aboard the STS-56 mission of the space shuttle Discovery, becoming the first Latina to be launched into space. In May 1999 she was a member of the Discovery STS-96 crew that executed the first docking to the International Space Station (ISS). Ochoa served as director of NASA’s Johnson Space Center (2013–18).",
+      "Orgin": "Los Angeles, California, U.SA.",
+      "DOB": "10 May 1958",
+      "DOD": ""
+    },
+    "Fields": [
+      {
+        "Aeronautics and Astronautics": true
+      },
+      {
+        "Electrical Engineering": [
+          "Optical Systems",
+          "Aerospace Engineering"
+        ]
+      },
+      {
+        "Mathematics": true
+      },
+      {
+        "Computing": true
+      }
+    ],
+    "Legacy": "Women in Aerospace Outstanding Achievement Award, Hispanic Engineer Albert Baez Award for Outstanding Technical Contribution to Humanity, Hispanic Heritage Leadership Award, Distinguished Service Medal, Exceptional Service Medal, Outstanding Leadership Medal, and four Space Flight Medals.",
+    "Tags": [
+      "Ellen Ochoa",
+      "Female Astronaut",
+      "Latina Astronaut",
+      "Female Engineer",
+      "NASA",
+      "Lyndon B. Johnson Space Center",
+      "Optical Systems"
+    ],
+    "url": "https://www.britannica.com/biography/Ellen-Ochoa",
+    "media": "https://www.britannica.com/biography/Ellen-Ochoa/images-videos",
+    "image_path": "https://cdn.britannica.com/97/92997-050-241C3C38/Ellen-Ochoa.jpg",
+    "image_width": "150"
+  },
+  {
+    "id": "13",
+    "name": "Rosalind Franklin",
+    "known_for": "Discovered the molecular structure of DNA",
+    "Bio": {
+      "Summary": "Franklin was a British scientist best known for her contributions to the discovery of the molecular structure of deoxyribonucleic acid (DNA), a constituent of chromosomes that serves to encode genetic information. Her work to make clearer X-ray patterns of DNA molecules laid the foundation for studies on the structure of DNA as a double-helix polymer. Franklin discovered the B type DNA, establishing that DNA molecules can exist in more than one form. She also contributed new insight on the structure of viruses, helping to lay the foundation for the field of structural virology.",
+      "Origin": "London, England",
+      "DOB": "25 July 1920",
+      "DOD": "16 April 1958"
+    },
+    "Fields": [
+      {
+        "Physical Chemistry": true
+      },
+      {
+        " X-ray diffraction technology": true
+      },
+      {
+        "Virology": true
+      }
+    ],
+    "Legacy": "Franklin received a doctorate in Physical Chemistry from Cambridge University. She was a Research Fellow at King's College. Franklin published 17 papers on viruses, and laid the foundations for structural virology. Her X-ray diffraction research of DNA became critical evidence in identifying the structure of DNA. Two scientists, Crick and Watson, took most of the credit for the finding. They used it as the basis for their famous model of DNA, for which they received a Nobel Prize in 1962.",
+    "Tags": [
+      "Rosalind Franklin",
+      "DNA structure",
+      "B type DNA",
+      "Double-helix polymer",
+      "X-ray diffraction",
+      "Structural virology"
+    ],
+    "url": "https://www.britannica.com/biography/Rosalind-Franklin",
+    "media": "https://www.britannica.com/biography/Rosalind-Franklin/images-videos",
+    "image_path": "https://cdn.britannica.com/30/99730-050-E68F62FF/Rosalind-Franklin.jpg",
+    "image_width": "150"
+  }
 ]
