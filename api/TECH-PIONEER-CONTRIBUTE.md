@@ -1,8 +1,14 @@
 <!-- 👩🏻‍💻☞ Follow the following steps to add a Female Tech Pioneer to the Project   -->
 
 
-### ➕ **Add a Women Tech or Stem Pioneer to API JSON File.** 
+# ➕ **Add a Women Tech or Stem Pioneer to API JSON File.** 
 
+### 🚨 Important-
+* When completing this issue please contribute relevant and factual information using trusted resources *(ex: Encylopedia Websites i.e. Britannica **NOT** Wikipedia if possible)*
+* Please spellcheck and check for typos/syntax errors before submitting Pull Request. **Please note that any PR that contains significant spelling & other errors will be rejected.*
+* When completed a Pull Request please include: Title & Description with full details. Please use the **[Pull Request Template](https://github.com/kwing25/Women-Who-ve-Changed-Tech/blob/d2cc49309f3137b01957a194dd97863616510d5e/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md).**
+
+---
 - Go to File `/api/techwomen.json`
 - Add the following fields to array:
     * name

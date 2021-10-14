@@ -22,6 +22,7 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)](https://women-who-changed-tech.netlify.app/) 
 ![GitHub issues](https://img.shields.io/github/issues/kwing25/Women-Who-ve-Changed-Tech?style=flat)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/kwing25/Women-Who-ve-Changed-Tech?style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors/kwing25/Women-Who-ve-Changed-Tech)
 ![GitHub forks](https://img.shields.io/github/forks/kwing25/Women-Who-ve-Changed-Tech)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
@@ -84,6 +85,9 @@ This project uses various Frameworks, Libraries, and other tech.
 <!-- CONTRIBUTING -->
 ## Contributing
 
+ <img src="https://emojis.slackmojis.com/emojis/images/1617576678/27300/arrow.gif?1617576678" height="24px" width="24px"> Go to <a href="https://github.com/kwing25/Women-Who-ve-Changed-Tech/blob/main/CONTRIBUTING.md"> ```CONTRIBUTING.md```</a>
+ 
+
 Contributions help this project to grow and document the histories of Tech & STEM Female Pioneers. Any contributions you make are **greatly appreciated**! 🤝 <br><br>
 If you have a suggestion that would make this project better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! ⭐️
 
@@ -108,17 +112,15 @@ git push origin branch-name
   6. Open a Pull Request
 
 > ⚠️ Note: 
-  Please look at [open issues](https://github.com/kwing25/Women-Who-ve-Changed-Tech/issues) & include all contribution details when submitting a Pull Request. Thanks!
-
+  Please look at [open issues](https://github.com/kwing25/Women-Who-ve-Changed-Tech/issues) & include all contribution details when submitting a [Pull Request](https://github.com/kwing25/Women-Who-ve-Changed-Tech/blob/550b3e897a317802292a49cdb78031851d177b06/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md). Thanks!
 
 
   <p align="right"><a href="#top">↑</a></p>
 
 ### Add a Tech Pioneer to the Project API
 
-☞ See [Tech Pioneer Contribution](#) for more info
+☞ See [Tech Pioneer Contribution](https://github.com/kwing25/Women-Who-ve-Changed-Tech/blob/550b3e897a317802292a49cdb78031851d177b06/api/TECH-PIONEER-CONTRIBUTE.md) for more info
 
-***Go to [CONTRIBUTING.md](/CONTRIBUTING)***
 <!-- > *JSON Data Screenshot-*
 
 <img src="https://raw.githubusercontent.com/kwing25/Women-Who-ve-Changed-Tech/main/src/assets/techpeoplelistjson.png" width="500px" height="340px"> -->
@@ -168,6 +170,7 @@ This project has been made with many resources and contributors. Thank you for a
 * [Britannica](https://www.britannica.com/) - <i>Biographies & References</i>
 * [API Evangelist](https://women-in-tech.apievangelist.com/) - <i>Research</i>
 * [Editor.md](https://pandao.github.io/editor.md/en.html) 
+* [Discordmojis](https://discordmojis.com/)
 * [Awesome Open Source](https://awesomeopensource.com/)
 * [Amazing Github Template](https://github.com/dec0dOS/amazing-github-template)
 * [Documentation Compendium](https://github.com/kylelobo/The-Documentation-Compendium)
