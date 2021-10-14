@@ -2,7 +2,6 @@
 
 <!--- Provide a general summary of your changes in the Title above -->
 ## ✍️ Description:
-Fixes 
 <!--- Describe your changes in detail -->
 
 #### Screenshots *(if applicable)*:
@@ -11,7 +10,7 @@ Fixes
 ## 🤔 Reason for PR & what it fixes/accomplishes: 
 <!--- Why is this change required? What problem does it solve? -->
 <!--- If it fixes an open issue, please link to the issue here. -->
-Fixes # 
+Fixes Issue #
 
 ---
 ### 🧮 How Has This Been Tested? *(if applicable)*: 
