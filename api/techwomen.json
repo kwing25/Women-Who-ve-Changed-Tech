@@ -283,163 +283,137 @@
       "DOB": "1951",
       "DOD": ""
     },
-    "Fields": [
-      {
-        "Mathematics": true
-      },
-      {
-        "Computing": [
-          "Computer Science",
-          "Algorithms for Geometry"
-        ]
-      }
-    ],
-    "Legacy": "Klawe is a fellow of the Association for Computing Machinery, the American Academy of Arts and Sciences, the American Mathematical Society, and the Association for Women in Mathematics. She is a founding fellow of the Canadian Information Processing Society. Klawe holds honorary doctorates from Ryerson Polytechnic University, University of Waterloo, Queen's University, Dalhousie University, Acadia University, University of Alberta, University of Ottawa, University of British Columbia, University of Toronto, Concordia University and McGill University.",
-    "Tags": [
-      "Maria Klawe",
-      "Harvey Mudd College",
-      "Women in Computer Science",
-      "Anita Borg Institute",
-      "Aphasia Project",
-      "Association for Computing Machinery",
-      "A. Nico Habermann award"
-    ],
-    "url": "https://en.wikipedia.org/wiki/Maria_Klawe",
-    "media": "",
-    "image_path": "https://en.wikipedia.org/wiki/Maria_Klawe#/media/File:Maria_Klawe_2015.jpg",
-    "image_width": ""
-  },
-  {
-    "id": "10",
-    "name": "Susan Diane Wojcicki",
-    "known_for": "CEO of YouTube",
-    "Bio": {
-      "Summary": "Wojcicki was involved in the founding of Google, and became Google's first marketing manager in 1999. She later led the company's online advertising business and was put in charge of Google's original video service. After observing the success of YouTube, Wojcicki proposed the acquisition of YouTube by Google in 2006, and has served as CEO of YouTube since 2014",
-      "Orgin": "Santa Clara County, California, U.S.",
-      "DOB": "5 July 1968",
-      "DOD": null
+    {
+        "id": "10",
+        "name": "Susan Diane Wojcicki",
+        "known_for": "CEO of YouTube",
+        "Bio": {
+            "Summary": "Wojcicki was involved in the founding of Google, and became Google's first marketing manager in 1999. She later led the company's online advertising business and was put in charge of Google's original video service. After observing the success of YouTube, Wojcicki proposed the acquisition of YouTube by Google in 2006, and has served as CEO of YouTube since 2014",
+            "Orgin": "Santa Clara County, California, U.S.",
+            "DOB": "5 July 1968",
+            "DOD": null
+        },
+        "Fields": [
+            {
+                "Economics": true
+            },
+            {
+                "Business Administration": true
+            }
+        ],
+        "Legacy": "Wojcicki first became involved with video sharing in connection with the launch of Google Video in 2005. The following year she oversaw the purchase of rival YouTube, an equally new venture that was enjoying greater success.",
+        "Tags": [
+            "Women in Tech",
+            "World's 100 Most Powerful Women",
+            "America's Self-Made Women"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Susan_Wojcicki",
+        "media": "https://www.britannica.com/biography/Susan-Wojcicki/images-videos",
+        "image_path": "https://cdn.britannica.com/40/193940-050-5446F640/Susan-Wojcicki-2014.jpg",
+        "image_width": "150"
     },
-    "Fields": [
-      {
-        "Economics": true
-      },
-      {
-        "Business Administration": true
-      }
-    ],
-    "Legacy": "Wojcicki first became involved with video sharing in connection with the launch of Google Video in 2005. The following year she oversaw the purchase of rival YouTube, an equally new venture that was enjoying greater success.",
-    "Tags": [
-      "Women in Tech",
-      "World's 100 Most Powerful Women",
-      "America's Self-Made Women"
-    ],
-    "url": "https://en.wikipedia.org/wiki/Susan_Wojcicki",
-    "media": "https://www.britannica.com/biography/Susan-Wojcicki/images-videos",
-    "image_path": "https://cdn.britannica.com/40/193940-050-5446F640/Susan-Wojcicki-2014.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "11",
-    "name": "Adele Goldberg",
-    "known_for": "creators of Smalltalk-80—a programming language",
-    "Bio": {
-      "Summary": "Adele Goldberg was one of the creator of the Smalltalk-80-a at Xeron Palo Alto Research Center, smalltalk-80 was a programming language that later incorporated into the programming configuration of the Macintosh computer. She is also the co-founder of the ParcPlace and on the board at Cognito Learning Media",
-      "Orgin": "Cleveland, Ohio, U.S.",
-      "DOB": "July 22, 1945",
-      "DOD": null
+    {
+        "id": "11",
+        "name": "Adele Goldberg",
+        "known_for": "creators of Smalltalk-80—a programming language",
+        "Bio": {
+            "Summary": "Adele Goldberg was one of the creator of the Smalltalk-80-a at Xeron Palo Alto Research Center, smalltalk-80 was a programming language that later incorporated into the programming configuration of the Macintosh computer. She is also the co-founder of the ParcPlace and on the board at Cognito Learning Media",
+            "Orgin": "Cleveland, Ohio, U.S.",
+            "DOB": "July 22, 1945",
+            "DOD": null
+        },
+        "Fields": [
+            {
+                "Computer science": true
+            }
+        ],
+        "Legacy": "Adele Goldberg was one of the developer of the smalltalk-80, it is a programming language that developed the object-oriented approach of Simula 67 and introduced a programming environment of overlapping windows on graphic display screens,she was also involved in the development of design templates, forerunners of the design patterns later used in software design",
+        "Tags": [
+            "Smalltalk-80 developer",
+            "Forbes’s 20 Who Matter",
+            "co-founder ParcPlace Systems",
+            "Presidenr Association for Computing Machinery (ACM) "
+        ],
+        "url": "https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)",
+        "media": "",
+        "image_path": "https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)#/media/File:Adele_Goldberg_at_PyCon_2007.jpg",
+        "image_width": ""
     },
-    "Fields": [
-      {
-        "Computer science": true
-      }
-    ],
-    "Legacy": "Adele Goldberg was one of the developer of the smalltalk-80, it is a programming language that developed the object-oriented approach of Simula 67 and introduced a programming environment of overlapping windows on graphic display screens,she was also involved in the development of design templates, forerunners of the design patterns later used in software design",
-    "Tags": [
-      "Smalltalk-80 developer",
-      "Forbes’s 20 Who Matter",
-      "co-founder ParcPlace Systems",
-      "Presidenr Association for Computing Machinery (ACM) "
-    ],
-    "url": "https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)",
-    "media": "",
-    "image_path": "https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)#/media/File:Adele_Goldberg_at_PyCon_2007.jpg",
-    "image_width": ""
-  },
-  {
-    "id": "12",
-    "name": "Ellen Ochoa",
-    "known_for": "American astronaut and first Hispanic woman to travel into space",
-    "Bio": {
-      "Summary": "Ochoa studied electrical engineering at Stanford University. She was selected by NASA in 1990 to participate in its astronaut program, and she became the first Hispanic female astronaut when she completed her training in 1991. In April 1993 Ochoa served as mission specialist aboard the STS-56 mission of the space shuttle Discovery, becoming the first Latina to be launched into space. In May 1999 she was a member of the Discovery STS-96 crew that executed the first docking to the International Space Station (ISS). Ochoa served as director of NASA’s Johnson Space Center (2013–18).",
-      "Orgin": "Los Angeles, California, U.SA.",
-      "DOB": "10 May 1958",
-      "DOD": ""
+    {
+        "id": "12",
+        "name": "Ellen Ochoa",
+        "known_for": "American astronaut and first Hispanic woman to travel into space",
+        "Bio": {
+            "Summary": "Ochoa studied electrical engineering at Stanford University. She was selected by NASA in 1990 to participate in its astronaut program, and she became the first Hispanic female astronaut when she completed her training in 1991. In April 1993 Ochoa served as mission specialist aboard the STS-56 mission of the space shuttle Discovery, becoming the first Latina to be launched into space. In May 1999 she was a member of the Discovery STS-96 crew that executed the first docking to the International Space Station (ISS). Ochoa served as director of NASA’s Johnson Space Center (2013–18).",
+            "Orgin": "Los Angeles, California, U.SA.",
+            "DOB": "10 May 1958",
+            "DOD": ""
+        },
+        "Fields": [
+            {
+                "Aeronautics and Astronautics": true
+            },
+            {
+                "Electrical Engineering": [
+                    "Optical Systems",
+                    "Aerospace Engineering"
+                ]
+            },
+            {
+                "Mathematics": true
+            },
+            {
+                "Computing": true
+            }
+        ],
+        "Legacy": "Women in Aerospace Outstanding Achievement Award, Hispanic Engineer Albert Baez Award for Outstanding Technical Contribution to Humanity, Hispanic Heritage Leadership Award, Distinguished Service Medal, Exceptional Service Medal, Outstanding Leadership Medal, and four Space Flight Medals.",
+        "Tags": [
+            "Ellen Ochoa",
+            "Female Astronaut",
+            "Latina Astronaut",
+            "Female Engineer",
+            "NASA",
+            "Lyndon B. Johnson Space Center",
+            "Optical Systems"
+        ],
+        "url": "https://www.britannica.com/biography/Ellen-Ochoa",
+        "media": "https://www.britannica.com/biography/Ellen-Ochoa/images-videos",
+        "image_path": "https://cdn.britannica.com/97/92997-050-241C3C38/Ellen-Ochoa.jpg",
+        "image_width": "150"
     },
-    "Fields": [
-      {
-        "Aeronautics and Astronautics": true
-      },
-      {
-        "Electrical Engineering": [
-          "Optical Systems",
-          "Aerospace Engineering"
-        ]
-      },
-      {
-        "Mathematics": true
-      },
-      {
-        "Computing": true
-      }
-    ],
-    "Legacy": "Women in Aerospace Outstanding Achievement Award, Hispanic Engineer Albert Baez Award for Outstanding Technical Contribution to Humanity, Hispanic Heritage Leadership Award, Distinguished Service Medal, Exceptional Service Medal, Outstanding Leadership Medal, and four Space Flight Medals.",
-    "Tags": [
-      "Ellen Ochoa",
-      "Female Astronaut",
-      "Latina Astronaut",
-      "Female Engineer",
-      "NASA",
-      "Lyndon B. Johnson Space Center",
-      "Optical Systems"
-    ],
-    "url": "https://www.britannica.com/biography/Ellen-Ochoa",
-    "media": "https://www.britannica.com/biography/Ellen-Ochoa/images-videos",
-    "image_path": "https://cdn.britannica.com/97/92997-050-241C3C38/Ellen-Ochoa.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "13",
-    "name": "Rosalind Franklin",
-    "known_for": "Discovered the molecular structure of DNA",
-    "Bio": {
-      "Summary": "Franklin was a British scientist best known for her contributions to the discovery of the molecular structure of deoxyribonucleic acid (DNA), a constituent of chromosomes that serves to encode genetic information. Her work to make clearer X-ray patterns of DNA molecules laid the foundation for studies on the structure of DNA as a double-helix polymer. Franklin discovered the B type DNA, establishing that DNA molecules can exist in more than one form. She also contributed new insight on the structure of viruses, helping to lay the foundation for the field of structural virology.",
-      "Origin": "London, England",
-      "DOB": "25 July 1920",
-      "DOD": "16 April 1958"
-    },
-    "Fields": [
-      {
-        "Physical Chemistry": true
-      },
-      {
-        " X-ray diffraction technology": true
-      },
-      {
-        "Virology": true
-      }
-    ],
-    "Legacy": "Franklin received a doctorate in Physical Chemistry from Cambridge University. She was a Research Fellow at King's College. Franklin published 17 papers on viruses, and laid the foundations for structural virology. Her X-ray diffraction research of DNA became critical evidence in identifying the structure of DNA. Two scientists, Crick and Watson, took most of the credit for the finding. They used it as the basis for their famous model of DNA, for which they received a Nobel Prize in 1962.",
-    "Tags": [
-      "Rosalind Franklin",
-      "DNA structure",
-      "B type DNA",
-      "Double-helix polymer",
-      "X-ray diffraction",
-      "Structural virology"
-    ],
-    "url": "https://www.britannica.com/biography/Rosalind-Franklin",
-    "media": "https://www.britannica.com/biography/Rosalind-Franklin/images-videos",
-    "image_path": "https://cdn.britannica.com/30/99730-050-E68F62FF/Rosalind-Franklin.jpg",
-    "image_width": "150"
-  }
+    {
+        "id": "13",
+        "name": "Rosalind Franklin",
+        "known_for": "Discovered the molecular structure of DNA",
+        "Bio": {
+            "Summary": "Franklin was a British scientist best known for her contributions to the discovery of the molecular structure of deoxyribonucleic acid (DNA), a constituent of chromosomes that serves to encode genetic information. Her work to make clearer X-ray patterns of DNA molecules laid the foundation for studies on the structure of DNA as a double-helix polymer. Franklin discovered the B type DNA, establishing that DNA molecules can exist in more than one form. She also contributed new insight on the structure of viruses, helping to lay the foundation for the field of structural virology.",
+            "Origin": "London, England",
+            "DOB": "25 July 1920",
+            "DOD": "16 April 1958"
+        },
+        "Fields": [
+            {
+                "Physical Chemistry": true
+            },
+            {
+                " X-ray diffraction technology": true
+            },
+            {
+                "Virology": true
+            }
+        ],
+        "Legacy": "Franklin received a doctorate in Physical Chemistry from Cambridge University. She was a Research Fellow at King's College. Franklin published 17 papers on viruses, and laid the foundations for structural virology. Her X-ray diffraction research of DNA became critical evidence in identifying the structure of DNA. Two scientists, Crick and Watson, took most of the credit for the finding. They used it as the basis for their famous model of DNA, for which they received a Nobel Prize in 1962.",
+        "Tags": [
+            "Rosalind Franklin",
+            "DNA structure",
+            "B type DNA",
+            "Double-helix polymer",
+            "X-ray diffraction",
+            "Structural virology"
+        ],
+        "url": "https://www.britannica.com/biography/Rosalind-Franklin",
+        "media": "https://www.britannica.com/biography/Rosalind-Franklin/images-videos",
+        "image_path": "https://cdn.britannica.com/30/99730-050-E68F62FF/Rosalind-Franklin.jpg",
+        "image_width": "150"
+    }
 ]
