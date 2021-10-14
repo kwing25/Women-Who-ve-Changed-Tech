@@ -337,5 +337,40 @@
         "media": "https://www.britannica.com/biography/Susan-Wojcicki/images-videos",
         "image_path": "https://cdn.britannica.com/40/193940-050-5446F640/Susan-Wojcicki-2014.jpg",
         "image_width": "150"
-    }
+    },
+    
+    {
+        "id":11,
+        "name": "Grace Hopper",
+        "known_for": "Recorded the worlds first ever real computer bug",
+        "Bio": {
+            "Summary": "Rear Admiral Grace M. Hopper was an esteemed computer scientist and one of the first computer programmers to work on the Harvard Mark I. Her work led to the development of COBOL, an early programming language we is still used to this day. In 1947, she recorded the worlds first ever real computer bug, and it is also said that she coined the phrase: “it is often easier to ask for forgiveness than to ask for permission.”
+",
+            "Orgin": "New York, USA",
+            "DOB": "December 9, 1906",
+            "DOD": "January 1, 1992"
+        },
+        "Fields": [
+            {
+                "Mathematics": true
+            },
+            
+            {
+                "Computing": [
+                    "Programming",
+                    "Computer Engineering"
+                ]
+            }
+        ],
+        "Legacy": "Hopper was elected a fellow of the Institute of Electrical and Electronic Engineers (1962) and was named the first computer science Man of the Year by the Data Processing Management Association (1969). When she was awarded the National Medal of Technology in 1991, she said “If you ask me what accomplishment I’m most proud of, the answer would be all the young people I’ve trained over the years; that’s more important than writing the first compiler.”. She was posthumously awarded the Presidential Medal of Freedom in 2016.",
+        "Tags": [
+            "Tech Pioneer",
+            "Women in Tech",
+            "Computer Programming",
+            "Computer Engineering",
+        ],
+        "url": "https://www.britannica.com/biography/Grace-Hopper",
+        "media": "https://www.britannica.com/biography/Grace-Hopper/images-videos",
+        "image_path": "https://cdn.britannica.com/94/149294-050-1BDE70C7/Grace-Hopper-1984.jpg",
+        "image_width": "150"
 ]
