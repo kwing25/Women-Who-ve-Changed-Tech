@@ -170,7 +170,7 @@
         "image_width": "150"
     },
     {
-        "id": "8",
+        "id": "6",
         "name": "Elizebeth Smith Friedman",
         "known_for": "America's first female cryptanalyst",
         "Bio": {
@@ -202,9 +202,10 @@
         ],
         "url": "https://www.famousscientists.org/elizebeth-smith-friedman/",
         "media": "https://time.com/5928583/elizebeth-friedman-codebreaker/?jwsource=cl",
-        "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Elizebeth-Friedman.jpg/450px-Elizebeth-Friedman.jpg",
-},
-"id": "9",
+        "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Elizebeth-Friedman.jpg/450px-Elizebeth-Friedman.jpg"
+    },
+    {
+        "id": "7",
         "name": "Edith Clarke",
         "known_for": "First female professor of electrical engineering in the USA",
         "Bio": {
@@ -243,7 +244,7 @@
         "image_width": "150"
     },
     {
-        "id": "10",
+        "id": "8",
         "name": "Marie Curie",
         "known_for": "Work on radioactivity",
         "Bio": {
