@@ -472,5 +472,30 @@
     "media": "",
     "image_path": "https://www.internethalloffame.org/sites/default/files/inductees/radia_perlman.jpg",
     "image_width": "150"
+  },
+  {
+    "id": 15,
+    "name": "Valerie Thomas",
+    "known_for": "Inventing the illusion transmitter and contributions to NASA research",
+    "Bio" : {
+      "Summary": "Valerie Thomas",
+      "Origin": "Maryland, United States",
+      "DOB": "February 1943",
+      "DOD": null
+    },
+    "Fields":[
+      "Physics",
+      "Mathematics"
+    ],
+    "Legacy": "Thomas received a patent for the illusion transmitter. The technology was adopted by NASA and has since been adapted for use in surgery as well as the production of TV and video screens.",
+    "Tags": [
+      "Women in Tech",
+      "NASA",
+      "Tech Pioneer"
+    ],
+    "url": "https://www.biography.com/scientist/valerie-thomas",
+    "media": "https://mynasadata.larc.nasa.gov/sites/default/files/inline-images/ValerieThomas-LandsatImageProcessing.png",
+    "image_path": "https://mynasadata.larc.nasa.gov/sites/default/files/inline-images/ValerieThomas-LandsatImageProcessing.png",
+    "image_width": "150"
   }
 ]
