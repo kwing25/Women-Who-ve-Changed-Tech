@@ -497,5 +497,32 @@
     "media": "https://mynasadata.larc.nasa.gov/sites/default/files/inline-images/ValerieThomas-LandsatImageProcessing.png",
     "image_path": "https://mynasadata.larc.nasa.gov/sites/default/files/inline-images/ValerieThomas-LandsatImageProcessing.png",
     "image_width": "150"
+  },
+  {
+    "id": 16,
+    "name": "Sheryl Sandberg",
+    "known_for": "Facebook COO",
+    "Bio" : {
+      "Summary": "Sheryl Sandberg",
+      "Origin": "Washington, DC, United States",
+      "DOB": "August 28, 1969",
+      "DOD": null
+    },
+    "Fields":[
+      "Computer Science",
+      "Philanthropist"
+    ],
+    "Legacy": "Sheryl Kara Sandberg is an American Business executive, Billionaire and Philanthropist.Sandberg is the chief operating officer of Facebook and the founder of LeanIn.Org. In June 2012, she was elected to Facebook's board of directors, becoming the first woman to serve on its board.",
+    "Tags": [
+      "Women in Tech",
+      "FACEBOOK",
+      "Tech Pioneer",
+      "Philanthropist"
+    ],
+    "url": "https://www.britannica.com/biography/Sheryl-Sandberg",
+    "media": "https://youtu.be/twwEG11F0lo",
+    "image_path": "https://cdn.britannica.com/97/163897-050-A071A905/Sheryl-Sandberg-Facebook.jpg",
+    "image_width": "150"
   }
+  
 ]
