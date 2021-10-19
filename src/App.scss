@@ -50,6 +50,12 @@ a {
     justify-content: flex-end;
     color: $light;
     background: $black;
+    padding-right: 35px;
+    padding-top: 15px;
+
+    i {
+        font-size: 23px;
+    }
 }
 
 #home {
@@ -59,13 +65,18 @@ a {
     width: 100vw;
     height: 100vh;
     background: $light;
+    overflow: hidden;
 
 
     .site-title {
 
+        padding-top: 10px;
+
         h1 {
+            color: $secondary;
             font-family: $header;
-            font-size: 75px;
+            font-size: 50px;
+            text-shadow: 2px 6px 10px $primary;
         }
 
 
@@ -76,7 +87,7 @@ a {
 
 
         #summary {
-            font-size: 34px;
+            font-size: 26px;
             opacity: 0;
             animation: fadeIn ease-in 1;
             animation-fill-mode: forwards;
@@ -84,7 +95,7 @@ a {
             animation-delay: 1.2s;
 
             #summary-info {
-                font-size: 19px;
+                font-size: 26px;
                 font-style: italic;
             }
 
@@ -96,7 +107,7 @@ a {
 
         #quote {
             font-family: $cursive;
-            font-size: 27px;
+            font-size: 20px;
             padding-top: 60px;
             opacity: 0;
             animation: fadeIn ease-in 1;
@@ -129,10 +140,132 @@ a {
 
 
 #underconstruction {
+    width: 100vw;
     text-align: center;
-    position: absolute;
+    position: relative;
     top: 0;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    // background: rgba(2, 2, 65, .7);
+    border-radius: 50px;
+
+    h1 {
+        font-size: 65px;
+        background: linear-gradient(90deg, #11001cff, #561f37ff, #39a2aeff, #55dbcbff, #75e4b3ff);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-repeat: no-repeat;
+        background-size: 80%;
+        animation: shine 10s linear infinite;
+    }
+
+    @keyframes shine {
+        0% {
+            background-position-x: -500%;
+        }
+
+        100% {
+            background-position-x: 500%;
+        }
+    }
+
+    button#sendupdatesBtn {
+        background: $dark;
+        border: none;
+        animation: pulse 20s infinite;
+        opacity: 0;
+        animation: fadeIn ease-in 1;
+        animation-fill-mode: forwards;
+        animation-duration: 1s;
+        animation-delay: 2.7s;
+    }
+
+    @keyframes pulse {
+        0% {
+            background-color: $primary;
+            background-position: 0% 82%
+        }
+
+        50% {
+            background-color: $dark;
+            background-position: 100% 19%
+        }
+
+        100% {
+            background-color: $primary;
+            background-position: 0% 82%
+        }
+    }
+
 }
+
+.modal-content {
+    background: $primary;
+    padding: 10px;
+
+    button.close {
+        background: $light;
+        border-radius: 50%;
+        border-style: hidden;
+
+    }
+
+    form {
+        text-align: left;
+        background: $primary;
+
+        input {
+            padding-left: 15px;
+            padding-right: 15px;
+            width: 38vw;
+        }
+    }
+}
+
+// Mobile Styles
+
+@media (max-width:768px) {
+    .SiteNav {
+        display: none;
+    }
+
+    #home {
+        width: 100vw;
+        height: 100vh;
+
+        header.site-title h1 {
+            font-size: 37px;
+        }
+
+        p#summary.lead {
+            font-size: 15px;
+        }
+
+        p#summary.lead a {
+            font-size: 15px;
+        }
+
+        p#quote.lead {
+            padding-top: 17px;
+            font-size: 15px;
+        }
+    }
+
+    h1#construction-page {
+        font-size: 40px;
+
+
+    }
+
+    input#form-control {
+        padding-left: 5px;
+        padding-right: 5px;
+        width: 100vw;
+    }
+}
+
 
 
 /* font-family: 'Abril Fatface', cursive;
