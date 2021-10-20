@@ -527,7 +527,7 @@
   {
     "id": "17",
     "name": "Rachel Louise Carson",
-    "known_for": " Writer of some of the most influential environmental writing ever published",
+    "known_for": "Writer of some of the most influential environmental writing ever published",
     "Bio": {
       "Summary": "Carson was an American biologist with a deep interest in the natural world. After graduating in biology from the John Hopkins University, she pursued postgraduate studies at the Marine Biological Laboratory in Woods Hole, Massachusetts. Carson took a position as aquatic biologist with the U.S. Bureau of Fisheries. She published a number of acclaimed books. Carson’s prophetic Silent Spring (1962) became a bestseller, creating worldwide awareness of the dangers of environmental pollution. The book argued that the planetary ecosystem was reaching the limits of what it could sustain. Carson made a strong warning of the consequences of indiscriminate pesticide use.",
       "Origin": "Springdale, Pennsylvania, USA",
@@ -553,9 +553,39 @@
       "Pesticides",
       "DDT"
     ],
-    "url": " https://www.britannica.com/biography/Rachel-Carson",
-    "media": " https://www.britannica.com/biography/Rachel-Carson/images-videos",
-    "image_path": " https://cdn.britannica.com/13/19413-050-A75D4BE2/Rachel-Carson.jpg",
+    "url": "https://www.britannica.com/biography/Rachel-Carson",
+    "media": "https://www.britannica.com/biography/Rachel-Carson/images-videos",
+    "image_path": "https://cdn.britannica.com/13/19413-050-A75D4BE2/Rachel-Carson.jpg",
+    "image_width": "150"
+  },
+  {
+    "id": "18",
+    "name": "Laura Bassi",
+    "known_for": "Bassi was the first woman to become a physics professor at a European university.",
+    "Bio": {
+      "Summary": "In 1732, Bassi was admitted to the Bologna Academy of Sciences as its first female member. She became doctor of philosophy. Several of her theses showed the influence of Isaac Newton’s works on optics and light. She wrote a set of theses about the properties of water, which led to her being awarded an honorary post at the university as a professor in physics. Bassi was an early proponent of Newtonian physics and based her teaching on Newton’s Principia. In 1760, Bassi performed experiments on possible medicinal applications of electricity, but did not publish on the subject. She was appointed as chair of experimental physics at the University of Bologna in 1776, the first woman named to a chair of physics at a university.",
+      "Origin": "Bologna, Italy",
+      "DOB": "31 October 1711",
+      "DOD": "20 February 1778"
+    },
+    "Fields": [
+      {
+        "Philosophy": true
+      },
+      {
+        "Physics": true
+      }
+    ],
+    "Legacy": "Laura Bassi was the first woman to become a physics professor at a European university. She was the first woman admitted to the Bologna Academy of Sciences and the only woman to join the Benedettini, a select group of 25 leading scientists. She was the first woman named to a chair of physics at a university.",
+    "Tags": [
+      "Laura Bassi",
+      "Female Physics Professor",
+      "Benedettini",
+      "First female university chair"
+    ],
+    "url": "https://www.britannica.com/biography/Laura-Bassi",
+    "media": "",
+    "image_path": "https://upload.wikimedia.org/wikipedia/commons/3/31/Laura_Bassi.jpg",
     "image_width": "150"
   }
 ]
