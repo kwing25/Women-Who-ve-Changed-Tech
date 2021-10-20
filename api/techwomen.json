@@ -557,5 +557,40 @@
     "media": " https://www.britannica.com/biography/Rachel-Carson/images-videos",
     "image_path": " https://cdn.britannica.com/13/19413-050-A75D4BE2/Rachel-Carson.jpg",
     "image_width": "150"
+  },
+  {
+    "id": "19",
+    "name": "Mary Anning",
+    "known_for": "Anning was the greatest fossil finder of her era, powerfully influencing the new science of paleontology",
+    "Bio": {
+      "Summary": "Anning was an English fossil hunter and amateur anatomist credited with the discovery of several dinosaur specimens that assisted in the development of paleontology. Her excavations aided the careers of many British scientists by providing them with specimens to study, and framed a significant part of Earth’s geologic history. Fossils recovered by Anning may have contributed to the theory of evolution put forth by Charles Darwin. Anning received annuities from the British Association for the Advancement of Science and the Geological Society of London, in recognition of her contributions to science (these did not admit women). In 2010 she was recognized by the Royal Society as one of the 10 most influential women scientists in British history.",
+      "Origin": "Lyme Regis, England",
+      "DOB": "21 May 1799",
+      "DOD": "9 March 1847"
+    },
+    "Fields": [
+      {
+       "Anatomy": true
+      },
+      {
+        "Paleontology": true
+      },
+      {
+       "Geology": true
+      }
+    ],
+    "Legacy": "Anning made the first ever discovery of a complete Plesiosaurus macrocephalus skeleton. She discovered fossils of Ichthyosaur, Dimorphodon macronyx, and Squaloraja. Anning's studies of fossilized feces showed the diets of animals hundreds of millions of years ago. She was at the forefront of a new science utilizing fossils to reveal Earth’s natural history: paleontology.",
+    "Tags": [
+      "Mary Anning",
+      "Fossils",
+      "Paleontology",
+      "Coprolite",
+      "Ammonites",
+      "Dinosaur excavation"
+    ],
+    "url": "https://www.britannica.com/biography/Mary-Anning",
+    "media": "",
+    "image_path": "http://publish.illinois.edu/womeningeology/files/2014/12/Mary_Anning_portrait.jpg",
+    "image_width": "150"
   }
 ]
