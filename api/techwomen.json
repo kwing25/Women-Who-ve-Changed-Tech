@@ -622,5 +622,39 @@
     "media": "",
     "image_path": "http://publish.illinois.edu/womeningeology/files/2014/12/Mary_Anning_portrait.jpg",
     "image_width": "150"
+  },
+  {
+    "id": "21",
+    "name": "Maryam Mirzakhani",
+    "known_for": "Mirzakhani was an Iranian mathematician and the first woman to be awarded a Fields Medal",
+    "Bio": {
+      "Summary": "Mirzakhani received a B.Sc. degree in mathematics from the Sharif University of Technology in Tehrān. She earned a Ph.D. from Harvard University for her dissertation 'Simple Geodesics on Hyperbolic Surfaces and Volume of the Moduli Space of Curves'. Mirzakhani served (2004–08) as a Clay Mathematics Institute research fellow and an assistant professor of mathematics at Princeton University. In 2008 she became a professor at Stanford University. Her work focused on the study of hyperbolic surfaces by means of their moduli spaces.",
+      "Origin": "Tehran, Iran",
+      "DOB": "3 May 1977",
+      "DOD": "14 July 2017"
+    },
+    "Fields": [
+      {
+        "Mathematics": true
+      },
+      {
+        "Geometry": true
+      }
+    ],
+    "Legacy": "Mirzakhani was the first woman and the first Iranian to be awarded a Fields Medal, in recognition of her outstanding contributions to the dynamics and geometry of Riemann surfaces and their moduli spaces. Mirzakhani found that a property of the modulus space corresponds to the number of simple closed geodesics of the hyperbolic surface.",
+    "Tags": [
+      "Maryam Mirzakhani",
+      "First woman Fields Medal",
+      "Euclidean geometry",
+      "Euclidean space",
+      "Riemann surface",
+      "Hyperbolic space"
+    ],
+    "url": "https://www.britannica.com/biography/Maryam-Mirzakhani",
+    "media": "https://www.britannica.com/biography/Maryam-Mirzakhani/images-videos",
+    "image_path": "https://cdn.britannica.com/15/181315-050-9BC8F4C6/Maryam-Mirzakhani.jpg",
+    "image_width": "150"
   }
 ]
+
+
