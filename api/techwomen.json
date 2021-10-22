@@ -652,34 +652,35 @@
     "image_width": "150"
   },
   {
-    "id": "19",
-    "name": "",
-    "known_for": "",
+    "id": "22",
+    "name": "Emmy Noether",
+    "known_for": "Amalie Emmy Noether was a German mathematician whose innovations in higher algebra gained her recognition as the most creative abstract algebraist of modern times",
     "Bio": {
-      "Summary": "",
-      "Origin": "",
-      "DOB": "",
-      "DOD": ""
+      "Summary": "Noether studied mathematics at the University of Erlangen at a time when women were only allowed to audit classes with the permission of the instructor. She received a Ph.D. degree in 1907, with a dissertation on algebraic invariants. Noether discovered the relation between what are known as the symmetries of a physical system and its conservation laws. This is known as Noether’s theorem and is a key result in theoretical physics. She became an academic lecturer in 1919 in a time where many objected to women teaching at universities. Noether was one of the principle architects of abstract algebra.",
+      "Origin": "Erlangen, Germany",
+      "DOB": "23 March 1882",
+      "DOD": "14 April 1935"
     },
     "Fields": [
       {
-       
+        "Mathematics": true
       },
       {
-        
-      },
-      {
-       
+        "Physics": true
       }
     ],
-    "Legacy": "",
+    "Legacy": "Noether's name is remembered in many concepts of abstract algebra: Noetherian, Noetherian group, Noetherian induction, Noether normalization, Noether problem, Noetherian ring, Noetherian module, Noetherian scheme, Noetherian space, Albert–Brauer–Hasse–Noether theorem, Lasker–Noether theorem, and Skolem–Noether theorem. Einstein wrote after her death: “Noether was the most significant creative mathematical genius thus far produced since the higher education of women began.”",
     "Tags": [
-      "",
-      ""
+      "Emmy Noether",
+      "Noether’s Theorem",
+      "Abstract algebra",
+      "Noetherian",
+      "Mathematische Annalen",
+      "Noncommutative algebras"
     ],
-    "url": "",
-    "media": "",
-    "image_path": "",
+    "url": "https://www.britannica.com/biography/Emmy-Noether",
+    "media": "https://www.britannica.com/biography/Emmy-Noether/images-videos",
+    "image_path": "https://cdn.britannica.com/91/46991-050-B24B533F/Emmy-Noether.jpg",
     "image_width": "150"
   }
 
