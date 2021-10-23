@@ -477,13 +477,13 @@
     "id": 15,
     "name": "Valerie Thomas",
     "known_for": "Inventing the illusion transmitter and contributions to NASA research",
-    "Bio" : {
+    "Bio": {
       "Summary": "Valerie Thomas",
       "Origin": "Maryland, United States",
       "DOB": "February 1943",
       "DOD": null
     },
-    "Fields":[
+    "Fields": [
       "Physics",
       "Mathematics"
     ],
@@ -502,13 +502,13 @@
     "id": 16,
     "name": "Sheryl Sandberg",
     "known_for": "Facebook COO",
-    "Bio" : {
+    "Bio": {
       "Summary": "Sheryl Sandberg",
       "Origin": "Washington, DC, United States",
       "DOB": "August 28, 1969",
       "DOD": null
     },
-    "Fields":[
+    "Fields": [
       "Computer Science",
       "Philanthropist"
     ],
@@ -600,13 +600,13 @@
     },
     "Fields": [
       {
-       "Anatomy": true
+        "Anatomy": true
       },
       {
         "Paleontology": true
       },
       {
-       "Geology": true
+        "Geology": true
       }
     ],
     "Legacy": "Anning made the first ever discovery of a complete Plesiosaurus macrocephalus skeleton. She discovered fossils of Ichthyosaur, Dimorphodon macronyx, and Squaloraja. Anning's studies of fossilized feces showed the diets of animals hundreds of millions of years ago. She was at the forefront of a new science utilizing fossils to reveal Earth’s natural history: paleontology.",
@@ -621,6 +621,34 @@
     "url": "https://www.britannica.com/biography/Mary-Anning",
     "media": "",
     "image_path": "http://publish.illinois.edu/womeningeology/files/2014/12/Mary_Anning_portrait.jpg",
+    "image_width": "150"
+  },
+  {
+    "id": "20",
+    "name": "Caroline Herschel",
+    "known_for": "Herschel was a German-born British astronomer and is considered the first professional female astronomer",
+    "Bio": {
+      "Summary": "Herschel started her work in astronomy by making important contributions to the work of her brother Sir William Herschel, who discovered Uranus in 1781. She executed many of the calculations connected with his studies. She detected by telescope three nebulae in 1783, and in 1786 she discovered a periodic comet. She was the first woman to discover a comet; over the next 11 years she spotted seven other comets. Herschel completed the cataloging of 2,500 nebulae and many star clusters. In 1798 she presented to the Royal Society a catalog of 560 stars omitted from the British Catalogue and a list of the errata in that publication. In 1828, when Herschel was 77, the Astronomical Society awarded her its gold medal.",
+      "Origin": "Hannover, Germany",
+      "DOB": "16 March 1750",
+      "DOD": "9 January 1848"
+    },
+    "Fields": [
+      {
+        "Astronomy": true
+      }
+    ],
+    "Legacy": "Herschel was a pioneer in the field of astronomy and the first professional female astronomer. She discovered nebulae, a period comet that was later named 35P/Herschel-Rigollet, and seven more comets. Herschel made a huge contribution to indexing and cataloguing stars and nebulae and was awarded a gold medal by The Astronomical Society.",
+    "Tags": [
+      "Caroline Herschel",
+      "Astronomy",
+      "First female astronomer",
+      "35P/Herschel-Rigollet comet",
+      "The Astronomical Society"
+    ],
+    "url": "https://www.britannica.com/biography/Caroline-Lucretia-Herschel",
+    "media": "https://www.britannica.com/biography/Caroline-Lucretia-Herschel/images-videos",
+    "image_path": "https://cdn.britannica.com/82/203582-050-7F44FC85/Caroline-Herschel.jpg",
     "image_width": "150"
   },
   {
@@ -656,5 +684,3 @@
     "image_width": "150"
   }
 ]
-
-
