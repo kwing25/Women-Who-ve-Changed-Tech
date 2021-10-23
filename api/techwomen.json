@@ -7,7 +7,7 @@
       "Summary": "The daughter of famed poet Lord Byron, Augusta Ada Byron, Countess of Lovelace — better known as \"Ada Lovelace\" — showed her gift for mathematics at an early age. She translated an article on an invention by Charles Babbage, and added her own comments. Because she introduced many computer concepts, Lovelace is considered the first computer programmer",
       "Origin": "London, England",
       "DOB": "10 December 1815",
-      "DOD": "27 November 1852"
+      "DOD": ""
     },
     "Fields": [
       {
@@ -747,6 +747,38 @@
     "url": "https://www.britannica.com/biography/Emmy-Noether",
     "media": "https://www.britannica.com/biography/Emmy-Noether/images-videos",
     "image_path": "https://cdn.britannica.com/91/46991-050-B24B533F/Emmy-Noether.jpg",
+    "image_width": "150"
+  }
+  {
+    "id": "24",
+    "name": "Margaret Hamilton",
+    "known_for": "Margaret Hamilton was an American computer scientist who helped write the computer code for the command and lunar modules used on the Apollo missions to the Moon in the late 1960s and early ’70s.She is also founder and CEO of software development company Hamilton Technologies Inc.",
+    "Bio": {
+      "Summary": "Margaret Hamilton led the Software Engineering Division of the MIT Instrumentation Laboratory. NASA credits her with coining the term “software engineering.” Hamilton worked on software development for Apollo 11, the first spacecraft to complete a successful mission that placed humans on the moon in 1969. Hamilton's insistence on thorough testing is credited with the mission's success and safety of its astronauts.The guidance software that Hamilton helped develop for Apollo was later adapted for use in Skylab, the space shuttle, and the first digital fly-by-wire systems in aircraft. Hamilton received the NASA Exceptional Space Act Award for technical and scientific contributions in 2003 and the Presidential Medal of Freedom award in 2016.",
+      "Origin": "Indiana, U.S.",
+      "DOB": "17 August 1936", 
+      "DOD": "-",
+    },
+    "Fields": [
+      {
+        "Computing": [
+          "Programming",
+          "software engineering "
+        ]
+      }
+    ],
+    "Legacy": "Margaret Hamilton is responsible for the development of the Universal Systems Language (USL) together with its integrated systems-to-software “Development Before the Fact” preventative life cycle and its automation, the 001 Tool Suite; all based on her mathematical theory of control for systems and software. Because of it's preventative paradigm, with USL, instead of looking for more ways to test for errors and continuing to test for errors late into the life cycle, the majority of errors including all interface errors are not allowed into a system, just by the way it is defined. For over five decades, Hamilton's methods have had a major impact on the field of software engineering up to and including the present day.",
+    "Tags": [
+      "Margaret Hamilton",
+      "Margaret Heafield Hamilton"
+      "Apollo mission",
+      "software engineering",
+      "NASA",
+      "Hamilton"
+    ],
+    "url": "https://www.britannica.com/biography/Margaret-Hamilton-American-computer-scientist",
+    "media": "https://www.britannica.com/biography/Margaret-Hamilton-American-computer-scientist/images-videos",
+    "image_path": "https://cdn.britannica.com/91/194191-004-63D8B544/Margaret-Hamilton.jpg",
     "image_width": "150"
   }
 ]
