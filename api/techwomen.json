@@ -477,13 +477,13 @@
     "id": 15,
     "name": "Valerie Thomas",
     "known_for": "Inventing the illusion transmitter and contributions to NASA research",
-    "Bio" : {
+    "Bio": {
       "Summary": "Valerie Thomas",
       "Origin": "Maryland, United States",
       "DOB": "February 1943",
       "DOD": null
     },
-    "Fields":[
+    "Fields": [
       "Physics",
       "Mathematics"
     ],
@@ -502,13 +502,13 @@
     "id": 16,
     "name": "Sheryl Sandberg",
     "known_for": "Facebook COO",
-    "Bio" : {
+    "Bio": {
       "Summary": "Sheryl Sandberg",
       "Origin": "Washington, DC, United States",
       "DOB": "August 28, 1969",
       "DOD": null
     },
-    "Fields":[
+    "Fields": [
       "Computer Science",
       "Philanthropist"
     ],
@@ -600,13 +600,13 @@
     },
     "Fields": [
       {
-       "Anatomy": true
+        "Anatomy": true
       },
       {
         "Paleontology": true
       },
       {
-       "Geology": true
+        "Geology": true
       }
     ],
     "Legacy": "Anning made the first ever discovery of a complete Plesiosaurus macrocephalus skeleton. She discovered fossils of Ichthyosaur, Dimorphodon macronyx, and Squaloraja. Anning's studies of fossilized feces showed the diets of animals hundreds of millions of years ago. She was at the forefront of a new science utilizing fossils to reveal Earth’s natural history: paleontology.",
@@ -635,7 +635,7 @@
     },
     "Fields": [
       {
-       "Astronomy": true
+        "Astronomy": true
       }
     ],
     "Legacy": "Herschel was a pioneer in the field of astronomy and the first professional female astronomer. She discovered nebulae, a period comet that was later named 35P/Herschel-Rigollet, and seven more comets. Herschel made a huge contribution to indexing and cataloguing stars and nebulae and was awarded a gold medal by The Astronomical Society.",
@@ -653,6 +653,38 @@
   },
   {
     "id": "21",
+    "name": "Maryam Mirzakhani",
+    "known_for": "Mirzakhani was an Iranian mathematician and the first woman to be awarded a Fields Medal",
+    "Bio": {
+      "Summary": "Mirzakhani received a B.Sc. degree in mathematics from the Sharif University of Technology in Tehrān. She earned a Ph.D. from Harvard University for her dissertation 'Simple Geodesics on Hyperbolic Surfaces and Volume of the Moduli Space of Curves'. Mirzakhani served (2004–08) as a Clay Mathematics Institute research fellow and an assistant professor of mathematics at Princeton University. In 2008 she became a professor at Stanford University. Her work focused on the study of hyperbolic surfaces by means of their moduli spaces.",
+      "Origin": "Tehran, Iran",
+      "DOB": "3 May 1977",
+      "DOD": "14 July 2017"
+    },
+    "Fields": [
+      {
+        "Mathematics": true
+      },
+      {
+        "Geometry": true
+      }
+    ],
+    "Legacy": "Mirzakhani was the first woman and the first Iranian to be awarded a Fields Medal, in recognition of her outstanding contributions to the dynamics and geometry of Riemann surfaces and their moduli spaces. Mirzakhani found that a property of the modulus space corresponds to the number of simple closed geodesics of the hyperbolic surface.",
+    "Tags": [
+      "Maryam Mirzakhani",
+      "First woman Fields Medal",
+      "Euclidean geometry",
+      "Euclidean space",
+      "Riemann surface",
+      "Hyperbolic space"
+    ],
+    "url": "https://www.britannica.com/biography/Maryam-Mirzakhani",
+    "media": "https://www.britannica.com/biography/Maryam-Mirzakhani/images-videos",
+    "image_path": "https://cdn.britannica.com/15/181315-050-9BC8F4C6/Maryam-Mirzakhani.jpg",
+    "image_width": "150"
+  },
+  {
+    "id": "22",
     "name": "Inge Lehmann",
     "known_for": "Lehmann was a Danish seismologist who discovered the inner core of Earth in 1936 by using seismic wave data. She co-founded the Danish Geophysical Society",
     "Bio": {
@@ -669,7 +701,7 @@
         "Seismology": true
       },
       {
-       "Geophysics": true
+        "Geophysics": true
       }
     ],
     "Legacy": "The boundary between the Earth's inner and outer core, at a depth of approx. 5,100 km, is known as the Lehmann discontinuity. In 1950, Lehmann became President of the European Seismological Federation. Lehmann was awarded the William Bowie Medal of the American Geophysical Union in 1971 for her contributions in the field of geophysics, and the Medal of the Seismological Society of America in 1977. The American Geophysical Union created the Inge Lehmann Medal in her honour in 1995, to be awarded to researchers displaying “outstanding contributions to the understanding of the structure, composition, and dynamics of the Earth’s mantle and core.",
