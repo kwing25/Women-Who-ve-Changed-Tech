@@ -780,5 +780,36 @@
     "media": "https://www.britannica.com/biography/Margaret-Hamilton-American-computer-scientist/images-videos",
     "image_path": "https://cdn.britannica.com/91/194191-004-63D8B544/Margaret-Hamilton.jpg",
     "image_width": "150"
+  },
+  {
+    "id": "26",
+    "name": "Jane Goodall",
+    "known_for": "Goodall is a British ethologist, known for her exceptionally detailed and long-term research on the chimpanzees of Gombe Stream National Park in Tanzania.",
+    "Bio": {
+      "Summary": "Goodall began her research career assisting paleontologist Louis Leakey in Tanzania. This led to her establishment in June 1960 of a camp in the Gombe Stream Game Reserve, so that she could observe the behaviour of chimpanzees. In 1965 The University of Cambridge awarded Goodall a Ph.D. in ethology. ",
+      "Origin": "London, England",
+      "DOB": "3 April 1934",
+      "DOD": ""
+    },
+    "Fields": [
+      {
+       
+      },
+      {
+        
+      },
+      {
+       
+      }
+    ],
+    "Legacy": "In 1977 Goodall cofounded the Jane Goodall Institute for Wildlife Research, Education and Conservation in California. She created various other initiatives, including Jane Goodall’s Roots & Shoots (1991), a youth service program.",
+    "Tags": [
+      "",
+      ""
+    ],
+    "url": "",
+    "media": "",
+    "image_path": "",
+    "image_width": "150"
   }
 ]
