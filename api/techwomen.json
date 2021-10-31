@@ -782,6 +782,64 @@
     "image_width": "150"
   },
   {
+    "id": "25",
+    "name": "Henrietta Swan Leavitt",
+    "known_for": "Henrietta Leavitt was an American astronomer who discovered the relationship between period and luminosity in Cepheid variables, pulsating stars that vary regularly in brightness in periods ranging from a few days to several months.",
+    "Bio": {
+      "Summary": "Leavitt had an interest in astronomy and started as a volunteer assistant in the Harvard Observatory in 1895, receiving a paid position in 1902. She was employed in the observatory’s great project, begun by Edward C. Pickering, of determining the brightnesses of all measurable stars. Leavitt soon advanced from routine work to a position as head of the photographic stellar photometry department. In 1907 she started work on Pickering’s project to ascertain photographically standardized values for stellar magnitudes. Devising new methods of analysis, Leavitt determined their magnitudes, extending the scale of standard brightnesses down to the 21st magnitude. These standards were published in 1912 and 1917. One result of her work on stellar magnitudes was her discovery of 4 novas and some 2,400 variable stars - more than half of all those known even by 1930.",
+      "Origin": "Lancaster, Massachusetts, U.S.A",
+      "DOB": "4 July 1868",
+      "DOD": "12 December 1921"
+    },
+    "Fields": [
+      {
+        "Astronomy": true
+      }
+    ],
+    "Legacy": "Leavitt transformed the science of astronomy by dramatically extending the range at which a star’s distance from the earth could be measured. Leavitt’s outstanding achievement was her discovery in 1912 that in a certain class of variable stars, the Cepheid variables, the period of the cycle of fluctuation in brightness is highly regular and is determined by the actual luminosity of the star. The subsequent calibration of the period-luminosity curve allowed astronomers Edwin Hubble, Harlow Shapley, and others to determine the distances of many Cepheid stars and of the star clusters and galaxies in which they were observed. Her work was pivotal to Edwin Hubble’s discovery that the universe is much bigger than just the Milky Way and that our own galaxy is but one of many.",
+    "Tags": [
+      "Henrietta Leavitt",
+      "Stellar luminosity",
+      "Period-luminosity relation",
+      "Cepheid variables",
+      "Stellar photometry",
+      "North Polar Sequence"
+    ],
+    "url": "https://www.britannica.com/biography/Henrietta-Swan-Leavitt",
+    "media": "https://www.britannica.com/biography/Henrietta-Swan-Leavitt/images-videos",
+    "image_path": "https://cdn.britannica.com/66/158566-004-7C114835/Henrietta-Swan-Leavitt.jpg",
+    "image_width": "150"
+  },
+  {
+    "id": "26",
+    "name": "Jane Goodall",
+    "known_for": "Goodall is a British ethologist, known for her exceptionally detailed and long-term research on the chimpanzees of Gombe Stream National Park in Tanzania.",
+    "Bio": {
+      "Summary": "Goodall began her research career assisting paleontologist Louis Leakey in Tanzania. This led to her establishment in June 1960 of a camp in the Gombe Stream Game Reserve, so that she could observe the behaviour of chimpanzees. In 1965 The University of Cambridge awarded Goodall a Ph.D. in ethology. Goodall corrected a number of misunderstandings about chimpanzees, e.g. their highly developed social behaviours. Goodall wrote books and articles about various aspects of her work, such as In the Shadow of Man (1971). She summarized her years of observation in The Chimpanzees of Gombe: Patterns of Behavior (1986). She continued to write and lecture about environmental and conservation issues into the early 21st century. In 2002 she became a UN Messenger of Peace. Goodall received an DBE in 2003 and was awarded the 2021 Templeton Prize. Jane, a documentary about her life and work, appeared in 2017.",
+      "Origin": "London, England",
+      "DOB": "3 April 1934",
+      "DOD": ""
+    },
+    "Fields": [
+      {
+        "Ethology": true
+      }
+    ],
+    "Legacy": "In 1977 Goodall cofounded the Jane Goodall Institute for Wildlife Research, Education and Conservation in California. She created various other initiatives, including Jane Goodall’s Roots & Shoots (1991), a youth service program.",
+    "Tags": [
+      "Jane Goodall",
+      "Animal behaviour",
+      "Chimpanzee behaviour",
+      "Jane Goodall Institute",
+      "Jane Goodall’s Roots & Shoots",
+      "Gombe Stream Game Reserve"
+    ],
+    "url": "https://www.britannica.com/biography/Jane-Goodall",
+    "media": "https://www.britannica.com/biography/Jane-Goodall/images-videos",
+    "image_path": "https://cdn.britannica.com/30/163230-050-D8219091/Jane-Goodall.jpg",
+    "image_width": "150"
+  },
+  {
     "id": "27",
     "name": "Cecilia Payne-Gaposchkin",
     "known_for": "Cecilia Payne was an astronomer who discovered that stars are made mainly of hydrogen and helium and established that stars could be classified according to their temperatures.",
