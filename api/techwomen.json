@@ -756,7 +756,7 @@
     "Bio": {
       "Summary": "Margaret Hamilton led the Software Engineering Division of the MIT Instrumentation Laboratory. NASA credits her with coining the term “software engineering.” Hamilton worked on software development for Apollo 11, the first spacecraft to complete a successful mission that placed humans on the moon in 1969. Hamilton's insistence on thorough testing is credited with the mission's success and safety of its astronauts.The guidance software that Hamilton helped develop for Apollo was later adapted for use in Skylab, the space shuttle, and the first digital fly-by-wire systems in aircraft. Hamilton received the NASA Exceptional Space Act Award for technical and scientific contributions in 2003 and the Presidential Medal of Freedom award in 2016.",
       "Origin": "Indiana, U.S.",
-      "DOB": "17 August 1936", 
+      "DOB": "17 August 1936",
       "DOD": "-"
     },
     "Fields": [
@@ -793,7 +793,7 @@
     },
     "Fields": [
       {
-       "Astronomy": true
+        "Astronomy": true
       }
     ],
     "Legacy": "Leavitt transformed the science of astronomy by dramatically extending the range at which a star’s distance from the earth could be measured. Leavitt’s outstanding achievement was her discovery in 1912 that in a certain class of variable stars, the Cepheid variables, the period of the cycle of fluctuation in brightness is highly regular and is determined by the actual luminosity of the star. The subsequent calibration of the period-luminosity curve allowed astronomers Edwin Hubble, Harlow Shapley, and others to determine the distances of many Cepheid stars and of the star clusters and galaxies in which they were observed. Her work was pivotal to Edwin Hubble’s discovery that the universe is much bigger than just the Milky Way and that our own galaxy is but one of many.",
@@ -808,6 +808,35 @@
     "url": "https://www.britannica.com/biography/Henrietta-Swan-Leavitt",
     "media": "https://www.britannica.com/biography/Henrietta-Swan-Leavitt/images-videos",
     "image_path": "https://cdn.britannica.com/66/158566-004-7C114835/Henrietta-Swan-Leavitt.jpg",
+    "image_width": "150"
+  },
+  {
+    "id": "26",
+    "name": "Jane Goodall",
+    "known_for": "Goodall is a British ethologist, known for her exceptionally detailed and long-term research on the chimpanzees of Gombe Stream National Park in Tanzania.",
+    "Bio": {
+      "Summary": "Goodall began her research career assisting paleontologist Louis Leakey in Tanzania. This led to her establishment in June 1960 of a camp in the Gombe Stream Game Reserve, so that she could observe the behaviour of chimpanzees. In 1965 The University of Cambridge awarded Goodall a Ph.D. in ethology. Goodall corrected a number of misunderstandings about chimpanzees, e.g. their highly developed social behaviours. Goodall wrote books and articles about various aspects of her work, such as In the Shadow of Man (1971). She summarized her years of observation in The Chimpanzees of Gombe: Patterns of Behavior (1986). She continued to write and lecture about environmental and conservation issues into the early 21st century. In 2002 she became a UN Messenger of Peace. Goodall received an DBE in 2003 and was awarded the 2021 Templeton Prize. Jane, a documentary about her life and work, appeared in 2017.",
+      "Origin": "London, England",
+      "DOB": "3 April 1934",
+      "DOD": ""
+    },
+    "Fields": [
+      {
+        "Ethology": true
+      }
+    ],
+    "Legacy": "In 1977 Goodall cofounded the Jane Goodall Institute for Wildlife Research, Education and Conservation in California. She created various other initiatives, including Jane Goodall’s Roots & Shoots (1991), a youth service program.",
+    "Tags": [
+      "Jane Goodall",
+      "Animal behaviour",
+      "Chimpanzee behaviour",
+      "Jane Goodall Institute",
+      "Jane Goodall’s Roots & Shoots",
+      "Gombe Stream Game Reserve"
+    ],
+    "url": "https://www.britannica.com/biography/Jane-Goodall",
+    "media": "https://www.britannica.com/biography/Jane-Goodall/images-videos",
+    "image_path": "https://cdn.britannica.com/30/163230-050-D8219091/Jane-Goodall.jpg",
     "image_width": "150"
   }
 ]
