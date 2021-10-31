@@ -27,11 +27,11 @@ git push origin branch-name
   6. Open a Pull Request
 
 > ⚠️ Note: 
-  Please look at [open issues](https://github.com/kwing25/Women-Who-ve-Changed-Tech/blob/550b3e897a317802292a49cdb78031851d177b06/api/TECH-PIONEER-CONTRIBUTE.md) & include all contribution details when submitting a Pull Request. Thanks!
+  Please look at [open issues](https://github.com/kwing25/Women-Who-ve-Changed-Tech/issues) & include all contribution details when submitting a Pull Request. Thanks!
 
 ### Add a Tech Pioneer to the Project API
 
-☞ See [Tech Pioneer Contribution](#) for more info
+☞ See [Tech Pioneer Contribution](https://github.com/kwing25/Women-Who-ve-Changed-Tech/blob/main/api/TECH-PIONEER-CONTRIBUTE.md) for more info
 
 ---
 # ☞🚨 ***To Make a Pull Request Follow this Template-***

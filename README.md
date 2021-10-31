@@ -7,10 +7,7 @@
   API & React App   👩🏻‍💻 </h1>
   <p align="center">
     API & React App of the History of Female Tech Pioneers & Women in the field today. This is an open source project aimed at collecting and sharing the history of Female Tech Pioneers <i> ☞ To participate and share the history of Female Tech Pioneers go to <a href="#contributing"><strong>Contributing</strong></a> & let's tell the story of amazing Tech & STEM Women who's stories are not often told! </i><img src="https://emojis.slackmojis.com/emojis/images/1581335465/7773/feminist_parrot.png?1581335465" height="24px" width="24px">  <img src="https://emojis.slackmojis.com/emojis/images/1617045507/25704/girl_power.gif?1617045507" height="24px" width="24px">
-    <br />
-    <br>
-    ☞ <strong><i> This project is participating in Hacktoberfest 2021. To contribute please go to <a href="#contributing">CONTRIBUTING.md</a> and look at <a href="https://github.com/kwing25/Women-Who-ve-Changed-Tech/issues">open issues</a> with label: <img src="https://img.shields.io/badge/-hacktoberfest-orange"></i></strong><a href="https://hacktoberfest.digitalocean.com/"> <i> Hacktoberfest Info & Guidelines</i> </a> 
-  </p>
+ </p>
 
   </div>
 
@@ -52,6 +49,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+     <li><a href="#contributors">Contributors</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -160,6 +158,13 @@ See `LICENSE.md` for more information.
 
 <p align="right"><a href="#top">↑</a></p>
 
+## Contributors
+#### *Thanks to all the <a href="https://hacktoberfest.digitalocean.com/"> <i> Hacktoberfest 2021</i> </a>  Contributors!* 
+
+<a href="https://github.com/kwing25/Women-Who-ve-Changed-Tech">
+  <img src="https://contrib.rocks/image?repo=kwing25/Women-Who-ve-Changed-Tech" />
+</a>
+
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 This project has been made with many resources and contributors. Thank you for all who've have contributed and helped this project grow 👏
@@ -169,11 +174,11 @@ This project has been made with many resources and contributors. Thank you for a
 * [Biography](https://www.biography.com/) - <i>Biographies</i>
 * [Britannica](https://www.britannica.com/) - <i>Biographies & References</i>
 * [API Evangelist](https://women-in-tech.apievangelist.com/) - <i>Research</i>
-* [Editor.md](https://pandao.github.io/editor.md/en.html) 
-* [Discordmojis](https://discordmojis.com/)
-* [Awesome Open Source](https://awesomeopensource.com/)
-* [Amazing Github Template](https://github.com/dec0dOS/amazing-github-template)
-* [Documentation Compendium](https://github.com/kylelobo/The-Documentation-Compendium)
+* [Documentation Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - <i>Documentation</i>
+* [Awesome Open Source](https://awesomeopensource.com/) - <i>Open Source Documentation</i>
+* [Amazing Github Template](https://github.com/dec0dOS/amazing-github-template) - <i>Readme</i>
+* [Editor.md](https://pandao.github.io/editor.md/en.html) - <i>Markdown</i>
+* [Discordmojis](https://discordmojis.com/) - <i>Markdown Graphics</i>
 
 <p align="right"><a href="#top">↑</a></p>
 
