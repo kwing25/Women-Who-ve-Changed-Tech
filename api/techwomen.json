@@ -870,11 +870,11 @@
     "image_width": "150"
   },
   {
-    "id": "",
+    "id": "28",
     "name": "Marie-Sophie (Sophie) Germain",
     "known_for": "Sophie Germain was a French mathematician who contributed notably to the study of acoustics, elasticity, and the theory of numbers.",
     "Bio": {
-      "Summary": "Germain using the pseudonym of M. Le Blanc because the social conventions of her time prevented women from following intellectual careers, managed to obtain lecture notes for courses from the newly organized École Polytechnique in Paris. Germain’s early work was in number theory. In 1816, the French Academy of Sciences awarded her a prize for her memoir on vibrations of general curved as well as plane surfaces. Germain worked on a general solution to Fermat’s last theorem, which states that there is no solution for the equation xn + yn = zn if n is an integer greater than 2 and x, y, and z are nonzero integers. She proved the special case in which x, y, z, and n are all relatively prime, and n is a prime smaller than 100. Germain did not publish her work. Her result first appeared in 1825 in the second edition of Legendre’s 'Théorie des nombres'.",
+      "Summary": "Germain using the pseudonym of M. Le Blanc because the social conventions of her time prevented women from following intellectual careers. She managed to obtain lecture notes for courses from the newly organized École Polytechnique in Paris. Germain’s early work was in number theory. In 1816, the French Academy of Sciences awarded her a prize for her memoir on vibrations of general curved as well as plane surfaces. Germain worked on a general solution to Fermat’s last theorem, which states that there is no solution for the equation xn + yn = zn if n is an integer greater than 2 and x, y, and z are nonzero integers. She proved the special case in which x, y, z, and n are all relatively prime, and n is a prime smaller than 100. Germain did not publish her work. Her result first appeared in 1825 in the second edition of Legendre’s 'Théorie des nombres'.",
       "Origin": "Paris, France",
       "DOB": "1 April 1776",
       "DOD": "27 juni 1831"
