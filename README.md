@@ -6,9 +6,10 @@
   <h1 align="center">Women Who've Changed Tech <br>
   API & React App   👩🏻‍💻 </h1>
   <p align="center">
-    API & React App of the History of Female Tech Pioneers & Women in the field today. This is an open source project aimed at collecting and sharing the history of Female Tech Pioneers <i> ☞ To participate and share the history of Female Tech Pioneers go to <a href="#contributing"><strong>Contributing</strong></a> & let's tell the story of amazing Tech & STEM Women who's stories are not often told! </i><img src="https://emojis.slackmojis.com/emojis/images/1581335465/7773/feminist_parrot.png?1581335465" height="24px" width="24px">  <img src="https://emojis.slackmojis.com/emojis/images/1617045507/25704/girl_power.gif?1617045507" height="24px" width="24px">
+    API & React App of the History of Female Tech Pioneers & Women in the field today. This is an open source project aimed at collecting and sharing the history of Female Tech Pioneers.<i> ☞ To participate and share the history of Female Tech Pioneers go to <a href="#contributing"><strong>Contributing</strong></a> & let's tell the story of amazing Tech & STEM Women who's stories are not often told! </i><img src="https://emojis.slackmojis.com/emojis/images/1581335465/7773/feminist_parrot.png?1581335465" height="24px" width="24px">  <img src="https://emojis.slackmojis.com/emojis/images/1617045507/25704/girl_power.gif?1617045507" height="24px" width="24px">
  </p>
 
+ <b><i>Project is in-progress and will be reopen for <a href="https://hacktoberfest.com/">Hacktoberfest 2022</a> contributions. Please check for more updates & open issues.</i></b>
   </div>
 
   ---
