@@ -94,7 +94,7 @@ a {
             animation-delay: 1.2s;
 
             #summary-info {
-                font-size: 15px;
+                font-size: 26px;
                 font-style: italic;
             }
 
@@ -175,10 +175,10 @@ a {
         border: none;
         animation: pulse 20s infinite;
         opacity: 0;
-            animation: fadeIn ease-in 1;
-            animation-fill-mode: forwards;
-            animation-duration: 1s;
-            animation-delay: 2.7s;
+        animation: fadeIn ease-in 1;
+        animation-fill-mode: forwards;
+        animation-duration: 1s;
+        animation-delay: 2.7s;
     }
 
     @keyframes pulse {
@@ -237,12 +237,15 @@ a {
         header.site-title h1 {
             font-size: 37px;
         }
+
         p#summary.lead {
             font-size: 15px;
         }
+
         p#summary.lead a {
             font-size: 15px;
         }
+
         p#quote.lead {
             padding-top: 17px;
             font-size: 15px;
@@ -252,11 +255,12 @@ a {
     h1#construction-page {
         font-size: 40px;
 
-        
+
     }
+
     input#form-control {
         padding-left: 5px;
         padding-right: 5px;
-     width: 100vw;  
+        width: 100vw;
     }
 }
