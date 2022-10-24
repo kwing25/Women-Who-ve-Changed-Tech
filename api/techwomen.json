@@ -1,909 +1,1069 @@
 [
-  {
-    "id": "1",
-    "name": "Ada Lovelace",
-    "known_for": "First Computer Programmer",
-    "Bio": {
-      "Summary": "The daughter of famed poet Lord Byron, Augusta Ada Byron, Countess of Lovelace — better known as \"Ada Lovelace\" — showed her gift for mathematics at an early age. She translated an article on an invention by Charles Babbage, and added her own comments. Because she introduced many computer concepts, Lovelace is considered the first computer programmer",
-      "Origin": "London, England",
-      "DOB": "10 December 1815",
-      "DOD": "27 November 1852"
-    },
-    "Fields": [
-      {
-        "Mathematics": null
-      },
-      {
-        "Computing": [
-          "Programming",
-          "Algorithms"
-        ]
-      }
-    ],
-    "Legacy": "Lovelace's contributions to the field of computer science were not discovered until the 1950s. Her notes were reintroduced to the world by B.V. Bowden, who republished them in 'Faster Than Thought - A Symposium on Digital Computing Machines'. Since then, Ada has received many posthumous honors for her work.",
-    "Tags": [
-      "Ada Lovelace Day",
-      "History of Computing",
-      "Tech Pioneer",
-      "Women in Tech",
-      "Analytical Engine",
-      "Computer Programming"
-    ],
-    "url": "https://www.britannica.com/biography/Ada-Lovelace",
-    "media": "https://www.britannica.com/biography/Ada-Lovelace/images-videos",
-    "image_path": "https://cdn.britannica.com/22/23622-050-E60DC899/Ada-King-countess-Lovelace-Alfred-Edward-Chalon-circa-1838.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "2",
-    "name": "Grace Hopper",
-    "known_for": "Computer Scientist and Naval Officer",
-    "Bio": {
-      "Summary": "Grace Hopper joined the U.S. Navy during World War II and was assigned to program the Mark I computer. She continued to work in computing after the war, leading the team that created the first computer language compiler, which led to the popular COBOL language. She resumed active naval service at the age of 60, becoming a rear admiral before retiring in 1986.",
-      "Origin": "New York, USA",
-      "DOB": "6 December 1906",
-      "DOD": "1 January 1992"
-    },
-    "Fields": [
-      {
-        "Mathematics": null
-      },
-      {
-        "Computing": [
-          "Programming"
-        ]
-      }
-    ],
-    "Legacy": "Hopper was awarded the National Medal of Technology in 1991, becoming the first female individual recipient of the honor. In addition to her programming accomplishments, Hopper's legacy includes encouraging young people to learn how to program. The Grace Hopper Celebration of Women In Computing Conference is a technical conference that encourages women to become part of the world of computing, while the Association for Computing Machinery offers a Grace Murray Hopper Award. Hopper was awarded the Presidential Medal of Freedom posthumously in 2016.",
-    "Tags": [
-      "COBOL",
-      "UNIVAC I",
-      "History of Computing",
-      "Tech Pioneer",
-      "Women in Tech",
-      "Computer Programming"
-    ],
-    "url": "https://www.britannica.com/biography/Grace-Hopper",
-    "media": "https://www.britannica.com/biography/Grace-Hopper/images-videos",
-    "image_path": "https://cdn.britannica.com/00/149300-050-DC398492/Grace-Murray-Hopper-Bureau-of-Ordnance-Computation-1946.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "3",
-    "name": "Hedy Lamarr",
-    "known_for": "Inventor of WiFi",
-    "Bio": {
-      "Summary": "Lamarr was a self-taught inventor and film actress, who was awarded a patent in 1942 for her secret communication system, designed with the help of the composer George Antheil. This frequency hopping system was intended as a way to set radio-guided torpedos off course during the war, but the idea eventually inspired Wi-Fi, GPS and Bluetooth technology commonly used today.",
-      "Origin": "Vienna, Austria-Hungary",
-      "DOB": "9 November 1914",
-      "DOD": "19 January 2000"
-    },
-    "Fields": [
-      {
-        "Mathematics": null
-      },
-      {
-        "Computing": [
-          "Wireless Communication"
-        ]
-      }
-    ],
-    "Legacy": "Lamarr was awarded U.S. Patent No. 2,292,387 in August of 1942. The Electronic Frontier Foundation jointly awarded Lamarr and Antheil with their Pioneer Award in 1997. Lamarr also became the first woman to receive the Invention Convention’s Bulbie Gnass Spirit of Achievement Award. Lamarr was inducted posthumously into the National Inventors Hall of Fame for the development of her frequency hopping technology in 2014.",
-    "Tags": [
-      "WiFi",
-      "Communication",
-      "Tech Pioneer",
-      "Women in Tech",
-      "GPS",
-      "Bluetooth"
-    ],
-    "url": "https://www.britannica.com/biography/Hedy-Lamarr",
-    "media": "https://www.britannica.com/biography/Hedy-Lamarr/images-videos",
-    "image_path": "https://cdn.britannica.com/96/133096-050-34226B5F/Hedy-Lamarr.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "4",
-    "name": "Katherine Johnson",
-    "known_for": "Early NASA Pioneer",
-    "Bio": {
-      "Summary": "West Virgina born mathematician Katherine Johnson, began her career working at the National Advisory Committee for Aeronautics (NACA)’s West Area Computing unit, a group of African American women who manually performed complex mathematical calculations for the program’s engineers. She analyzed test data and provided mathematical computations that were essential to the success of the early U.S. space program. Johnson, also known as \"Katherine Coleman\", would continue her work at NASA where she calculated and analyzed the flight paths of many spacecraft during her more than 30 years working with the U.S. space program, including the Apollo 11 mission of 1969, that helped send astronauts to the Moon.",
-      "Origin": "West Virgina, USA",
-      "DOB": "26 August 1918",
-      "DOD": "24 February 2020"
-    },
-    "Fields": [
-      {
-        "Mathematics": true
-      },
-      {
-        "Computing": [
-          "Algorithms",
-          "Data Analysis"
-        ]
-      }
-    ],
-    "Legacy": "Johnson has been widely recognized for her achievements through a series of awards, including but not limited to, the 1967 NASA Lunar Orbiter Spacecraft and Operations team award, and the National Technical Association’s designation as its 1997 Mathematician of the Year. Additionally, she earned honorary degrees from SUNY Farmingdale, Maryland's Capitol College, Virginia's Old Dominion University and West Virginia University. She also went on to receive the Presidential Medal of Freedom in 2015.",
-    "Tags": [
-      "Aerospace",
-      "Women in Tech",
-      "NASA",
-      "Human computer",
-      "Hidden Figures"
-    ],
-    "url": "https://www.britannica.com/biography/Katherine-Johnson-mathematician",
-    "media": "https://www.britannica.com/biography/Katherine-Johnson-mathematician/images-videos",
-    "image_path": "https://cdn.britannica.com/74/194174-050-7D2254A4/Katherine-Johnson-1966.jpg",
-    "image_width": ""
-  },
-  {
-    "id": "5",
-    "name": "Barbara McClintock",
-    "known_for": "Discovering genetic transposition (jumping genes) ",
-    "Bio": {
-      "Summary": "McClintock was an American scientist and cytogeneticist who was awarded the 1983 Nobel Prize in Physiology or Medicine. McClintock received her PhD in botany from Cornell University in 1927. There she started her career as the leader in the development of maize cytogenetics, the focus of her research for the rest of her life. From the late 1920s, McClintock studied chromosomes and how they change during reproduction in maize. She developed the technique for visualizing Maize chromosomes and used microscopic analysis to demonstrate many fundamental genetic ideas.",
-      "Orgin": "Hartford, Connecticut, USA",
-      "DOB": "16 June 1902",
-      "DOD": "2 September 1992"
-    },
-    "Fields": [
-      {
-        "Mathematics": null
-      },
-      {
-        "Computing": [
-          "null"
-        ]
-      }
-    ],
-    "Legacy": "McClintock received the Nobel Prize for Physiology or Medicine in 1983, the first woman to win that prize unshared and the first American woman to win any unshared Nobel Prize. It was given to her by the Nobel Foundation for discovering mobile genetic elements. ",
-    "Tags": [
-      "Barbara McClintock",
-      "jumping genes",
-      "STEM Pioneer",
-      "Women in Medicine",
-      "Noble Prize Winner"
-    ],
-    "url": "https://www.britannica.com/biography/Barbara-McClintock",
-    "media": "https://www.britannica.com/biography/Barbara-McClintock/images-videos",
-    "image_path": "https://cdn.britannica.com/19/151119-050-6AAFA850/Barbara-McClintock-laboratory-Cold-Spring-Harbor-New-March-26-1947.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "6",
-    "name": "Elizebeth Smith Friedman",
-    "known_for": "America's first female cryptanalyst",
-    "Bio": {
-      "Summary": "Armed with a sharp mind and nerves of steel, Elizebeth Smith Friedman cracked hundreds of ciphers during her career as America’s first female cryptanalyst, successfully busting smugglers during Prohibition and, most notably, breaking up a Nazi spy ring across South America during the 1940s.",
-      "Origin": "Huntington, Indiana, USA",
-      "DOB": "August 26 1892",
-      "DOD": "October 31 1980"
-    },
-    "Fields": [
-      {
-        "Mathematics": null
-      },
-      {
-        "Computing": [
-          "Cryptanalysis",
-          "Cryptography",
-          "Algorithms"
-        ]
-      }
-    ],
-    "Legacy": "Elizebeth Smith Friedman’s wartime codebreaking work was so secret that she was forbidden to mention it in public. She died many years before government archives were brought to light showing what she had done. During and after World War 2, J. Edgar Hoover and the FBI took the credit for work Elizebeth and her U.S. Coast Guard team had carried out.",
-    "Tags": [
-      "Elizebeth Smith Friedman",
-      "First Female Cryptanalyst",
-      "American Expert and Author",
-      "Women in Tech",
-      "Cryptography",
-      "Codebreaker"
-    ],
-    "url": "https://www.famousscientists.org/elizebeth-smith-friedman/",
-    "media": "https://time.com/5928583/elizebeth-friedman-codebreaker/?jwsource=cl",
-    "image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Elizebeth-Friedman.jpg/450px-Elizebeth-Friedman.jpg"
-  },
-  {
-    "id": "7",
-    "name": "Edith Clarke",
-    "known_for": "First female professor of electrical engineering in the USA",
-    "Bio": {
-      "Summary": "Clarke was the first woman to be professionally employed as an engineer. She was the first woman named as a Fellow of the American Institute of Electrical Engineers. She specialized in electrical power system analysis. As the first woman to deliver a paper at the American Institute of Electrical Engineers' (AIEE) annual meeting, she showed the use of hyperbolic functions for calculating the maximum power that a line could carry without instability. Clarke wrote an influential textbook in the field of power engineering that was used as the basis of education for electrical engineers.",
-      "Origin": "Howard County, Maryland, USA",
-      "DOB": "10 February 1883",
-      "DOD": "October 29, 1959"
-    },
-    "Fields": [
-      {
-        "Mathematics": true
-      },
-      {
-        "Computing": null
-      },
-      {
-        "Electrical Engineering": [
-          "Power Transmission",
-          "Hydroelectricity",
-          "Power Engineering"
-        ]
-      }
-    ],
-    "Legacy": "Clarke was the first woman to earn an M.S. in electrical engineering from MIT. She was awarded a patent for her Clarke Calculator in 1925. She became the first female engineer to achieve professional standing in Tau Beta Pi. Clarke was the first female Fellow, and full voting member, of the American Institute of Electrical Engineers. She received the Society of Women Engineers Achievement Award in 1954. In 2015 Clarke was posthumously inducted into the National Inventors Hall of Fame.",
-    "Tags": [
-      "Women in Engineering",
-      "Society of Women Engineers",
-      "Clarke calculator",
-      "Power Engineering",
-      "Women in Tech",
-      "Female professors"
-    ],
-    "url": "https://en.wikipedia.org/wiki/Edith_Clarke",
-    "media": "",
-    "image_path": "https://en.wikipedia.org/wiki/Edith_Clarke#/media/File:Edith_Clarke.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "8",
-    "name": "Marie Curie",
-    "known_for": "Work on radioactivity",
-    "Bio": {
-      "Summary": "From childhood she was remarkable for her prodigious memory, and at the age of 16 she won a gold medal on completion of her secondary education at the Russian lycée. Because her father, a teacher of mathematics and physics, lost his savings through bad investment, she had to take work as a teacher and, at the same time, took part clandestinely in the nationalist “free university,” reading in Polish to women workers. At the age of 18 she took a post as governess, where she suffered an unhappy love affair. From her earnings she was able to finance her sister Bronisława’s medical studies in Paris, with the understanding that Bronisława would in turn later help her to get an education.",
-      "Orgin": "Warsaw, Poland",
-      "DOB": "7 November 1867",
-      "DOD": "4 July 1934"
-    },
-    "Fields": [
-      {
-        "Physics": [
-          "Radioactivity",
-          "Radium"
-        ]
-      }
-    ],
-    "Legacy": "She was a famous for her work on radioactivity and twice a winner of the Nobel Prize. With Henri Becquerel and her husband, Pierre Curie, she was awarded the 1903 Nobel Prize for Physics. She was the sole winner of the 1911 Nobel Prize for Chemistry. She was the first woman to win a Nobel Prize, and she is the only woman to win the award in two different fields.",
-    "Tags": [
-      "Physics Pioneer",
-      "Women in Tech",
-      "Nobel Prize Winner",
-      "Radioactivity"
-    ],
-    "url": "https://www.britannica.com/biography/Marie-Curie",
-    "media": "https://www.britannica.com/biography/Marie-Curie/images-videos",
-    "image_path": "https://cdn.britannica.com/12/12512-004-80322EC3/Marie-Curie.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "9",
-    "name": "Maria Klawe",
-    "known_for": "Computer scientist and fifth president of Harvey Mudd College",
-    "Bio": {
-      "Summary": "Toronto born naturalised American citizen Klawe holds PhDs in Mathematics and Computer Science. She worked as a researcher for IBM and became the manager of their Mathematics and Related Computer Science Department. Klawe moved to the University of British Colombia and served as head of the Department of Computer Science (1988-1995), vice president of student and academic services (1995-1998), and dean of science (1998-2002). She was on the board of directors of Microsoft from 2009-2015. Klawe is a strong advocate for increasing the representation of women in STEM fields. In 1991, she founded CRA-W (The Computing Research Association's Committee on the Status of Women in Computing Research) with Nancy Leveson.",
-      "Origin": "Toronto, Ontario, Canada",
-      "DOB": "1951",
-      "DOD": ""
-    },
-    "Fields": [
-      {
-        "Mathematics": true
-      },
-      {
-        "Computing": [
-          "Computer Science",
-          "Algorithms for Geometry"
-        ]
-      }
-    ],
-    "Legacy": "Klawe is a fellow of the Association for Computing Machinery, the American Academy of Arts and Sciences, the American Mathematical Society, and the Association for Women in Mathematics. She is a founding fellow of the Canadian Information Processing Society. Klawe holds honorary doctorates from Ryerson Polytechnic University, University of Waterloo, Queen's University, Dalhousie University, Acadia University, University of Alberta, University of Ottawa, University of British Columbia, University of Toronto, Concordia University and McGill University.",
-    "Tags": [
-      "Maria Klawe",
-      "Harvey Mudd College",
-      "Women in Computer Science",
-      "Anita Borg Institute",
-      "Aphasia Project",
-      "Association for Computing Machinery",
-      "A. Nico Habermann award"
-    ],
-    "url": "https://en.wikipedia.org/wiki/Maria_Klawe",
-    "media": "",
-    "image_path": "https://en.wikipedia.org/wiki/Maria_Klawe#/media/File:Maria_Klawe_2015.jpg",
-    "image_width": ""
-  },
-  {
-    "id": "10",
-    "name": "Susan Diane Wojcicki",
-    "known_for": "CEO of YouTube",
-    "Bio": {
-      "Summary": "Wojcicki was involved in the founding of Google, and became Google's first marketing manager in 1999. She later led the company's online advertising business and was put in charge of Google's original video service. After observing the success of YouTube, Wojcicki proposed the acquisition of YouTube by Google in 2006, and has served as CEO of YouTube since 2014",
-      "Orgin": "Santa Clara County, California, U.S.",
-      "DOB": "5 July 1968",
-      "DOD": null
-    },
-    "Fields": [
-      {
-        "Economics": true
-      },
-      {
-        "Business Administration": true
-      }
-    ],
-    "Legacy": "Wojcicki first became involved with video sharing in connection with the launch of Google Video in 2005. The following year she oversaw the purchase of rival YouTube, an equally new venture that was enjoying greater success.",
-    "Tags": [
-      "Women in Tech",
-      "World's 100 Most Powerful Women",
-      "America's Self-Made Women"
-    ],
-    "url": "https://en.wikipedia.org/wiki/Susan_Wojcicki",
-    "media": "https://www.britannica.com/biography/Susan-Wojcicki/images-videos",
-    "image_path": "https://cdn.britannica.com/40/193940-050-5446F640/Susan-Wojcicki-2014.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "11",
-    "name": "Adele Goldberg",
-    "known_for": "creators of Smalltalk-80—a programming language",
-    "Bio": {
-      "Summary": "Adele Goldberg was one of the creator of the Smalltalk-80-a at Xeron Palo Alto Research Center, smalltalk-80 was a programming language that later incorporated into the programming configuration of the Macintosh computer. She is also the co-founder of the ParcPlace and on the board at Cognito Learning Media",
-      "Orgin": "Cleveland, Ohio, USA",
-      "DOB": "July 22, 1945",
-      "DOD": null
-    },
-    "Fields": [
-      {
-        "Computer science": true
-      }
-    ],
-    "Legacy": "Adele Goldberg was one of the developer of the smalltalk-80, it is a programming language that developed the object-oriented approach of Simula 67 and introduced a programming environment of overlapping windows on graphic display screens,she was also involved in the development of design templates, forerunners of the design patterns later used in software design",
-    "Tags": [
-      "Smalltalk-80 developer",
-      "Forbes’s 20 Who Matter",
-      "co-founder ParcPlace Systems",
-      "Presidenr Association for Computing Machinery (ACM) "
-    ],
-    "url": "https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)",
-    "media": "",
-    "image_path": "https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)#/media/File:Adele_Goldberg_at_PyCon_2007.jpg",
-    "image_width": ""
-  },
-  {
-    "id": "12",
-    "name": "Ellen Ochoa",
-    "known_for": "American astronaut and first Hispanic woman to travel into space",
-    "Bio": {
-      "Summary": "Ochoa studied electrical engineering at Stanford University. She was selected by NASA in 1990 to participate in its astronaut program, and she became the first Hispanic female astronaut when she completed her training in 1991. In April 1993 Ochoa served as mission specialist aboard the STS-56 mission of the space shuttle Discovery, becoming the first Latina to be launched into space. In May 1999 she was a member of the Discovery STS-96 crew that executed the first docking to the International Space Station (ISS). Ochoa served as director of NASA’s Johnson Space Center (2013–18).",
-      "Orgin": "Los Angeles, California, USA",
-      "DOB": "10 May 1958",
-      "DOD": ""
-    },
-    "Fields": [
-      {
-        "Aeronautics and Astronautics": true
-      },
-      {
-        "Electrical Engineering": [
-          "Optical Systems",
-          "Aerospace Engineering"
-        ]
-      },
-      {
-        "Mathematics": true
-      },
-      {
-        "Computing": true
-      }
-    ],
-    "Legacy": "Women in Aerospace Outstanding Achievement Award, Hispanic Engineer Albert Baez Award for Outstanding Technical Contribution to Humanity, Hispanic Heritage Leadership Award, Distinguished Service Medal, Exceptional Service Medal, Outstanding Leadership Medal, and four Space Flight Medals.",
-    "Tags": [
-      "Ellen Ochoa",
-      "Female Astronaut",
-      "Latina Astronaut",
-      "Female Engineer",
-      "NASA",
-      "Lyndon B. Johnson Space Center",
-      "Optical Systems"
-    ],
-    "url": "https://www.britannica.com/biography/Ellen-Ochoa",
-    "media": "https://www.britannica.com/biography/Ellen-Ochoa/images-videos",
-    "image_path": "https://cdn.britannica.com/97/92997-050-241C3C38/Ellen-Ochoa.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "13",
-    "name": "Rosalind Franklin",
-    "known_for": "Discovered the molecular structure of DNA",
-    "Bio": {
-      "Summary": "Franklin was a British scientist best known for her contributions to the discovery of the molecular structure of deoxyribonucleic acid (DNA), a constituent of chromosomes that serves to encode genetic information. Her work to make clearer X-ray patterns of DNA molecules laid the foundation for studies on the structure of DNA as a double-helix polymer. Franklin discovered the B type DNA, establishing that DNA molecules can exist in more than one form. She also contributed new insight on the structure of viruses, helping to lay the foundation for the field of structural virology.",
-      "Origin": "London, England",
-      "DOB": "25 July 1920",
-      "DOD": "16 April 1958"
-    },
-    "Fields": [
-      {
-        "Physical Chemistry": true
-      },
-      {
-        " X-ray diffraction technology": true
-      },
-      {
-        "Virology": true
-      }
-    ],
-    "Legacy": "Franklin received a doctorate in Physical Chemistry from Cambridge University. She was a Research Fellow at King's College. Franklin published 17 papers on viruses, and laid the foundations for structural virology. Her X-ray diffraction research of DNA became critical evidence in identifying the structure of DNA. Two scientists, Crick and Watson, took most of the credit for the finding. They used it as the basis for their famous model of DNA, for which they received a Nobel Prize in 1962.",
-    "Tags": [
-      "Rosalind Franklin",
-      "DNA structure",
-      "B type DNA",
-      "Double-helix polymer",
-      "X-ray diffraction",
-      "Structural virology"
-    ],
-    "url": "https://www.britannica.com/biography/Rosalind-Franklin",
-    "media": "https://www.britannica.com/biography/Rosalind-Franklin/images-videos",
-    "image_path": "https://cdn.britannica.com/30/99730-050-E68F62FF/Rosalind-Franklin.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "14",
-    "name": "Radia Joy Perlman",
-    "known_for": "Invention of the Spanning-Tree Protocol, TRILL, and IS-IS",
-    "Bio": {
-      "Summary": "Perlman, an MIT graduate, developed the spanning-tree protocol, which greatly improved ethernet scalability. She later developed TRILL, an improvement on spanning-trees. Her IS-IS protocol is still used for IP routing, four decades later.",
-      "Orgin": "Portsmouth, Virginia, USA",
-      "DOB": "18 December 1951",
-      "DOD": null
-    },
-    "Fields": [
-      {
-        "Computer Science": true
-      },
-      {
-        "Mathematics": true
-      }
-    ],
-    "Legacy": "Algorithms Perlman developed are still being used in network protocols today. Without her contributions, the internet would not be as robust as it is today.",
-    "Tags": [
-      "Women in Tech",
-      "Internet Hall of Fame",
-      "Women in Computer Science",
-      "Internet",
-      "Routing Protocols"
-    ],
-    "url": "https://www.internethalloffame.org/inductees/radia-perlman",
-    "media": "",
-    "image_path": "https://www.internethalloffame.org/sites/default/files/inductees/radia_perlman.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": 15,
-    "name": "Valerie Thomas",
-    "known_for": "Inventing the illusion transmitter and contributions to NASA research",
-    "Bio": {
-      "Summary": "Valerie Thomas",
-      "Origin": "Maryland, USA",
-      "DOB": "February 1943",
-      "DOD": null
-    },
-    "Fields": [
-      "Physics",
-      "Mathematics"
-    ],
-    "Legacy": "Thomas received a patent for the illusion transmitter. The technology was adopted by NASA and has since been adapted for use in surgery as well as the production of TV and video screens.",
-    "Tags": [
-      "Women in Tech",
-      "NASA",
-      "Tech Pioneer"
-    ],
-    "url": "https://www.biography.com/scientist/valerie-thomas",
-    "media": "https://mynasadata.larc.nasa.gov/sites/default/files/inline-images/ValerieThomas-LandsatImageProcessing.png",
-    "image_path": "https://mynasadata.larc.nasa.gov/sites/default/files/inline-images/ValerieThomas-LandsatImageProcessing.png",
-    "image_width": "150"
-  },
-  {
-    "id": 16,
-    "name": "Sheryl Sandberg",
-    "known_for": "Facebook COO",
-    "Bio": {
-      "Summary": "Sheryl Sandberg",
-      "Origin": "Washington, DC, USA",
-      "DOB": "August 28, 1969",
-      "DOD": null
-    },
-    "Fields": [
-      "Computer Science",
-      "Philanthropist"
-    ],
-    "Legacy": "Sheryl Kara Sandberg is an American Business executive, Billionaire and Philanthropist.Sandberg is the chief operating officer of Facebook and the founder of LeanIn.Org. In June 2012, she was elected to Facebook's board of directors, becoming the first woman to serve on its board.",
-    "Tags": [
-      "Women in Tech",
-      "FACEBOOK",
-      "Tech Pioneer",
-      "Philanthropist"
-    ],
-    "url": "https://www.britannica.com/biography/Sheryl-Sandberg",
-    "media": "https://youtu.be/twwEG11F0lo",
-    "image_path": "https://cdn.britannica.com/97/163897-050-A071A905/Sheryl-Sandberg-Facebook.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "17",
-    "name": "Rachel Louise Carson",
-    "known_for": "Writer of some of the most influential environmental writing ever published",
-    "Bio": {
-      "Summary": "Carson was an American biologist with a deep interest in the natural world. After graduating in biology from the John Hopkins University, she pursued postgraduate studies at the Marine Biological Laboratory in Woods Hole, Massachusetts. Carson took a position as aquatic biologist with the U.S. Bureau of Fisheries. She published a number of acclaimed books. Carson’s prophetic Silent Spring (1962) became a bestseller, creating worldwide awareness of the dangers of environmental pollution. The book argued that the planetary ecosystem was reaching the limits of what it could sustain. Carson made a strong warning of the consequences of indiscriminate pesticide use.",
-      "Origin": "Springdale, Pennsylvania, USA",
-      "DOB": "27 May 1907",
-      "DOD": "14 April 1964"
-    },
-    "Fields": [
-      {
-        "Biology": true
-      },
-      {
-        "Aquatic Biology": true
-      },
-      {
-        "Environmentalism": true
-      }
-    ],
-    "Legacy": "As a science writer, Carson published several books. Her book “The Sea Around Us” (1951) became a national bestseller and won a National Book Award, and the John Burroughs Medal for the most distinguished natural history book. “Silent Spring” (1962) also became a bestseller.",
-    "Tags": [
-      "Rachel Carson",
-      "Aquatic Biology",
-      "Environmental pollution",
-      "Pesticides",
-      "DDT"
-    ],
-    "url": "https://www.britannica.com/biography/Rachel-Carson",
-    "media": "https://www.britannica.com/biography/Rachel-Carson/images-videos",
-    "image_path": "https://cdn.britannica.com/13/19413-050-A75D4BE2/Rachel-Carson.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "18",
-    "name": "Laura Bassi",
-    "known_for": "Bassi was the first woman to become a physics professor at a European university.",
-    "Bio": {
-      "Summary": "In 1732, Bassi was admitted to the Bologna Academy of Sciences as its first female member. She became doctor of philosophy. Several of her theses showed the influence of Isaac Newton’s works on optics and light. She wrote a set of theses about the properties of water, which led to her being awarded an honorary post at the university as a professor in physics. Bassi was an early proponent of Newtonian physics and based her teaching on Newton’s Principia. In 1760, Bassi performed experiments on possible medicinal applications of electricity, but did not publish on the subject. She was appointed as chair of experimental physics at the University of Bologna in 1776, the first woman named to a chair of physics at a university.",
-      "Origin": "Bologna, Italy",
-      "DOB": "31 October 1711",
-      "DOD": "20 February 1778"
-    },
-    "Fields": [
-      {
-        "Philosophy": true
-      },
-      {
-        "Physics": true
-      }
-    ],
-    "Legacy": "Laura Bassi was the first woman to become a physics professor at a European university. She was the first woman admitted to the Bologna Academy of Sciences and the only woman to join the Benedettini, a select group of 25 leading scientists. She was the first woman named to a chair of physics at a university.",
-    "Tags": [
-      "Laura Bassi",
-      "Female Physics Professor",
-      "Benedettini",
-      "First female university chair"
-    ],
-    "url": "https://www.britannica.com/biography/Laura-Bassi",
-    "media": "",
-    "image_path": "https://upload.wikimedia.org/wikipedia/commons/3/31/Laura_Bassi.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "19",
-    "name": "Mary Anning",
-    "known_for": "Anning was the greatest fossil finder of her era, powerfully influencing the new science of paleontology",
-    "Bio": {
-      "Summary": "Anning was an English fossil hunter and amateur anatomist credited with the discovery of several dinosaur specimens that assisted in the development of paleontology. Her excavations aided the careers of many British scientists by providing them with specimens to study, and framed a significant part of Earth’s geologic history. Fossils recovered by Anning may have contributed to the theory of evolution put forth by Charles Darwin. Anning received annuities from the British Association for the Advancement of Science and the Geological Society of London, in recognition of her contributions to science (these did not admit women). In 2010 she was recognized by the Royal Society as one of the 10 most influential women scientists in British history.",
-      "Origin": "Lyme Regis, England",
-      "DOB": "21 May 1799",
-      "DOD": "9 March 1847"
-    },
-    "Fields": [
-      {
-        "Anatomy": true
-      },
-      {
-        "Paleontology": true
-      },
-      {
-        "Geology": true
-      }
-    ],
-    "Legacy": "Anning made the first ever discovery of a complete Plesiosaurus macrocephalus skeleton. She discovered fossils of Ichthyosaur, Dimorphodon macronyx, and Squaloraja. Anning's studies of fossilized feces showed the diets of animals hundreds of millions of years ago. She was at the forefront of a new science utilizing fossils to reveal Earth’s natural history: paleontology.",
-    "Tags": [
-      "Mary Anning",
-      "Fossils",
-      "Paleontology",
-      "Coprolite",
-      "Ammonites",
-      "Dinosaur excavation"
-    ],
-    "url": "https://www.britannica.com/biography/Mary-Anning",
-    "media": "",
-    "image_path": "http://publish.illinois.edu/womeningeology/files/2014/12/Mary_Anning_portrait.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "20",
-    "name": "Caroline Herschel",
-    "known_for": "Herschel was a German-born British astronomer and is considered the first professional female astronomer",
-    "Bio": {
-      "Summary": "Herschel started her work in astronomy by making important contributions to the work of her brother Sir William Herschel, who discovered Uranus in 1781. She executed many of the calculations connected with his studies. She detected by telescope three nebulae in 1783, and in 1786 she discovered a periodic comet. She was the first woman to discover a comet; over the next 11 years she spotted seven other comets. Herschel completed the cataloging of 2,500 nebulae and many star clusters. In 1798 she presented to the Royal Society a catalog of 560 stars omitted from the British Catalogue and a list of the errata in that publication. In 1828, when Herschel was 77, the Astronomical Society awarded her its gold medal.",
-      "Origin": "Hannover, Germany",
-      "DOB": "16 March 1750",
-      "DOD": "9 January 1848"
-    },
-    "Fields": [
-      {
-        "Astronomy": true
-      }
-    ],
-    "Legacy": "Herschel was a pioneer in the field of astronomy and the first professional female astronomer. She discovered nebulae, a period comet that was later named 35P/Herschel-Rigollet, and seven more comets. Herschel made a huge contribution to indexing and cataloguing stars and nebulae and was awarded a gold medal by The Astronomical Society.",
-    "Tags": [
-      "Caroline Herschel",
-      "Astronomy",
-      "First female astronomer",
-      "35P/Herschel-Rigollet comet",
-      "The Astronomical Society"
-    ],
-    "url": "https://www.britannica.com/biography/Caroline-Lucretia-Herschel",
-    "media": "https://www.britannica.com/biography/Caroline-Lucretia-Herschel/images-videos",
-    "image_path": "https://cdn.britannica.com/82/203582-050-7F44FC85/Caroline-Herschel.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "21",
-    "name": "Maryam Mirzakhani",
-    "known_for": "Mirzakhani was an Iranian mathematician and the first woman to be awarded a Fields Medal",
-    "Bio": {
-      "Summary": "Mirzakhani received a B.Sc. degree in mathematics from the Sharif University of Technology in Tehrān. She earned a Ph.D. from Harvard University for her dissertation 'Simple Geodesics on Hyperbolic Surfaces and Volume of the Moduli Space of Curves'. Mirzakhani served (2004–08) as a Clay Mathematics Institute research fellow and an assistant professor of mathematics at Princeton University. In 2008 she became a professor at Stanford University. Her work focused on the study of hyperbolic surfaces by means of their moduli spaces.",
-      "Origin": "Tehran, Iran",
-      "DOB": "3 May 1977",
-      "DOD": "14 July 2017"
-    },
-    "Fields": [
-      {
-        "Mathematics": true
-      },
-      {
-        "Geometry": true
-      }
-    ],
-    "Legacy": "Mirzakhani was the first woman and the first Iranian to be awarded a Fields Medal, in recognition of her outstanding contributions to the dynamics and geometry of Riemann surfaces and their moduli spaces. Mirzakhani found that a property of the modulus space corresponds to the number of simple closed geodesics of the hyperbolic surface.",
-    "Tags": [
-      "Maryam Mirzakhani",
-      "First woman Fields Medal",
-      "Euclidean geometry",
-      "Euclidean space",
-      "Riemann surface",
-      "Hyperbolic space"
-    ],
-    "url": "https://www.britannica.com/biography/Maryam-Mirzakhani",
-    "media": "https://www.britannica.com/biography/Maryam-Mirzakhani/images-videos",
-    "image_path": "https://cdn.britannica.com/15/181315-050-9BC8F4C6/Maryam-Mirzakhani.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "22",
-    "name": "Inge Lehmann",
-    "known_for": "Lehmann was a Danish seismologist who discovered the inner core of Earth in 1936 by using seismic wave data. She co-founded the Danish Geophysical Society",
-    "Bio": {
-      "Summary": "Lehmann graduated with a cand.mag. in mathematics from the University in Copenhagen in 1920. She joined the Royal Danish Geodetic Institute, setting up Denmark’s first seismic stations near Copenhagen and in Greenland. Lehmann continued to study seismology, graduating with a magister scientiarum in 1928. She was appointed as the state geodesist and head of the Seismological Department of the Royal Danish Geodetic Institute. In 1936, she published a paper on a three-shelled model of Earth’s interior (mantle, outer core, and inner core), with seismic waves traveling through each shell at different but constant velocities. The model postulated the existence of an inner core. In 1970, advanced seismographs provided unequivocal evidence of the inner core’s existence. The boundary between the inner and outer core is known as the Lehmann discontinuity.",
-      "Origin": "Copenhagen, Denmark",
-      "DOB": "May 13 1888",
-      "DOD": "21 February 1993"
-    },
-    "Fields": [
-      {
-        "Mathematics": true
-      },
-      {
-        "Seismology": true
-      },
-      {
-        "Geophysics": true
-      }
-    ],
-    "Legacy": "The boundary between the Earth's inner and outer core, at a depth of approx. 5,100 km, is known as the Lehmann discontinuity. In 1950, Lehmann became President of the European Seismological Federation. Lehmann was awarded the William Bowie Medal of the American Geophysical Union in 1971 for her contributions in the field of geophysics, and the Medal of the Seismological Society of America in 1977. The American Geophysical Union created the Inge Lehmann Medal in her honour in 1995, to be awarded to researchers displaying “outstanding contributions to the understanding of the structure, composition, and dynamics of the Earth’s mantle and core.",
-    "Tags": [
-      "Inge Lehmann",
-      "Lehmann Discontinuity",
-      "Co-founder Danish Geophysical Society",
-      "Earth's core",
-      "Seismic wave"
-    ],
-    "url": "https://www.britannica.com/biography/Inge-Lehmann",
-    "media": "https://www.britannica.com/biography/Inge-Lehmann/images-videos",
-    "image_path": "https://wiki.seg.org/images/7/71/Inge_Lehmann_1932.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "23",
-    "name": "Emmy Noether",
-    "known_for": "Amalie Emmy Noether was a German mathematician whose innovations in higher algebra gained her recognition as the most creative abstract algebraist of modern times",
-    "Bio": {
-      "Summary": "Noether studied mathematics at the University of Erlangen at a time when women were only allowed to audit classes with the permission of the instructor. She received a Ph.D. degree in 1907, with a dissertation on algebraic invariants. Noether discovered the relation between what are known as the symmetries of a physical system and its conservation laws. This is known as Noether’s theorem and is a key result in theoretical physics. She became an academic lecturer in 1919 in a time where many objected to women teaching at universities. Noether was one of the principle architects of abstract algebra.",
-      "Origin": "Erlangen, Germany",
-      "DOB": "23 March 1882",
-      "DOD": "14 April 1935"
-    },
-    "Fields": [
-      {
-        "Mathematics": true
-      },
-      {
-        "Physics": true
-      }
-    ],
-    "Legacy": "Noether's name is remembered in many concepts of abstract algebra: Noetherian, Noetherian group, Noetherian induction, Noether normalization, Noether problem, Noetherian ring, Noetherian module, Noetherian scheme, Noetherian space, Albert–Brauer–Hasse–Noether theorem, Lasker–Noether theorem, and Skolem–Noether theorem. Einstein wrote after her death: “Noether was the most significant creative mathematical genius thus far produced since the higher education of women began.”",
-    "Tags": [
-      "Emmy Noether",
-      "Noether’s Theorem",
-      "Abstract algebra",
-      "Noetherian",
-      "Mathematische Annalen",
-      "Noncommutative algebras"
-    ],
-    "url": "https://www.britannica.com/biography/Emmy-Noether",
-    "media": "https://www.britannica.com/biography/Emmy-Noether/images-videos",
-    "image_path": "https://cdn.britannica.com/91/46991-050-B24B533F/Emmy-Noether.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "24",
-    "name": "Margaret Hamilton",
-    "known_for": "Margaret Hamilton was an American computer scientist who helped write the computer code for the command and lunar modules used on the Apollo missions to the Moon in the late 1960s and early ’70s.She is also founder and CEO of software development company Hamilton Technologies Inc.",
-    "Bio": {
-      "Summary": "Margaret Hamilton led the Software Engineering Division of the MIT Instrumentation Laboratory. NASA credits her with coining the term “software engineering.” Hamilton worked on software development for Apollo 11, the first spacecraft to complete a successful mission that placed humans on the moon in 1969. Hamilton's insistence on thorough testing is credited with the mission's success and safety of its astronauts.The guidance software that Hamilton helped develop for Apollo was later adapted for use in Skylab, the space shuttle, and the first digital fly-by-wire systems in aircraft. Hamilton received the NASA Exceptional Space Act Award for technical and scientific contributions in 2003 and the Presidential Medal of Freedom award in 2016.",
-      "Origin": "Indiana, USA",
-      "DOB": "17 August 1936",
-      "DOD": "-"
-    },
-    "Fields": [
-      {
-        "Computing": [
-          "Programming",
-          "software engineering "
-        ]
-      }
-    ],
-    "Legacy": "Margaret Hamilton is responsible for the development of the Universal Systems Language (USL) together with its integrated systems-to-software “Development Before the Fact” preventative life cycle and its automation, the 001 Tool Suite; all based on her mathematical theory of control for systems and software. Because of it's preventative paradigm, with USL, instead of looking for more ways to test for errors and continuing to test for errors late into the life cycle, the majority of errors including all interface errors are not allowed into a system, just by the way it is defined. For over five decades, Hamilton's methods have had a major impact on the field of software engineering up to and including the present day.",
-    "Tags": [
-      "Margaret Hamilton",
-      "Margaret Heafield Hamilton",
-      "Apollo mission",
-      "software engineering",
-      "NASA",
-      "Hamilton"
-    ],
-    "url": "https://www.britannica.com/biography/Margaret-Hamilton-American-computer-scientist",
-    "media": "https://www.britannica.com/biography/Margaret-Hamilton-American-computer-scientist/images-videos",
-    "image_path": "https://cdn.britannica.com/91/194191-004-63D8B544/Margaret-Hamilton.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "25",
-    "name": "Henrietta Swan Leavitt",
-    "known_for": "Henrietta Leavitt was an American astronomer who discovered the relationship between period and luminosity in Cepheid variables, pulsating stars that vary regularly in brightness in periods ranging from a few days to several months.",
-    "Bio": {
-      "Summary": "Leavitt had an interest in astronomy and started as a volunteer assistant in the Harvard Observatory in 1895, receiving a paid position in 1902. She was employed in the observatory’s great project, begun by Edward C. Pickering, of determining the brightnesses of all measurable stars. Leavitt soon advanced from routine work to a position as head of the photographic stellar photometry department. In 1907 she started work on Pickering’s project to ascertain photographically standardized values for stellar magnitudes. Devising new methods of analysis, Leavitt determined their magnitudes, extending the scale of standard brightnesses down to the 21st magnitude. These standards were published in 1912 and 1917. One result of her work on stellar magnitudes was her discovery of 4 novas and some 2,400 variable stars - more than half of all those known even by 1930.",
-      "Origin": "Lancaster, Massachusetts, USA",
-      "DOB": "4 July 1868",
-      "DOD": "12 December 1921"
-    },
-    "Fields": [
-      {
-        "Astronomy": true
-      }
-    ],
-    "Legacy": "Leavitt transformed the science of astronomy by dramatically extending the range at which a star’s distance from the earth could be measured. Leavitt’s outstanding achievement was her discovery in 1912 that in a certain class of variable stars, the Cepheid variables, the period of the cycle of fluctuation in brightness is highly regular and is determined by the actual luminosity of the star. The subsequent calibration of the period-luminosity curve allowed astronomers Edwin Hubble, Harlow Shapley, and others to determine the distances of many Cepheid stars and of the star clusters and galaxies in which they were observed. Her work was pivotal to Edwin Hubble’s discovery that the universe is much bigger than just the Milky Way and that our own galaxy is but one of many.",
-    "Tags": [
-      "Henrietta Leavitt",
-      "Stellar luminosity",
-      "Period-luminosity relation",
-      "Cepheid variables",
-      "Stellar photometry",
-      "North Polar Sequence"
-    ],
-    "url": "https://www.britannica.com/biography/Henrietta-Swan-Leavitt",
-    "media": "https://www.britannica.com/biography/Henrietta-Swan-Leavitt/images-videos",
-    "image_path": "https://cdn.britannica.com/66/158566-004-7C114835/Henrietta-Swan-Leavitt.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "26",
-    "name": "Jane Goodall",
-    "known_for": "Goodall is a British ethologist, known for her exceptionally detailed and long-term research on the chimpanzees of Gombe Stream National Park in Tanzania.",
-    "Bio": {
-      "Summary": "Goodall began her research career assisting paleontologist Louis Leakey in Tanzania. This led to her establishment in June 1960 of a camp in the Gombe Stream Game Reserve, so that she could observe the behaviour of chimpanzees. In 1965 The University of Cambridge awarded Goodall a Ph.D. in ethology. Goodall corrected a number of misunderstandings about chimpanzees, e.g. their highly developed social behaviours. Goodall wrote books and articles about various aspects of her work, such as In the Shadow of Man (1971). She summarized her years of observation in The Chimpanzees of Gombe: Patterns of Behavior (1986). She continued to write and lecture about environmental and conservation issues into the early 21st century. In 2002 she became a UN Messenger of Peace. Goodall received an DBE in 2003 and was awarded the 2021 Templeton Prize. Jane, a documentary about her life and work, appeared in 2017.",
-      "Origin": "London, England",
-      "DOB": "3 April 1934",
-      "DOD": ""
-    },
-    "Fields": [
-      {
-        "Ethology": true
-      }
-    ],
-    "Legacy": "In 1977 Goodall cofounded the Jane Goodall Institute for Wildlife Research, Education and Conservation in California. She created various other initiatives, including Jane Goodall’s Roots & Shoots (1991), a youth service program.",
-    "Tags": [
-      "Jane Goodall",
-      "Animal behaviour",
-      "Chimpanzee behaviour",
-      "Jane Goodall Institute",
-      "Jane Goodall’s Roots & Shoots",
-      "Gombe Stream Game Reserve"
-    ],
-    "url": "https://www.britannica.com/biography/Jane-Goodall",
-    "media": "https://www.britannica.com/biography/Jane-Goodall/images-videos",
-    "image_path": "https://cdn.britannica.com/30/163230-050-D8219091/Jane-Goodall.jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "27",
-    "name": "Cecilia Payne-Gaposchkin",
-    "known_for": "Cecilia Payne was an astronomer who discovered that stars are made mainly of hydrogen and helium and established that stars could be classified according to their temperatures.",
-    "Bio": {
-      "Summary": "Payne entered the University of Cambridge in 1919. A lecture by astronomer Arthur Eddington inspired her to become an astronomer. In 1923 she received a fellowship to study at the Harvard College Observatory in Cambridge, Massachusetts. In her Ph.D. thesis 'Stellar Atmospheres', Payne used the spectral lines of many different elements, and the work of Indian astrophysicist Meghnad Saha, to definitively establish that the spectral sequence did correspond to quantifiable stellar temperatures. She also determined that stars are composed mostly of hydrogen and helium. Payne received the first Ph.D. in astronomy from Radcliffe College for her thesis. Payne continued her stellar spectral work and her second book 'Stars of High Luminosity' (1930) paid particular attention to Cepheid variables. Payne became lecturer in astronomy at Harvard in 1938",
-      "Origin": "Wendover, England",
-      "DOB": "10 May 1900",
-      "DOD": "7 December 1979"
-    },
-    "Fields": [
-      {
-        "Astronomy": true
-      },
-      {
-        "Stellar Classification": true
-      }
-    ],
-    "Legacy": "Astronomers Otto Struve and Velta Zebergs later called her thesis “undoubtedly the most brilliant Ph.D. thesis ever written in astronomy. Her second book 'Stars of High Luminosity' (1930) paid particular attention to Cepheid variables. In 1956 Payne was appointed a full professor at Harvard and became chairman of the astronomy department.",
-    "Tags": [
-      "Cecilia Payne",
-      "Variable Stars",
-      "Cepheid variables",
-      "Stellar Atmospheres"
-    ],
-    "url": "https://www.britannica.com/biography/Cecilia-Payne-Gaposchkin",
-    "media": "-",
-    "image_path": "https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin#/media/File:Cecilia_Helena_Payne_Gaposchkin_(1900-1979)_(3).jpg",
-    "image_width": "150"
-  },
-  {
-    "id": "",
-    "name": "Linda B. Buck",
-    "known_for": "Linda Buck is an American scientist and corecipient of the Nobel Prize for Physiology or Medicine in 2004 for discoveries concerning the olfactory system",
-    "Bio": {
-      "Summary": "Buck received a B.S. in both microbiology and psychology from the University of Washington and a Ph.D. in immunology from the University of Texas Southwestern Medical Center. Together with Richard Axel, Buck clarified how the olfactory system functions by showing that each receptor cell has only one type of odour receptor, which is specialized to recognize a few odours. After odorant molecules bind to receptors, the receptor cells send electrical signals to the olfactory bulb in the brain. The brain combines information from several types of receptors in specific patterns, which are experienced as distinct odours. Her work boosted research into the possible existence of human pheromones. Buck held various positions with the Howard Hughes Medical Institute (HHMI) and at Harvard Medical School from 1984 until 2002, when she joined the Fred Hutchinson Cancer Research Center in Seattle.",
-      "Origin": "Seattle, Washington, USA",
-      "DOB": "29 January 1947",
-      "DOD": "-"
-    },
-    "Fields": [
-      {
-        "Microbiology": true
-      },
-      {
-        "Psychology": true
-      },
-      {
-        "Immunology": true
-      },
-      {
-        "Olfactory system": true
-      }
-    ],
-    "Legacy": "Buck's work boosted research in the possible existence of human pheromones, odorant molecules known to trigger sexual activity and certain other behaviour in many animals, and Buck’s HHMI laboratory carried on research into how odour perceptions are translated into emotional responses and instinctive behaviour.",
-    "Tags": [
-      "Linda Buck",
-      "Olfactory system",
-      "Human pheromones",
-      "Nobel Prize for Physiology",
-      "Odour receptor"
-    ],
-    "url": "https://www.britannica.com/biography/Linda-B-Buck",
-    "media": "https://www.britannica.com/biography/Linda-B-Buck/images-videos",
-    "image_path": "https://cdn.britannica.com/s:1500x700,q:85/46/143546-004-3F5C33FF/Linda-B-Buck-2004.jpg",
-    "image_width": "150"
-  }
+	{
+		"id": "1",
+		"name": "Ada Lovelace",
+		"known_for": "First Computer Programmer",
+		"Bio": {
+			"Summary": "The daughter of famed poet Lord Byron, Augusta Ada Byron, Countess of Lovelace — better known as \"Ada Lovelace\" — showed her gift for mathematics at an early age. She translated an article on an invention by Charles Babbage, and added her own comments. Because she introduced many computer concepts, Lovelace is considered the first computer programmer",
+			"Origin": "London, England",
+			"DOB": "10 December 1815",
+			"DOD": "27 November 1852"
+		},
+		"Fields": [
+			{
+				"Mathematics": null
+			},
+			{
+				"Computing": ["Programming", "Algorithms"]
+			}
+		],
+		"Legacy": "Lovelace's contributions to the field of computer science were not discovered until the 1950s. Her notes were reintroduced to the world by B.V. Bowden, who republished them in 'Faster Than Thought - A Symposium on Digital Computing Machines'. Since then, Ada has received many posthumous honors for her work.",
+		"Tags": [
+			"Ada Lovelace Day",
+			"History of Computing",
+			"Tech Pioneer",
+			"Women in Tech",
+			"Analytical Engine",
+			"Computer Programming"
+		],
+		"url": "https://www.britannica.com/biography/Ada-Lovelace",
+		"media": "https://www.britannica.com/biography/Ada-Lovelace/images-videos",
+		"image_path": "https://cdn.britannica.com/22/23622-050-E60DC899/Ada-King-countess-Lovelace-Alfred-Edward-Chalon-circa-1838.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "2",
+		"name": "Grace Hopper",
+		"known_for": "Computer Scientist and Naval Officer",
+		"Bio": {
+			"Summary": "Grace Hopper joined the U.S. Navy during World War II and was assigned to program the Mark I computer. She continued to work in computing after the war, leading the team that created the first computer language compiler, which led to the popular COBOL language. She resumed active naval service at the age of 60, becoming a rear admiral before retiring in 1986.",
+			"Origin": "New York, USA",
+			"DOB": "6 December 1906",
+			"DOD": "1 January 1992"
+		},
+		"Fields": [
+			{
+				"Mathematics": null
+			},
+			{
+				"Computing": ["Programming"]
+			}
+		],
+		"Legacy": "Hopper was awarded the National Medal of Technology in 1991, becoming the first female individual recipient of the honor. In addition to her programming accomplishments, Hopper's legacy includes encouraging young people to learn how to program. The Grace Hopper Celebration of Women In Computing Conference is a technical conference that encourages women to become part of the world of computing, while the Association for Computing Machinery offers a Grace Murray Hopper Award. Hopper was awarded the Presidential Medal of Freedom posthumously in 2016.",
+		"Tags": [
+			"COBOL",
+			"UNIVAC I",
+			"History of Computing",
+			"Tech Pioneer",
+			"Women in Tech",
+			"Computer Programming"
+		],
+		"url": "https://www.britannica.com/biography/Grace-Hopper",
+		"media": "https://www.britannica.com/biography/Grace-Hopper/images-videos",
+		"image_path": "https://cdn.britannica.com/00/149300-050-DC398492/Grace-Murray-Hopper-Bureau-of-Ordnance-Computation-1946.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "3",
+		"name": "Hedy Lamarr",
+		"known_for": "Inventor of WiFi",
+		"Bio": {
+			"Summary": "Lamarr was a self-taught inventor and film actress, who was awarded a patent in 1942 for her secret communication system, designed with the help of the composer George Antheil. This frequency hopping system was intended as a way to set radio-guided torpedos off course during the war, but the idea eventually inspired Wi-Fi, GPS and Bluetooth technology commonly used today.",
+			"Origin": "Vienna, Austria-Hungary",
+			"DOB": "9 November 1914",
+			"DOD": "19 January 2000"
+		},
+		"Fields": [
+			{
+				"Mathematics": null
+			},
+			{
+				"Computing": ["Wireless Communication"]
+			}
+		],
+		"Legacy": "Lamarr was awarded U.S. Patent No. 2,292,387 in August of 1942. The Electronic Frontier Foundation jointly awarded Lamarr and Antheil with their Pioneer Award in 1997. Lamarr also became the first woman to receive the Invention Convention’s Bulbie Gnass Spirit of Achievement Award. Lamarr was inducted posthumously into the National Inventors Hall of Fame for the development of her frequency hopping technology in 2014.",
+		"Tags": [
+			"WiFi",
+			"Communication",
+			"Tech Pioneer",
+			"Women in Tech",
+			"GPS",
+			"Bluetooth"
+		],
+		"url": "https://www.britannica.com/biography/Hedy-Lamarr",
+		"media": "https://www.britannica.com/biography/Hedy-Lamarr/images-videos",
+		"image_path": "https://cdn.britannica.com/96/133096-050-34226B5F/Hedy-Lamarr.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "4",
+		"name": "Katherine Johnson",
+		"known_for": "Early NASA Pioneer",
+		"Bio": {
+			"Summary": "West Virgina born mathematician Katherine Johnson, began her career working at the National Advisory Committee for Aeronautics (NACA)’s West Area Computing unit, a group of African American women who manually performed complex mathematical calculations for the program’s engineers. She analyzed test data and provided mathematical computations that were essential to the success of the early U.S. space program. Johnson, also known as \"Katherine Coleman\", would continue her work at NASA where she calculated and analyzed the flight paths of many spacecraft during her more than 30 years working with the U.S. space program, including the Apollo 11 mission of 1969, that helped send astronauts to the Moon.",
+			"Origin": "West Virgina, USA",
+			"DOB": "26 August 1918",
+			"DOD": "24 February 2020"
+		},
+		"Fields": [
+			{
+				"Mathematics": true
+			},
+			{
+				"Computing": ["Algorithms", "Data Analysis"]
+			}
+		],
+		"Legacy": "Johnson has been widely recognized for her achievements through a series of awards, including but not limited to, the 1967 NASA Lunar Orbiter Spacecraft and Operations team award, and the National Technical Association’s designation as its 1997 Mathematician of the Year. Additionally, she earned honorary degrees from SUNY Farmingdale, Maryland's Capitol College, Virginia's Old Dominion University and West Virginia University. She also went on to receive the Presidential Medal of Freedom in 2015.",
+		"Tags": [
+			"Aerospace",
+			"Women in Tech",
+			"NASA",
+			"Human computer",
+			"Hidden Figures"
+		],
+		"url": "https://www.britannica.com/biography/Katherine-Johnson-mathematician",
+		"media": "https://www.britannica.com/biography/Katherine-Johnson-mathematician/images-videos",
+		"image_path": "https://cdn.britannica.com/74/194174-050-7D2254A4/Katherine-Johnson-1966.jpg",
+		"image_width": ""
+	},
+	{
+		"id": "5",
+		"name": "Barbara McClintock",
+		"known_for": "Discovering genetic transposition (jumping genes) ",
+		"Bio": {
+			"Summary": "McClintock was an American scientist and cytogeneticist who was awarded the 1983 Nobel Prize in Physiology or Medicine. McClintock received her PhD in botany from Cornell University in 1927. There she started her career as the leader in the development of maize cytogenetics, the focus of her research for the rest of her life. From the late 1920s, McClintock studied chromosomes and how they change during reproduction in maize. She developed the technique for visualizing Maize chromosomes and used microscopic analysis to demonstrate many fundamental genetic ideas.",
+			"Orgin": "Hartford, Connecticut, USA",
+			"DOB": "16 June 1902",
+			"DOD": "2 September 1992"
+		},
+		"Fields": [
+			{
+				"Mathematics": null
+			},
+			{
+				"Computing": ["null"]
+			}
+		],
+		"Legacy": "McClintock received the Nobel Prize for Physiology or Medicine in 1983, the first woman to win that prize unshared and the first American woman to win any unshared Nobel Prize. It was given to her by the Nobel Foundation for discovering mobile genetic elements. ",
+		"Tags": [
+			"Barbara McClintock",
+			"jumping genes",
+			"STEM Pioneer",
+			"Women in Medicine",
+			"Noble Prize Winner"
+		],
+		"url": "https://www.britannica.com/biography/Barbara-McClintock",
+		"media": "https://www.britannica.com/biography/Barbara-McClintock/images-videos",
+		"image_path": "https://cdn.britannica.com/19/151119-050-6AAFA850/Barbara-McClintock-laboratory-Cold-Spring-Harbor-New-March-26-1947.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "6",
+		"name": "Elizebeth Smith Friedman",
+		"known_for": "America's first female cryptanalyst",
+		"Bio": {
+			"Summary": "Armed with a sharp mind and nerves of steel, Elizebeth Smith Friedman cracked hundreds of ciphers during her career as America’s first female cryptanalyst, successfully busting smugglers during Prohibition and, most notably, breaking up a Nazi spy ring across South America during the 1940s.",
+			"Origin": "Huntington, Indiana, USA",
+			"DOB": "August 26 1892",
+			"DOD": "October 31 1980"
+		},
+		"Fields": [
+			{
+				"Mathematics": null
+			},
+			{
+				"Computing": ["Cryptanalysis", "Cryptography", "Algorithms"]
+			}
+		],
+		"Legacy": "Elizebeth Smith Friedman’s wartime codebreaking work was so secret that she was forbidden to mention it in public. She died many years before government archives were brought to light showing what she had done. During and after World War 2, J. Edgar Hoover and the FBI took the credit for work Elizebeth and her U.S. Coast Guard team had carried out.",
+		"Tags": [
+			"Elizebeth Smith Friedman",
+			"First Female Cryptanalyst",
+			"American Expert and Author",
+			"Women in Tech",
+			"Cryptography",
+			"Codebreaker"
+		],
+		"url": "https://www.famousscientists.org/elizebeth-smith-friedman/",
+		"media": "https://time.com/5928583/elizebeth-friedman-codebreaker/?jwsource=cl",
+		"image_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Elizebeth-Friedman.jpg/450px-Elizebeth-Friedman.jpg"
+	},
+	{
+		"id": "7",
+		"name": "Edith Clarke",
+		"known_for": "First female professor of electrical engineering in the USA",
+		"Bio": {
+			"Summary": "Clarke was the first woman to be professionally employed as an engineer. She was the first woman named as a Fellow of the American Institute of Electrical Engineers. She specialized in electrical power system analysis. As the first woman to deliver a paper at the American Institute of Electrical Engineers' (AIEE) annual meeting, she showed the use of hyperbolic functions for calculating the maximum power that a line could carry without instability. Clarke wrote an influential textbook in the field of power engineering that was used as the basis of education for electrical engineers.",
+			"Origin": "Howard County, Maryland, USA",
+			"DOB": "10 February 1883",
+			"DOD": "October 29, 1959"
+		},
+		"Fields": [
+			{
+				"Mathematics": true
+			},
+			{
+				"Computing": null
+			},
+			{
+				"Electrical Engineering": [
+					"Power Transmission",
+					"Hydroelectricity",
+					"Power Engineering"
+				]
+			}
+		],
+		"Legacy": "Clarke was the first woman to earn an M.S. in electrical engineering from MIT. She was awarded a patent for her Clarke Calculator in 1925. She became the first female engineer to achieve professional standing in Tau Beta Pi. Clarke was the first female Fellow, and full voting member, of the American Institute of Electrical Engineers. She received the Society of Women Engineers Achievement Award in 1954. In 2015 Clarke was posthumously inducted into the National Inventors Hall of Fame.",
+		"Tags": [
+			"Women in Engineering",
+			"Society of Women Engineers",
+			"Clarke calculator",
+			"Power Engineering",
+			"Women in Tech",
+			"Female professors"
+		],
+		"url": "https://en.wikipedia.org/wiki/Edith_Clarke",
+		"media": "",
+		"image_path": "https://en.wikipedia.org/wiki/Edith_Clarke#/media/File:Edith_Clarke.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "8",
+		"name": "Marie Curie",
+		"known_for": "Work on radioactivity",
+		"Bio": {
+			"Summary": "From childhood she was remarkable for her prodigious memory, and at the age of 16 she won a gold medal on completion of her secondary education at the Russian lycée. Because her father, a teacher of mathematics and physics, lost his savings through bad investment, she had to take work as a teacher and, at the same time, took part clandestinely in the nationalist “free university,” reading in Polish to women workers. At the age of 18 she took a post as governess, where she suffered an unhappy love affair. From her earnings she was able to finance her sister Bronisława’s medical studies in Paris, with the understanding that Bronisława would in turn later help her to get an education.",
+			"Orgin": "Warsaw, Poland",
+			"DOB": "7 November 1867",
+			"DOD": "4 July 1934"
+		},
+		"Fields": [
+			{
+				"Physics": ["Radioactivity", "Radium"]
+			}
+		],
+		"Legacy": "She was a famous for her work on radioactivity and twice a winner of the Nobel Prize. With Henri Becquerel and her husband, Pierre Curie, she was awarded the 1903 Nobel Prize for Physics. She was the sole winner of the 1911 Nobel Prize for Chemistry. She was the first woman to win a Nobel Prize, and she is the only woman to win the award in two different fields.",
+		"Tags": [
+			"Physics Pioneer",
+			"Women in Tech",
+			"Nobel Prize Winner",
+			"Radioactivity"
+		],
+		"url": "https://www.britannica.com/biography/Marie-Curie",
+		"media": "https://www.britannica.com/biography/Marie-Curie/images-videos",
+		"image_path": "https://cdn.britannica.com/12/12512-004-80322EC3/Marie-Curie.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "9",
+		"name": "Maria Klawe",
+		"known_for": "Computer scientist and fifth president of Harvey Mudd College",
+		"Bio": {
+			"Summary": "Toronto born naturalised American citizen Klawe holds PhDs in Mathematics and Computer Science. She worked as a researcher for IBM and became the manager of their Mathematics and Related Computer Science Department. Klawe moved to the University of British Colombia and served as head of the Department of Computer Science (1988-1995), vice president of student and academic services (1995-1998), and dean of science (1998-2002). She was on the board of directors of Microsoft from 2009-2015. Klawe is a strong advocate for increasing the representation of women in STEM fields. In 1991, she founded CRA-W (The Computing Research Association's Committee on the Status of Women in Computing Research) with Nancy Leveson.",
+			"Origin": "Toronto, Ontario, Canada",
+			"DOB": "1951",
+			"DOD": ""
+		},
+		"Fields": [
+			{
+				"Mathematics": true
+			},
+			{
+				"Computing": ["Computer Science", "Algorithms for Geometry"]
+			}
+		],
+		"Legacy": "Klawe is a fellow of the Association for Computing Machinery, the American Academy of Arts and Sciences, the American Mathematical Society, and the Association for Women in Mathematics. She is a founding fellow of the Canadian Information Processing Society. Klawe holds honorary doctorates from Ryerson Polytechnic University, University of Waterloo, Queen's University, Dalhousie University, Acadia University, University of Alberta, University of Ottawa, University of British Columbia, University of Toronto, Concordia University and McGill University.",
+		"Tags": [
+			"Maria Klawe",
+			"Harvey Mudd College",
+			"Women in Computer Science",
+			"Anita Borg Institute",
+			"Aphasia Project",
+			"Association for Computing Machinery",
+			"A. Nico Habermann award"
+		],
+		"url": "https://en.wikipedia.org/wiki/Maria_Klawe",
+		"media": "",
+		"image_path": "https://en.wikipedia.org/wiki/Maria_Klawe#/media/File:Maria_Klawe_2015.jpg",
+		"image_width": ""
+	},
+	{
+		"id": "10",
+		"name": "Susan Diane Wojcicki",
+		"known_for": "CEO of YouTube",
+		"Bio": {
+			"Summary": "Wojcicki was involved in the founding of Google, and became Google's first marketing manager in 1999. She later led the company's online advertising business and was put in charge of Google's original video service. After observing the success of YouTube, Wojcicki proposed the acquisition of YouTube by Google in 2006, and has served as CEO of YouTube since 2014",
+			"Orgin": "Santa Clara County, California, U.S.",
+			"DOB": "5 July 1968",
+			"DOD": null
+		},
+		"Fields": [
+			{
+				"Economics": true
+			},
+			{
+				"Business Administration": true
+			}
+		],
+		"Legacy": "Wojcicki first became involved with video sharing in connection with the launch of Google Video in 2005. The following year she oversaw the purchase of rival YouTube, an equally new venture that was enjoying greater success.",
+		"Tags": [
+			"Women in Tech",
+			"World's 100 Most Powerful Women",
+			"America's Self-Made Women"
+		],
+		"url": "https://en.wikipedia.org/wiki/Susan_Wojcicki",
+		"media": "https://www.britannica.com/biography/Susan-Wojcicki/images-videos",
+		"image_path": "https://cdn.britannica.com/40/193940-050-5446F640/Susan-Wojcicki-2014.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "11",
+		"name": "Adele Goldberg",
+		"known_for": "creators of Smalltalk-80—a programming language",
+		"Bio": {
+			"Summary": "Adele Goldberg was one of the creator of the Smalltalk-80-a at Xeron Palo Alto Research Center, smalltalk-80 was a programming language that later incorporated into the programming configuration of the Macintosh computer. She is also the co-founder of the ParcPlace and on the board at Cognito Learning Media",
+			"Orgin": "Cleveland, Ohio, USA",
+			"DOB": "July 22, 1945",
+			"DOD": null
+		},
+		"Fields": [
+			{
+				"Computer science": true
+			}
+		],
+		"Legacy": "Adele Goldberg was one of the developer of the smalltalk-80, it is a programming language that developed the object-oriented approach of Simula 67 and introduced a programming environment of overlapping windows on graphic display screens,she was also involved in the development of design templates, forerunners of the design patterns later used in software design",
+		"Tags": [
+			"Smalltalk-80 developer",
+			"Forbes’s 20 Who Matter",
+			"co-founder ParcPlace Systems",
+			"Presidenr Association for Computing Machinery (ACM) "
+		],
+		"url": "https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)",
+		"media": "",
+		"image_path": "https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)#/media/File:Adele_Goldberg_at_PyCon_2007.jpg",
+		"image_width": ""
+	},
+	{
+		"id": "12",
+		"name": "Ellen Ochoa",
+		"known_for": "American astronaut and first Hispanic woman to travel into space",
+		"Bio": {
+			"Summary": "Ochoa studied electrical engineering at Stanford University. She was selected by NASA in 1990 to participate in its astronaut program, and she became the first Hispanic female astronaut when she completed her training in 1991. In April 1993 Ochoa served as mission specialist aboard the STS-56 mission of the space shuttle Discovery, becoming the first Latina to be launched into space. In May 1999 she was a member of the Discovery STS-96 crew that executed the first docking to the International Space Station (ISS). Ochoa served as director of NASA’s Johnson Space Center (2013–18).",
+			"Orgin": "Los Angeles, California, USA",
+			"DOB": "10 May 1958",
+			"DOD": ""
+		},
+		"Fields": [
+			{
+				"Aeronautics and Astronautics": true
+			},
+			{
+				"Electrical Engineering": [
+					"Optical Systems",
+					"Aerospace Engineering"
+				]
+			},
+			{
+				"Mathematics": true
+			},
+			{
+				"Computing": true
+			}
+		],
+		"Legacy": "Women in Aerospace Outstanding Achievement Award, Hispanic Engineer Albert Baez Award for Outstanding Technical Contribution to Humanity, Hispanic Heritage Leadership Award, Distinguished Service Medal, Exceptional Service Medal, Outstanding Leadership Medal, and four Space Flight Medals.",
+		"Tags": [
+			"Ellen Ochoa",
+			"Female Astronaut",
+			"Latina Astronaut",
+			"Female Engineer",
+			"NASA",
+			"Lyndon B. Johnson Space Center",
+			"Optical Systems"
+		],
+		"url": "https://www.britannica.com/biography/Ellen-Ochoa",
+		"media": "https://www.britannica.com/biography/Ellen-Ochoa/images-videos",
+		"image_path": "https://cdn.britannica.com/97/92997-050-241C3C38/Ellen-Ochoa.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "13",
+		"name": "Rosalind Franklin",
+		"known_for": "Discovered the molecular structure of DNA",
+		"Bio": {
+			"Summary": "Franklin was a British scientist best known for her contributions to the discovery of the molecular structure of deoxyribonucleic acid (DNA), a constituent of chromosomes that serves to encode genetic information. Her work to make clearer X-ray patterns of DNA molecules laid the foundation for studies on the structure of DNA as a double-helix polymer. Franklin discovered the B type DNA, establishing that DNA molecules can exist in more than one form. She also contributed new insight on the structure of viruses, helping to lay the foundation for the field of structural virology.",
+			"Origin": "London, England",
+			"DOB": "25 July 1920",
+			"DOD": "16 April 1958"
+		},
+		"Fields": [
+			{
+				"Physical Chemistry": true
+			},
+			{
+				" X-ray diffraction technology": true
+			},
+			{
+				"Virology": true
+			}
+		],
+		"Legacy": "Franklin received a doctorate in Physical Chemistry from Cambridge University. She was a Research Fellow at King's College. Franklin published 17 papers on viruses, and laid the foundations for structural virology. Her X-ray diffraction research of DNA became critical evidence in identifying the structure of DNA. Two scientists, Crick and Watson, took most of the credit for the finding. They used it as the basis for their famous model of DNA, for which they received a Nobel Prize in 1962.",
+		"Tags": [
+			"Rosalind Franklin",
+			"DNA structure",
+			"B type DNA",
+			"Double-helix polymer",
+			"X-ray diffraction",
+			"Structural virology"
+		],
+		"url": "https://www.britannica.com/biography/Rosalind-Franklin",
+		"media": "https://www.britannica.com/biography/Rosalind-Franklin/images-videos",
+		"image_path": "https://cdn.britannica.com/30/99730-050-E68F62FF/Rosalind-Franklin.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "14",
+		"name": "Radia Joy Perlman",
+		"known_for": "Invention of the Spanning-Tree Protocol, TRILL, and IS-IS",
+		"Bio": {
+			"Summary": "Perlman, an MIT graduate, developed the spanning-tree protocol, which greatly improved ethernet scalability. She later developed TRILL, an improvement on spanning-trees. Her IS-IS protocol is still used for IP routing, four decades later.",
+			"Orgin": "Portsmouth, Virginia, USA",
+			"DOB": "18 December 1951",
+			"DOD": null
+		},
+		"Fields": [
+			{
+				"Computer Science": true
+			},
+			{
+				"Mathematics": true
+			}
+		],
+		"Legacy": "Algorithms Perlman developed are still being used in network protocols today. Without her contributions, the internet would not be as robust as it is today.",
+		"Tags": [
+			"Women in Tech",
+			"Internet Hall of Fame",
+			"Women in Computer Science",
+			"Internet",
+			"Routing Protocols"
+		],
+		"url": "https://www.internethalloffame.org/inductees/radia-perlman",
+		"media": "",
+		"image_path": "https://www.internethalloffame.org/sites/default/files/inductees/radia_perlman.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": 15,
+		"name": "Valerie Thomas",
+		"known_for": "Inventing the illusion transmitter and contributions to NASA research",
+		"Bio": {
+			"Summary": "Valerie Thomas",
+			"Origin": "Maryland, USA",
+			"DOB": "February 1943",
+			"DOD": null
+		},
+		"Fields": ["Physics", "Mathematics"],
+		"Legacy": "Thomas received a patent for the illusion transmitter. The technology was adopted by NASA and has since been adapted for use in surgery as well as the production of TV and video screens.",
+		"Tags": ["Women in Tech", "NASA", "Tech Pioneer"],
+		"url": "https://www.biography.com/scientist/valerie-thomas",
+		"media": "https://mynasadata.larc.nasa.gov/sites/default/files/inline-images/ValerieThomas-LandsatImageProcessing.png",
+		"image_path": "https://mynasadata.larc.nasa.gov/sites/default/files/inline-images/ValerieThomas-LandsatImageProcessing.png",
+		"image_width": "150"
+	},
+	{
+		"id": 16,
+		"name": "Sheryl Sandberg",
+		"known_for": "Facebook COO",
+		"Bio": {
+			"Summary": "Sheryl Sandberg",
+			"Origin": "Washington, DC, USA",
+			"DOB": "August 28, 1969",
+			"DOD": null
+		},
+		"Fields": ["Computer Science", "Philanthropist"],
+		"Legacy": "Sheryl Kara Sandberg is an American Business executive, Billionaire and Philanthropist.Sandberg is the chief operating officer of Facebook and the founder of LeanIn.Org. In June 2012, she was elected to Facebook's board of directors, becoming the first woman to serve on its board.",
+		"Tags": ["Women in Tech", "FACEBOOK", "Tech Pioneer", "Philanthropist"],
+		"url": "https://www.britannica.com/biography/Sheryl-Sandberg",
+		"media": "https://youtu.be/twwEG11F0lo",
+		"image_path": "https://cdn.britannica.com/97/163897-050-A071A905/Sheryl-Sandberg-Facebook.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "17",
+		"name": "Rachel Louise Carson",
+		"known_for": "Writer of some of the most influential environmental writing ever published",
+		"Bio": {
+			"Summary": "Carson was an American biologist with a deep interest in the natural world. After graduating in biology from the John Hopkins University, she pursued postgraduate studies at the Marine Biological Laboratory in Woods Hole, Massachusetts. Carson took a position as aquatic biologist with the U.S. Bureau of Fisheries. She published a number of acclaimed books. Carson’s prophetic Silent Spring (1962) became a bestseller, creating worldwide awareness of the dangers of environmental pollution. The book argued that the planetary ecosystem was reaching the limits of what it could sustain. Carson made a strong warning of the consequences of indiscriminate pesticide use.",
+			"Origin": "Springdale, Pennsylvania, USA",
+			"DOB": "27 May 1907",
+			"DOD": "14 April 1964"
+		},
+		"Fields": [
+			{
+				"Biology": true
+			},
+			{
+				"Aquatic Biology": true
+			},
+			{
+				"Environmentalism": true
+			}
+		],
+		"Legacy": "As a science writer, Carson published several books. Her book “The Sea Around Us” (1951) became a national bestseller and won a National Book Award, and the John Burroughs Medal for the most distinguished natural history book. “Silent Spring” (1962) also became a bestseller.",
+		"Tags": [
+			"Rachel Carson",
+			"Aquatic Biology",
+			"Environmental pollution",
+			"Pesticides",
+			"DDT"
+		],
+		"url": "https://www.britannica.com/biography/Rachel-Carson",
+		"media": "https://www.britannica.com/biography/Rachel-Carson/images-videos",
+		"image_path": "https://cdn.britannica.com/13/19413-050-A75D4BE2/Rachel-Carson.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "18",
+		"name": "Laura Bassi",
+		"known_for": "Bassi was the first woman to become a physics professor at a European university.",
+		"Bio": {
+			"Summary": "In 1732, Bassi was admitted to the Bologna Academy of Sciences as its first female member. She became doctor of philosophy. Several of her theses showed the influence of Isaac Newton’s works on optics and light. She wrote a set of theses about the properties of water, which led to her being awarded an honorary post at the university as a professor in physics. Bassi was an early proponent of Newtonian physics and based her teaching on Newton’s Principia. In 1760, Bassi performed experiments on possible medicinal applications of electricity, but did not publish on the subject. She was appointed as chair of experimental physics at the University of Bologna in 1776, the first woman named to a chair of physics at a university.",
+			"Origin": "Bologna, Italy",
+			"DOB": "31 October 1711",
+			"DOD": "20 February 1778"
+		},
+		"Fields": [
+			{
+				"Philosophy": true
+			},
+			{
+				"Physics": true
+			}
+		],
+		"Legacy": "Laura Bassi was the first woman to become a physics professor at a European university. She was the first woman admitted to the Bologna Academy of Sciences and the only woman to join the Benedettini, a select group of 25 leading scientists. She was the first woman named to a chair of physics at a university.",
+		"Tags": [
+			"Laura Bassi",
+			"Female Physics Professor",
+			"Benedettini",
+			"First female university chair"
+		],
+		"url": "https://www.britannica.com/biography/Laura-Bassi",
+		"media": "",
+		"image_path": "https://upload.wikimedia.org/wikipedia/commons/3/31/Laura_Bassi.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "19",
+		"name": "Mary Anning",
+		"known_for": "Anning was the greatest fossil finder of her era, powerfully influencing the new science of paleontology",
+		"Bio": {
+			"Summary": "Anning was an English fossil hunter and amateur anatomist credited with the discovery of several dinosaur specimens that assisted in the development of paleontology. Her excavations aided the careers of many British scientists by providing them with specimens to study, and framed a significant part of Earth’s geologic history. Fossils recovered by Anning may have contributed to the theory of evolution put forth by Charles Darwin. Anning received annuities from the British Association for the Advancement of Science and the Geological Society of London, in recognition of her contributions to science (these did not admit women). In 2010 she was recognized by the Royal Society as one of the 10 most influential women scientists in British history.",
+			"Origin": "Lyme Regis, England",
+			"DOB": "21 May 1799",
+			"DOD": "9 March 1847"
+		},
+		"Fields": [
+			{
+				"Anatomy": true
+			},
+			{
+				"Paleontology": true
+			},
+			{
+				"Geology": true
+			}
+		],
+		"Legacy": "Anning made the first ever discovery of a complete Plesiosaurus macrocephalus skeleton. She discovered fossils of Ichthyosaur, Dimorphodon macronyx, and Squaloraja. Anning's studies of fossilized feces showed the diets of animals hundreds of millions of years ago. She was at the forefront of a new science utilizing fossils to reveal Earth’s natural history: paleontology.",
+		"Tags": [
+			"Mary Anning",
+			"Fossils",
+			"Paleontology",
+			"Coprolite",
+			"Ammonites",
+			"Dinosaur excavation"
+		],
+		"url": "https://www.britannica.com/biography/Mary-Anning",
+		"media": "",
+		"image_path": "http://publish.illinois.edu/womeningeology/files/2014/12/Mary_Anning_portrait.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "20",
+		"name": "Caroline Herschel",
+		"known_for": "Herschel was a German-born British astronomer and is considered the first professional female astronomer",
+		"Bio": {
+			"Summary": "Herschel started her work in astronomy by making important contributions to the work of her brother Sir William Herschel, who discovered Uranus in 1781. She executed many of the calculations connected with his studies. She detected by telescope three nebulae in 1783, and in 1786 she discovered a periodic comet. She was the first woman to discover a comet; over the next 11 years she spotted seven other comets. Herschel completed the cataloging of 2,500 nebulae and many star clusters. In 1798 she presented to the Royal Society a catalog of 560 stars omitted from the British Catalogue and a list of the errata in that publication. In 1828, when Herschel was 77, the Astronomical Society awarded her its gold medal.",
+			"Origin": "Hannover, Germany",
+			"DOB": "16 March 1750",
+			"DOD": "9 January 1848"
+		},
+		"Fields": [
+			{
+				"Astronomy": true
+			}
+		],
+		"Legacy": "Herschel was a pioneer in the field of astronomy and the first professional female astronomer. She discovered nebulae, a period comet that was later named 35P/Herschel-Rigollet, and seven more comets. Herschel made a huge contribution to indexing and cataloguing stars and nebulae and was awarded a gold medal by The Astronomical Society.",
+		"Tags": [
+			"Caroline Herschel",
+			"Astronomy",
+			"First female astronomer",
+			"35P/Herschel-Rigollet comet",
+			"The Astronomical Society"
+		],
+		"url": "https://www.britannica.com/biography/Caroline-Lucretia-Herschel",
+		"media": "https://www.britannica.com/biography/Caroline-Lucretia-Herschel/images-videos",
+		"image_path": "https://cdn.britannica.com/82/203582-050-7F44FC85/Caroline-Herschel.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "21",
+		"name": "Maryam Mirzakhani",
+		"known_for": "Mirzakhani was an Iranian mathematician and the first woman to be awarded a Fields Medal",
+		"Bio": {
+			"Summary": "Mirzakhani received a B.Sc. degree in mathematics from the Sharif University of Technology in Tehrān. She earned a Ph.D. from Harvard University for her dissertation 'Simple Geodesics on Hyperbolic Surfaces and Volume of the Moduli Space of Curves'. Mirzakhani served (2004–08) as a Clay Mathematics Institute research fellow and an assistant professor of mathematics at Princeton University. In 2008 she became a professor at Stanford University. Her work focused on the study of hyperbolic surfaces by means of their moduli spaces.",
+			"Origin": "Tehran, Iran",
+			"DOB": "3 May 1977",
+			"DOD": "14 July 2017"
+		},
+		"Fields": [
+			{
+				"Mathematics": true
+			},
+			{
+				"Geometry": true
+			}
+		],
+		"Legacy": "Mirzakhani was the first woman and the first Iranian to be awarded a Fields Medal, in recognition of her outstanding contributions to the dynamics and geometry of Riemann surfaces and their moduli spaces. Mirzakhani found that a property of the modulus space corresponds to the number of simple closed geodesics of the hyperbolic surface.",
+		"Tags": [
+			"Maryam Mirzakhani",
+			"First woman Fields Medal",
+			"Euclidean geometry",
+			"Euclidean space",
+			"Riemann surface",
+			"Hyperbolic space"
+		],
+		"url": "https://www.britannica.com/biography/Maryam-Mirzakhani",
+		"media": "https://www.britannica.com/biography/Maryam-Mirzakhani/images-videos",
+		"image_path": "https://cdn.britannica.com/15/181315-050-9BC8F4C6/Maryam-Mirzakhani.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "22",
+		"name": "Inge Lehmann",
+		"known_for": "Lehmann was a Danish seismologist who discovered the inner core of Earth in 1936 by using seismic wave data. She co-founded the Danish Geophysical Society",
+		"Bio": {
+			"Summary": "Lehmann graduated with a cand.mag. in mathematics from the University in Copenhagen in 1920. She joined the Royal Danish Geodetic Institute, setting up Denmark’s first seismic stations near Copenhagen and in Greenland. Lehmann continued to study seismology, graduating with a magister scientiarum in 1928. She was appointed as the state geodesist and head of the Seismological Department of the Royal Danish Geodetic Institute. In 1936, she published a paper on a three-shelled model of Earth’s interior (mantle, outer core, and inner core), with seismic waves traveling through each shell at different but constant velocities. The model postulated the existence of an inner core. In 1970, advanced seismographs provided unequivocal evidence of the inner core’s existence. The boundary between the inner and outer core is known as the Lehmann discontinuity.",
+			"Origin": "Copenhagen, Denmark",
+			"DOB": "May 13 1888",
+			"DOD": "21 February 1993"
+		},
+		"Fields": [
+			{
+				"Mathematics": true
+			},
+			{
+				"Seismology": true
+			},
+			{
+				"Geophysics": true
+			}
+		],
+		"Legacy": "The boundary between the Earth's inner and outer core, at a depth of approx. 5,100 km, is known as the Lehmann discontinuity. In 1950, Lehmann became President of the European Seismological Federation. Lehmann was awarded the William Bowie Medal of the American Geophysical Union in 1971 for her contributions in the field of geophysics, and the Medal of the Seismological Society of America in 1977. The American Geophysical Union created the Inge Lehmann Medal in her honour in 1995, to be awarded to researchers displaying “outstanding contributions to the understanding of the structure, composition, and dynamics of the Earth’s mantle and core.",
+		"Tags": [
+			"Inge Lehmann",
+			"Lehmann Discontinuity",
+			"Co-founder Danish Geophysical Society",
+			"Earth's core",
+			"Seismic wave"
+		],
+		"url": "https://www.britannica.com/biography/Inge-Lehmann",
+		"media": "https://www.britannica.com/biography/Inge-Lehmann/images-videos",
+		"image_path": "https://wiki.seg.org/images/7/71/Inge_Lehmann_1932.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "23",
+		"name": "Emmy Noether",
+		"known_for": "Amalie Emmy Noether was a German mathematician whose innovations in higher algebra gained her recognition as the most creative abstract algebraist of modern times",
+		"Bio": {
+			"Summary": "Noether studied mathematics at the University of Erlangen at a time when women were only allowed to audit classes with the permission of the instructor. She received a Ph.D. degree in 1907, with a dissertation on algebraic invariants. Noether discovered the relation between what are known as the symmetries of a physical system and its conservation laws. This is known as Noether’s theorem and is a key result in theoretical physics. She became an academic lecturer in 1919 in a time where many objected to women teaching at universities. Noether was one of the principle architects of abstract algebra.",
+			"Origin": "Erlangen, Germany",
+			"DOB": "23 March 1882",
+			"DOD": "14 April 1935"
+		},
+		"Fields": [
+			{
+				"Mathematics": true
+			},
+			{
+				"Physics": true
+			}
+		],
+		"Legacy": "Noether's name is remembered in many concepts of abstract algebra: Noetherian, Noetherian group, Noetherian induction, Noether normalization, Noether problem, Noetherian ring, Noetherian module, Noetherian scheme, Noetherian space, Albert–Brauer–Hasse–Noether theorem, Lasker–Noether theorem, and Skolem–Noether theorem. Einstein wrote after her death: “Noether was the most significant creative mathematical genius thus far produced since the higher education of women began.”",
+		"Tags": [
+			"Emmy Noether",
+			"Noether’s Theorem",
+			"Abstract algebra",
+			"Noetherian",
+			"Mathematische Annalen",
+			"Noncommutative algebras"
+		],
+		"url": "https://www.britannica.com/biography/Emmy-Noether",
+		"media": "https://www.britannica.com/biography/Emmy-Noether/images-videos",
+		"image_path": "https://cdn.britannica.com/91/46991-050-B24B533F/Emmy-Noether.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "24",
+		"name": "Margaret Hamilton",
+		"known_for": "Margaret Hamilton was an American computer scientist who helped write the computer code for the command and lunar modules used on the Apollo missions to the Moon in the late 1960s and early ’70s.She is also founder and CEO of software development company Hamilton Technologies Inc.",
+		"Bio": {
+			"Summary": "Margaret Hamilton led the Software Engineering Division of the MIT Instrumentation Laboratory. NASA credits her with coining the term “software engineering.” Hamilton worked on software development for Apollo 11, the first spacecraft to complete a successful mission that placed humans on the moon in 1969. Hamilton's insistence on thorough testing is credited with the mission's success and safety of its astronauts.The guidance software that Hamilton helped develop for Apollo was later adapted for use in Skylab, the space shuttle, and the first digital fly-by-wire systems in aircraft. Hamilton received the NASA Exceptional Space Act Award for technical and scientific contributions in 2003 and the Presidential Medal of Freedom award in 2016.",
+			"Origin": "Indiana, USA",
+			"DOB": "17 August 1936",
+			"DOD": "-"
+		},
+		"Fields": [
+			{
+				"Computing": ["Programming", "software engineering "]
+			}
+		],
+		"Legacy": "Margaret Hamilton is responsible for the development of the Universal Systems Language (USL) together with its integrated systems-to-software “Development Before the Fact” preventative life cycle and its automation, the 001 Tool Suite; all based on her mathematical theory of control for systems and software. Because of it's preventative paradigm, with USL, instead of looking for more ways to test for errors and continuing to test for errors late into the life cycle, the majority of errors including all interface errors are not allowed into a system, just by the way it is defined. For over five decades, Hamilton's methods have had a major impact on the field of software engineering up to and including the present day.",
+		"Tags": [
+			"Margaret Hamilton",
+			"Margaret Heafield Hamilton",
+			"Apollo mission",
+			"software engineering",
+			"NASA",
+			"Hamilton"
+		],
+		"url": "https://www.britannica.com/biography/Margaret-Hamilton-American-computer-scientist",
+		"media": "https://www.britannica.com/biography/Margaret-Hamilton-American-computer-scientist/images-videos",
+		"image_path": "https://cdn.britannica.com/91/194191-004-63D8B544/Margaret-Hamilton.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "25",
+		"name": "Henrietta Swan Leavitt",
+		"known_for": "Henrietta Leavitt was an American astronomer who discovered the relationship between period and luminosity in Cepheid variables, pulsating stars that vary regularly in brightness in periods ranging from a few days to several months.",
+		"Bio": {
+			"Summary": "Leavitt had an interest in astronomy and started as a volunteer assistant in the Harvard Observatory in 1895, receiving a paid position in 1902. She was employed in the observatory’s great project, begun by Edward C. Pickering, of determining the brightnesses of all measurable stars. Leavitt soon advanced from routine work to a position as head of the photographic stellar photometry department. In 1907 she started work on Pickering’s project to ascertain photographically standardized values for stellar magnitudes. Devising new methods of analysis, Leavitt determined their magnitudes, extending the scale of standard brightnesses down to the 21st magnitude. These standards were published in 1912 and 1917. One result of her work on stellar magnitudes was her discovery of 4 novas and some 2,400 variable stars - more than half of all those known even by 1930.",
+			"Origin": "Lancaster, Massachusetts, USA",
+			"DOB": "4 July 1868",
+			"DOD": "12 December 1921"
+		},
+		"Fields": [
+			{
+				"Astronomy": true
+			}
+		],
+		"Legacy": "Leavitt transformed the science of astronomy by dramatically extending the range at which a star’s distance from the earth could be measured. Leavitt’s outstanding achievement was her discovery in 1912 that in a certain class of variable stars, the Cepheid variables, the period of the cycle of fluctuation in brightness is highly regular and is determined by the actual luminosity of the star. The subsequent calibration of the period-luminosity curve allowed astronomers Edwin Hubble, Harlow Shapley, and others to determine the distances of many Cepheid stars and of the star clusters and galaxies in which they were observed. Her work was pivotal to Edwin Hubble’s discovery that the universe is much bigger than just the Milky Way and that our own galaxy is but one of many.",
+		"Tags": [
+			"Henrietta Leavitt",
+			"Stellar luminosity",
+			"Period-luminosity relation",
+			"Cepheid variables",
+			"Stellar photometry",
+			"North Polar Sequence"
+		],
+		"url": "https://www.britannica.com/biography/Henrietta-Swan-Leavitt",
+		"media": "https://www.britannica.com/biography/Henrietta-Swan-Leavitt/images-videos",
+		"image_path": "https://cdn.britannica.com/66/158566-004-7C114835/Henrietta-Swan-Leavitt.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "26",
+		"name": "Jane Goodall",
+		"known_for": "Goodall is a British ethologist, known for her exceptionally detailed and long-term research on the chimpanzees of Gombe Stream National Park in Tanzania.",
+		"Bio": {
+			"Summary": "Goodall began her research career assisting paleontologist Louis Leakey in Tanzania. This led to her establishment in June 1960 of a camp in the Gombe Stream Game Reserve, so that she could observe the behaviour of chimpanzees. In 1965 The University of Cambridge awarded Goodall a Ph.D. in ethology. Goodall corrected a number of misunderstandings about chimpanzees, e.g. their highly developed social behaviours. Goodall wrote books and articles about various aspects of her work, such as In the Shadow of Man (1971). She summarized her years of observation in The Chimpanzees of Gombe: Patterns of Behavior (1986). She continued to write and lecture about environmental and conservation issues into the early 21st century. In 2002 she became a UN Messenger of Peace. Goodall received an DBE in 2003 and was awarded the 2021 Templeton Prize. Jane, a documentary about her life and work, appeared in 2017.",
+			"Origin": "London, England",
+			"DOB": "3 April 1934",
+			"DOD": ""
+		},
+		"Fields": [
+			{
+				"Ethology": true
+			}
+		],
+		"Legacy": "In 1977 Goodall cofounded the Jane Goodall Institute for Wildlife Research, Education and Conservation in California. She created various other initiatives, including Jane Goodall’s Roots & Shoots (1991), a youth service program.",
+		"Tags": [
+			"Jane Goodall",
+			"Animal behaviour",
+			"Chimpanzee behaviour",
+			"Jane Goodall Institute",
+			"Jane Goodall’s Roots & Shoots",
+			"Gombe Stream Game Reserve"
+		],
+		"url": "https://www.britannica.com/biography/Jane-Goodall",
+		"media": "https://www.britannica.com/biography/Jane-Goodall/images-videos",
+		"image_path": "https://cdn.britannica.com/30/163230-050-D8219091/Jane-Goodall.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "27",
+		"name": "Cecilia Payne-Gaposchkin",
+		"known_for": "Cecilia Payne was an astronomer who discovered that stars are made mainly of hydrogen and helium and established that stars could be classified according to their temperatures.",
+		"Bio": {
+			"Summary": "Payne entered the University of Cambridge in 1919. A lecture by astronomer Arthur Eddington inspired her to become an astronomer. In 1923 she received a fellowship to study at the Harvard College Observatory in Cambridge, Massachusetts. In her Ph.D. thesis 'Stellar Atmospheres', Payne used the spectral lines of many different elements, and the work of Indian astrophysicist Meghnad Saha, to definitively establish that the spectral sequence did correspond to quantifiable stellar temperatures. She also determined that stars are composed mostly of hydrogen and helium. Payne received the first Ph.D. in astronomy from Radcliffe College for her thesis. Payne continued her stellar spectral work and her second book 'Stars of High Luminosity' (1930) paid particular attention to Cepheid variables. Payne became lecturer in astronomy at Harvard in 1938",
+			"Origin": "Wendover, England",
+			"DOB": "10 May 1900",
+			"DOD": "7 December 1979"
+		},
+		"Fields": [
+			{
+				"Astronomy": true
+			},
+			{
+				"Stellar Classification": true
+			}
+		],
+		"Legacy": "Astronomers Otto Struve and Velta Zebergs later called her thesis “undoubtedly the most brilliant Ph.D. thesis ever written in astronomy. Her second book 'Stars of High Luminosity' (1930) paid particular attention to Cepheid variables. In 1956 Payne was appointed a full professor at Harvard and became chairman of the astronomy department.",
+		"Tags": [
+			"Cecilia Payne",
+			"Variable Stars",
+			"Cepheid variables",
+			"Stellar Atmospheres"
+		],
+		"url": "https://www.britannica.com/biography/Cecilia-Payne-Gaposchkin",
+		"media": "-",
+		"image_path": "https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin#/media/File:Cecilia_Helena_Payne_Gaposchkin_(1900-1979)_(3).jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "28",
+		"name": "Linda B. Buck",
+		"known_for": "Linda Buck is an American scientist and corecipient of the Nobel Prize for Physiology or Medicine in 2004 for discoveries concerning the olfactory system",
+		"Bio": {
+			"Summary": "Buck received a B.S. in both microbiology and psychology from the University of Washington and a Ph.D. in immunology from the University of Texas Southwestern Medical Center. Together with Richard Axel, Buck clarified how the olfactory system functions by showing that each receptor cell has only one type of odour receptor, which is specialized to recognize a few odours. After odorant molecules bind to receptors, the receptor cells send electrical signals to the olfactory bulb in the brain. The brain combines information from several types of receptors in specific patterns, which are experienced as distinct odours. Her work boosted research into the possible existence of human pheromones. Buck held various positions with the Howard Hughes Medical Institute (HHMI) and at Harvard Medical School from 1984 until 2002, when she joined the Fred Hutchinson Cancer Research Center in Seattle.",
+			"Origin": "Seattle, Washington, USA",
+			"DOB": "29 January 1947",
+			"DOD": "-"
+		},
+		"Fields": [
+			{
+				"Microbiology": true
+			},
+			{
+				"Psychology": true
+			},
+			{
+				"Immunology": true
+			},
+			{
+				"Olfactory system": true
+			}
+		],
+		"Legacy": "Buck's work boosted research in the possible existence of human pheromones, odorant molecules known to trigger sexual activity and certain other behaviour in many animals, and Buck’s HHMI laboratory carried on research into how odour perceptions are translated into emotional responses and instinctive behaviour.",
+		"Tags": [
+			"Linda Buck",
+			"Olfactory system",
+			"Human pheromones",
+			"Nobel Prize for Physiology",
+			"Odour receptor"
+		],
+		"url": "https://www.britannica.com/biography/Linda-B-Buck",
+		"media": "https://www.britannica.com/biography/Linda-B-Buck/images-videos",
+		"image_path": "https://cdn.britannica.com/s:1500x700,q:85/46/143546-004-3F5C33FF/Linda-B-Buck-2004.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "29",
+		"name": "Marie-Sophie (Sophie) Germain",
+		"known_for": "Sophie Germain was a French mathematician who contributed notably to the study of acoustics, elasticity, and the theory of numbers.",
+		"Bio": {
+			"Summary": "Germain using the pseudonym of M. Le Blanc because the social conventions of her time prevented women from following intellectual careers. She managed to obtain lecture notes for courses from the newly organized École Polytechnique in Paris. Germain’s early work was in number theory. In 1816, the French Academy of Sciences awarded her a prize for her memoir on vibrations of general curved as well as plane surfaces. Germain worked on a general solution to Fermat’s last theorem, which states that there is no solution for the equation xn + yn = zn if n is an integer greater than 2 and x, y, and z are nonzero integers. She proved the special case in which x, y, z, and n are all relatively prime, and n is a prime smaller than 100. Germain did not publish her work. Her result first appeared in 1825 in the second edition of Legendre’s 'Théorie des nombres'.",
+			"Origin": "Paris, France",
+			"DOB": "1 April 1776",
+			"DOD": "27 juni 1831"
+		},
+		"Fields": [
+			{
+				"Mathematics": true
+			},
+			{
+				"Acoustics": true
+			}
+		],
+		"Legacy": "Germain proved a solution for Fermat's last theorem with the special case in which x, y, z, and n are all relatively prime (have no common divisor except for 1) and n is a prime smaller than 100. Her theorem was proved for all cases by the English mathematician Andrew Wiles in 1995.",
+		"Tags": [
+			"Marie-Sophie Germain",
+			"Elasticity",
+			"Acoustics",
+			"Fermat's last theorem",
+			"Theory of numbers"
+		],
+		"url": "https://www.britannica.com/biography/Sophie-Germain",
+		"media": "",
+		"image_path": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Germain.jpeg"
+	},
+	{
+		"id": "30",
+		"name": "Gladys West",
+		"known_for": "Gladys West is an American mathematician known for her work contributing to the development of the Global Positioning System (GPS).",
+		"Bio": {
+			"Summary": "She eventually transitioned from solving equations herself to programming computers to do it for her. One of her first major projects was work on the Naval Ordinance Research Calculator (NORC), an award-winning program designed (via 100 hours of computer calculations, which often had to be double-checked for errors by hand) to determine the movements of Pluto in relation to Neptune. Out of West’s work on Seasat came GEOSAT, a satellite programmed to create computer models of Earth’s surface. By teaching a computer to account for gravity, tides, and other forces that act on Earth’s surface, West and her team created a program that could precisely calculate the orbits of satellites. In 2018 West was formally recognized for her contribution to the development of GPS by the Virginia General Assembly. That same year she was also inducted into the Air Force Space and Missile Pioneers Hall of Fame and named one of the British Broadcasting Corporation’s 100 Women of 2018, a list designed to honour inspiring women worldwide",
+			"Origin": "Sutherland, Virginia",
+			"DOB": "27 October 1930",
+			"DOD": null
+		},
+		"Fields": [
+			{
+				"Mathematics": true
+			},
+			{
+				"Global Positioning System": true
+			},
+			{
+				"Aerospace Engineering": true
+			}
+		],
+		"Legacy": "Out of West’s work on Seasat came GEOSAT, a satellite programmed to create computer models of Earth’s surface. By teaching a computer to account for gravity, tides, and other forces that act on Earth’s surface, West and her team created a program that could precisely calculate the orbits of satellites. These calculations made it possible to determine a model for the exact shape of Earth, called a geoid. It is this model, and later updates, that allows the GPS system to make accurate calculations of any place on Earth.",
+		"Tags": [
+			"Gladys West",
+			"Mathematics",
+			"Global Positioning System",
+			"Aerospace Engineering",
+			"NASA"
+		],
+		"url": "https://www.britannica.com/biography/Gladys-West",
+		"media": "https://www.britannica.com/biography/Gladys-West/images-videos",
+		"image_path": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dr_Gladys_West_Hall_of_Fame.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "31",
+		"name": "Mary Jackson",
+		"known_for": "Mary Jackson was an American mathematician and aerospace engineer who in 1958 became the first African American female engineer to work at the National Aeronautics and Space Administration (NASA).",
+		"Bio": {
+			"Summary": "Jackson worked as an aerospace engineer for some 20 years. Much of her work centred on the airflow around aircraft. Despite early promotions, she was denied management-level positions, and in 1979 she left engineering and took a demotion to become manager of the women’s program at NASA. In that post, she sought to improve the opportunities for all women at the organization. She retired in 1985.",
+			"Origin": "Hampton, Virginia",
+			"DOB": "9 April 1921",
+			"DOD": "11 February 2005"
+		},
+		"Fields": [
+			{
+				"Mathematics": true
+			},
+			{
+				"Aerospace Engineering": true
+			}
+		],
+		"Legacy": "In 1951 she started working at the National Advisory Committee for Aeronautics (NACA), where she was a member of its West Area Computing unit—the West Computers, comprising African American female mathematicians—and Jackson’s supervisor was Dorothy Vaughan. The women provided data that were later essential to the early success of the U.S. space program. Jackson worked as an aerospace engineer for some 20 years. Much of her work centred on the airflow around aircraft. Jackson’s contributions to the space program received greater recognition after her death in 2005.",
+		"Tags": ["Mary Jackson", "Mathematics", "Aerospace Engineering", "NASA"],
+		"url": "https://www.britannica.com/biography/Mary-Jackson-mathematician-and-engineer",
+		"media": "https://www.britannica.com/biography/Mary-Jackson-mathematician-and-engineer/images-videos",
+		"image_path": "https://cdn.britannica.com/23/204323-050-C700CE94/Mary-Jackson.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "32",
+		"name": "Dorothy Vaughan",
+		"known_for": "Dorothy Vaughan was an American mathematician and computer programmer who made important contributions to the early years of the U.S. space program and who was the first African American manager at the National Advisory Committee for Aeronautics (NACA), which later became part of the National Aeronautics and Space Administration (NASA).",
+		"Bio": {
+			"Summary": "She started working for NACA’s West Area Computing unit, a group of African American female mathematicians who were considered “human computers,” performing complex computations and analyzing data for aerospace engineers. Vaughan served as head of the West Computers until 1958, when NACA was incorporated into the newly created NASA, which closed the segregated facilities. Vaughan and many other West Computers then joined the NASA Analysis and Computation Division, a group made up of men and women of all races. By then, the space program had begun using electronic computers, and Vaughan became an expert at FORTRAN, a computer programming language used for scientific and algebraic applications. She retired from NASA in 1971.",
+			"Origin": "Kansas City, Missouri",
+			"DOB": "20 September 1910",
+			"DOD": "10 November 2008"
+		},
+		"Fields": [
+			{
+				"Mathematics": true
+			},
+			{
+				"Computer Programming": true
+			}
+		],
+		"Legacy": "In December 1943 she started working for NACA’s West Area Computing unit, a group of African American female mathematicians who were considered “human computers,” performing complex computations and analyzing data for aerospace engineers. Vaughan was promoted to lead the West Computers in 1949. She became NACA’s first black supervisor and one of its few female supervisors. Vaughan served as head of the West Computers until 1958, when NACA was incorporated into the newly created NASA, which closed the segregated facilities. Vaughan became an expert at FORTRAN, a computer programming language used for scientific and algebraic applications.",
+		"Tags": [
+			"Dorothy Vaughan",
+			"Mathematics",
+			"Computer Programming",
+			"NASA"
+		],
+		"url": "https://www.britannica.com/biography/Dorothy-Vaughan",
+		"media": "https://www.britannica.com/biography/Dorothy-Vaughan/images-videos",
+		"image_path": "https://cdn.britannica.com/26/204326-050-5BE74425/Dorothy-Vaughan.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "33",
+		"name": "Anita Borg Naffz",
+		"known_for": "Anita Borg was an American computer scientist who advocated for women’s advancement in technology.",
+		"Bio": {
+			"Summary": "Borg attended the University of Washington in Seattle for two years. She later studied at New York University, where she received a doctorate (1981) for her work on synchronization efficiency in operating systems. After graduation she worked for several computer companies before joining Digital Equipment Corporation (1986–97). In 1987 Borg founded Systers, an electronic community for women in computing. Systers grew to more than several thousand members in some 50 countries. In 1994 Borg cofounded the Grace Hopper Celebration of Women in Computing, a technical conference (whose namesake, Grace Hopper, was a pioneer in early computer technology) highlighting the work of women and advocating policies intended to bring more women into science and technology. In 1997 Borg became a researcher at Xerox PARC, and later that year she created the Institute for Women and Technology; it was renamed the Anita Borg Institute in 2003.",
+			"Origin": "Chicago, Illinois",
+			"DOB": "17 January 1949",
+			"DOD": "6 April 2003"
+		},
+		"Fields": [
+			{
+				"Computer Science": true
+			}
+		],
+		"Legacy": "In 1987 Borg founded Systers, an electronic community for women in computing. Systers grew to more than several thousand members in some 50 countries. In 1994 Borg cofounded the Grace Hopper Celebration of Women in Computing, a technical conference (whose namesake, Grace Hopper, was a pioneer in early computer technology) highlighting the work of women and advocating policies intended to bring more women into science and technology. In 1997 Borg became a researcher at Xerox PARC, and later that year she created the Institute for Women and Technology; it was renamed the Anita Borg Institute in 2003. In 1987 Borg founded Systers, an electronic community for women in computing. Systers grew to more than several thousand members in some 50 countries. In 1994 Borg cofounded the Grace Hopper Celebration of Women in Computing, a technical conference (whose namesake, Grace Hopper, was a pioneer in early computer technology) highlighting the work of women and advocating policies intended to bring more women into science and technology. In 1997 Borg became a researcher at Xerox PARC, and later that year she created the Institute for Women and Technology; it was renamed the Anita Borg Institute in 2003.",
+		"Tags": [
+			"Anita Borg",
+			"Computer Science",
+			"Electronic Community for Women in Computing"
+		],
+		"url": "https://www.britannica.com/biography/Anita-Borg",
+		"media": "",
+		"image_path": "https://upload.wikimedia.org/wikipedia/en/e/e1/Anita_Borg.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "34",
+		"name": "Maria Mitchell",
+		"known_for": "In the history of astronomy, Maria Mitchell was the first ever American woman who worked as a professional astronomer.",
+		"Bio": {
+			"Summary": "An American astronomer, Maria Mitchell is most prominently known for discovering a comet which was then called “Miss Mitchell’s Comet”. In the history of astronomy, Maria Mitchell was the first ever American woman who worked as a professional astronomer. In 1848 she became the first lady member of the American Academy of Arts and Sciences. Two years later, she was elected to the American Association for the Advancement of Science. After being part of those important associations and institutions for astronomy, she worked for the U.S. Nautical Almanac Office where she calculated tables for the positions of the planet Venus.",
+			"Origin": "Nantucket, Massachusetts, USA",
+			"DOB": "1 August 1818",
+			"DOD": "28 June 1889"
+		},
+		"Fields": [
+			{
+				"Astronomy": true
+			}
+		],
+		"Legacy": "For her discovery of the comet which was named after her, she received a gold medal as recognition from the king of Denmark, King Frederick VII. On the medal, the phrase “Not in vain do we watch the setting and rising of the stars” was inscribed, referring to how Maria Mitchell made her discovery with the use of her telescope. In 1848 she became the first lady member of the American Academy of Arts and Sciences. In Nantucket, the Maria Mitchell Observatory is named after the honor of one of the most noted female astronomers who truly made a mark in history. After her death, she was made a part of the U.S. National Women’s Hall of Fame. On the moon, a crater was named “Mitchell” after her to commemorate her importance in the field of astronomy.",
+		"Tags": [
+			"Maria Mitchell",
+			"Astronomer",
+			"American Academy of Arts and Sciences"
+		],
+		"url": "https://www.famousscientists.org/maria-mitchell/",
+		"media": "",
+		"image_path": "https://cdn.britannica.com/61/21561-050-6A2A15D0.jpg",
+		"image_width": "150"
+	},
+	{
+		"id": "35",
+		"name": "Marguerite Catherine Perey",
+		"known_for": "Marguerite Perey discovered the chemical element francium in 1939. Francium was the last element ever discovered in a natural source. All elements discovered after Perey’s discovery have been produced by artificial methods in the laboratory.",
+		"Bio": {
+			"Summary": "She applied for work in Marie Curie’s laboratory in Paris – The Radium Institute – and was amazed to be interviewed by the great Marie Curie herself. Marie Curie was one of the most famous people in the world at that time. In 1939 there was no element 87 in the periodic table. Although people had suspected it existed, nobody had been able to find it. Perey had discovered a new element! The new element was made when actinium emitted alpha particles. Perey decided to name the new element to honor her home country – France. And so a new element was added to the periodic table – francium.",
+			"Origin": "Paris, France",
+			"DOB": "19 October 1909.",
+			"DOD": "28 June 1889"
+		},
+		"Fields": [
+			{
+				"Chemistry": true
+			}
+		],
+		"Legacy": "In 1939 there was no element 87 in the periodic table. Although people had suspected it existed, nobody had been able to find it. Perey had discovered a new element! With her Ph.D. Perey immediately became a senior scientist at the Radium Institute. She continued working there until, in 1949, at age 40, she took the Chair of Nuclear Chemistry at the University of Strasbourg. Perey also served as a member of the Atomic Weights Commission between 1950 and 1963. In 1962 she became the first woman to be elected to the French Academy of Sciences. In addition to this, she was awarded: The French Academy of Science Wilde Prize, The French Academy of Science Le Conte Prize, The City of Paris Science Grand Prize, Officer of the Legion of Honor, Lavoisier Prize of the French Chemical Society, Silver Medal of the City of Paris, Commander of the National Order of Merit. She also got an Award for her Ph.D.",
+		"Tags": [
+			"Marguerite Catherine Perey",
+			"Chemistry",
+			"Radioactive Elements",
+			"Chemical Engineer",
+			"Periodic Table",
+			"Francium"
+		],
+		"url": "https://www.famousscientists.org/marguerite-perey/",
+		"media": "",
+		"image_path": "https://upload.wikimedia.org/wikipedia/en/0/09/Marguerite_Perey.jpg",
+		"image_width": "150"
+	}
 ]
