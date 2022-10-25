@@ -17,17 +17,11 @@ $cursive: 'Damion',
 cursive;
 
 body {
-    //display: flex;
     text-align: center;
     color: $white;
     background: $dark;
-    // height: 100vh;
-    // width: 100vw;
-    text-align: center;
     font-family: $body;
     font-weight: $bodyweight;
-    // overflow: hidden;
-    // white-space: nowrap;
 }
 
 ul {
@@ -67,9 +61,7 @@ a {
     background: $light;
     overflow: hidden;
 
-
     .site-title {
-
         padding-top: 10px;
 
         h1 {
@@ -78,14 +70,9 @@ a {
             font-size: 50px;
             text-shadow: 2px 6px 10px $primary;
         }
-
-
     }
 
     .main {
-
-
-
         #summary {
             font-size: 26px;
             opacity: 0;
@@ -128,16 +115,13 @@ a {
     }
 }
 
-
 #maincontent {
     height: 100vh;
 }
 
-
 #about {
     height: 100vh;
 }
-
 
 #underconstruction {
     width: 100vw;
@@ -147,7 +131,6 @@ a {
     padding-bottom: 40px;
     padding-left: 20px;
     padding-right: 20px;
-    // background: rgba(2, 2, 65, .7);
     border-radius: 50px;
 
     h1 {
@@ -265,8 +248,6 @@ a {
         width: 100vw;
     }
 }
-
-
 
 /* font-family: 'Abril Fatface', cursive;
 font-family: 'Alegreya', serif;
