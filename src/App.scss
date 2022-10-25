@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Damion&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Damion&display=swap");
 
 $primary: rgba(57, 162, 174, 1);
 $secondary: rgba(86, 31, 55, 1);
@@ -8,12 +8,12 @@ $alternate: rgba(117, 228, 179, 1);
 $white: rgba(255, 255, 255, 1);
 $black: rgba(0, 0, 0, 1);
 
-$header: 'Abril Fatface',
+$header: "Abril Fatface",
 cursive;
-$body: 'Poppins',
+$body: "Poppins",
 sans-serif;
 $bodyweight: 300;
-$cursive: 'Damion',
+$cursive: "Damion",
 cursive;
 
 body {
@@ -135,7 +135,12 @@ a {
 
     h1 {
         font-size: 65px;
-        background: linear-gradient(90deg, #11001cff, #561f37ff, #39a2aeff, #55dbcbff, #75e4b3ff);
+        background: linear-gradient(90deg,
+                #11001cff,
+                #561f37ff,
+                #39a2aeff,
+                #55dbcbff,
+                #75e4b3ff);
         -webkit-background-clip: text;
         background-clip: text;
         -webkit-text-fill-color: transparent;
@@ -168,20 +173,19 @@ a {
     @keyframes pulse {
         0% {
             background-color: $primary;
-            background-position: 0% 82%
+            background-position: 0% 82%;
         }
 
         50% {
             background-color: $dark;
-            background-position: 100% 19%
+            background-position: 100% 19%;
         }
 
         100% {
             background-color: $primary;
-            background-position: 0% 82%
+            background-position: 0% 82%;
         }
     }
-
 }
 
 .modal-content {
@@ -192,7 +196,6 @@ a {
         background: $light;
         border-radius: 50%;
         border-style: hidden;
-
     }
 
     form {
@@ -209,7 +212,7 @@ a {
 
 // Mobile Styles
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
     .SiteNav {
         display: none;
     }
@@ -238,8 +241,6 @@ a {
 
     h1#construction-page {
         font-size: 40px;
-
-
     }
 
     input#form-control {
