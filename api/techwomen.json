@@ -1065,5 +1065,36 @@
 		"media": "",
 		"image_path": "https://upload.wikimedia.org/wikipedia/en/0/09/Marguerite_Perey.jpg",
 		"image_width": "150"
+	},
+	{
+		"id": "36",
+		"name": "Annie J. Easley",
+		"known_for": "Annie Easley is known for her work on the Centaur project which helped lay foundation for future space shuttle launches. She is also one of the first people of color to work as a computer scientist at NASA.",
+		"Bio": {
+			"Summary": "In 1955, Annie read about twin sisters working for the National Advisory Committee for Aeronautics (NACA) in the newspaper and applied for a job the next day. She was hired two weeks later and began her career as a mathematician and computer engineer at the NACA Lewis Flight Propulsion Laboratory. Her career spanned 34 years and during this time, her talents were utilized in the Computer Services Division where some of her work involved running simulations for the Plum Brook Reactor Facility in Ohio. Early 1960s, Easley began working on the Centaur high-energy booster rocket, which had its first successful launch in 1963.",
+			"Origin": "Birmingham, Alabama, USA",
+			"DOB": "23 April 1993",
+			"DOD": "25 June 2011"
+		},
+		"Fields": [
+			{
+				"Mathematics": true
+			},
+			{
+				"Computer Science": true
+			}
+		],
+		"Legacy": "Throughout the 1970s, she advocated and motivated female and minority people to pursue STEM careers. She curated programs that analyzed alternative power technologies, supported the Centaur high-energy upper rocket stage and determined energy conversion systems that offer improvement over commercially available technologies.",
+		"Tags": [
+			"Annie J. Easley",
+			"Computer Science",
+			"Mathematics",
+			"NASA",
+			"NACA"
+		],
+		"url": "https://scientificwomen.net/women/easley-annie-160",
+		"media": "",
+		"image_path": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Annie_Easley_in_NASA.jpg",
+		"image_width": "150"
 	}
 ]
