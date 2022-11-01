@@ -1098,37 +1098,33 @@
 		"image_width": "150"
 	},
 	{
-		"id": "37",
-		"name": "Ana Roqué de Duprey",
-		"known_for": "Ana Roqué de Duprey founded the first woman’s suffrage organization in Puerto Rico in 1917. Known as “Flor del Valle” (“Flower of the Valley”) for her work in botany, she strove to promote educational opportunities and political rights for women in Puerto Rico.",
+		"id": "38",
+		"name": "Lillian Gilbreth",
+		"known_for": "Lillian Moller Gilbreth was an American psychologist and industrial engineer at the turn of the 20th century.",
 		"Bio": {
-			"Summary": "Ana Roqué de Duprey started a school in her home at age 13 and wrote a geography textbook for her students, which was later adopted by the Department of Education of Puerto Rico. Roqué had a passion for astronomy and education, founding several girls-only schools as well as the College of Mayagüez, which later became the Mayagüez Campus of the University of Puerto Rico. Roqué wrote the Botany of the Antilles, the most comprehensive study of flora in the Caribbean at the beginning of the 20th century, and was also instrumental in the fight for the Puerto Rican woman’s right to vote.",
-			"Origin": "Aguadilla, Aguadilla Municipality, Puerto Rico, USA",
-			"DOB": "18 April 1853",
-			"DOD": "4 October 1933"
+			"Summary": "Lillian Gilbreth was an expert in efficiency and organizational psychology, the principles of which she applied not only as a management consultant for major corporations, but also to her household of twelve children, as chronicled in the book Cheaper by the Dozen. Her long list of firsts includes first female commencement speaker at the University of California, first female engineering professor at Purdue, and first woman elected to the National Academy of Engineering.",
+			"Origin": "Oakland, California, USA",
+			"DOB": "24 May 1878",
+			"DOD": "2 January 1972"
 		},
 		"Fields": [
 			{
-				"Astronomy": true
+				"Psychology": true
 			},
 			{
-				"Geography": true
-			},
-			{
-				"Botany": true
+				"Industrial Engineering": true
 			}
 		],
-		"Legacy": "A high school in Humacao, Puerto Rico was named after her, as was a former elementary school in Chicago. Roqué also holds the distinction of being the first woman allowed to enter the Puerto Rican Athenaeum, an elite cultural institution devoted to Puerto Rican arts, music, and literature. Roqué died in Río Piedras in 1933.",
+		"Legacy": "Lillian's work continues to be something that can be understood by all, and used by all. Her excellence in her field drew a start for many more great women from the field of science. Her interesting system of living inspired Lillian's children Frank and Ernestine to write the biographical novel "Cheaper by the Dozen" . It discusses mainly their home life, and how their parents' studies in time and motion ran the household in precise organization.",
 		"Tags": [
-			"Ana Roqué de Duprey",
-			"Woman’s rights",
-			"Geography",
-			"Puerto Rico",
-			"Education"
+			"Lillian Gilbreth",
+			"Engineering",
+			"Industrial Engineering",
+			"Psychologist"
 		],
-		"url": "https://www.womenshistory.org/education-resources/biographies/ana-roque-de-duprey",
+		"url": "https://gilbrethsystem.weebly.com/blog/lillians-legacy",
 		"media": "",
-		"image_path": "https://www.womenshistory.org/sites/default/files/styles/main_image/public/images/2020-12/AnaRoquedeDuprey.jpg?itok=YhErr6Gl",
+		"image_path": "https://gilbrethsystem.weebly.com/uploads/5/4/8/7/54871327/9103743_orig.png",
 		"image_width": "150"
 	}
 ]
