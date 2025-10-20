@@ -2,24 +2,34 @@
   "name": "women-tech-changers",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^11.2.7",
-    "@testing-library/user-event": "^12.8.3",
-    "emailjs-com": "^3.2.0",
-    "react": "^17.0.2",
-    "react-bootstrap": "^1.6.4",
-    "react-dom": "^17.0.2",
-    "react-page-scroller": "^2.2.1",
-    "react-scripts": "5.0.1",
-    "react-scroll-motion": "^0.2.1",
-    "web-vitals": "^1.1.2"
-  },
   "scripts": {
-    "start": "NODE_ENV=production node_modules/react-scripts/bin/react-scripts.js start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "validate:data": "node scripts/validate-data.mjs",
+    "format": "prettier -w .",
+    "lint": "eslint --ext .js,.jsx src"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^4"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6",
+    "@testing-library/react": "^14",
+    "@testing-library/user-event": "^14",
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "eslint": "^8.57.0",
+    "eslint-config-react-app": "^7.0.1",
+    "glob": "^10.3.10",
+    "prettier": "^3.3.3",
+    "sass": "^1.93.2"
   },
   "eslintConfig": {
     "extends": [
@@ -38,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "engines": {
+    "node": ">=16.17"
   }
 }
