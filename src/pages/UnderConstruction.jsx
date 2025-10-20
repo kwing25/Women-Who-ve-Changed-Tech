@@ -7,9 +7,7 @@ import Row from 'react-bootstrap/Row';
 import Form from 'react-bootstrap/Form';
 
 
-import emailjs from 'emailjs-com';
-import { init } from 'emailjs-com';
-init("user_OiuNBZ6IiwQi5rKwdMkWB");
+
 
 export default function UnderConstruction() {
     const [show, setShow] = useState(false);
@@ -25,12 +23,7 @@ export default function UnderConstruction() {
         e.preventDefault();
         setMessage(true)
 
-        emailjs.sendForm('service_h71kikp', 'template_9u7bpal', form.current, 'user_OiuNBZ6IiwQi5rKwdMkWB')
-            .then((result) => {
-                console.log(result.text);
-            }, (error) => {
-                console.log(error.text);
-            });
+    
 
     };
 
