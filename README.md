@@ -1,164 +1,186 @@
-<div id="top"></div>
-<div align="center">
+# Women Who've Changed Tech 👩🏻‍💻
 
-  <h1 align="center">Women Who've Changed Tech <br>
-  API & React App   👩🏻‍💻 </h1>
-  <p align="center">
-    API & React App of the History of Female Tech Pioneers & Women in the field today. This is an open source project aimed at collecting and sharing the history of Female Tech Pioneers.<i> ☞ To participate and share the history of Female Tech Pioneers go to <a href="#contributing"><strong>Contributing</strong></a> & let's tell the story of amazing Tech & STEM Women whose stories are not often told! </i><img src="https://emojis.slackmojis.com/emojis/images/1581335465/7773/feminist_parrot.png?1581335465" height="24px" width="24px">  <img src="https://emojis.slackmojis.com/emojis/images/1617045507/25704/girl_power.gif?1617045507" height="24px" width="24px">
- </p>
+**Women Who've Changed Tech** is an open-source API + React app
+celebrating the stories of women who shaped computing, STEM, and
+technology.\
+Our goal is to make the contributions of women in tech more visible,
+accessible, and inspiring for the next generation.
 
- <b><i>Project is in-progress and will be reopened for <a href="https://hacktoberfest.com/">Hacktoberfest 2023</a> contributions. Please check for more updates & open issues.</i></b>
-  </div>
+> ✨ *Help document, design, and share the history of female tech
+> pioneers --- from early innovators to today's leaders.*
 
-  ---
+------------------------------------------------------------------------
 
-![Website](https://img.shields.io/website?down_color=red&up_color=green&url=https%3A%2F%2Fwomen-who-changed-tech.netlify.app%2F)
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://women-who-changed-tech.netlify.app/) 
-![GitHub issues](https://img.shields.io/github/issues/kwing25/Women-Who-ve-Changed-Tech?style=flat)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/kwing25/Women-Who-ve-Changed-Tech?style=flat)
-![GitHub contributors](https://img.shields.io/github/contributors/kwing25/Women-Who-ve-Changed-Tech)
-![GitHub forks](https://img.shields.io/github/forks/kwing25/Women-Who-ve-Changed-Tech)
+## 🌐 Live Website
+
+<https://women-who-changed-tech.netlify.app>
+
+![Status](https://img.shields.io/badge/status-active-success.svg)
+![GitHub
+issues](https://img.shields.io/github/issues/kwing25/Women-Who-ve-Changed-Tech)
+![GitHub pull
+requests](https://img.shields.io/github/issues-pr/kwing25/Women-Who-ve-Changed-Tech)
+![GitHub
+contributors](https://img.shields.io/github/contributors/kwing25/Women-Who-ve-Changed-Tech)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-<!-- TABLE OF CONTENTS -->
-<details open>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a>
-      <ul>
-        <li><a href="#general-contributions">General Contributions</a></li>
-        <li><a href="#add-a-tech-pioneer-to-the-project-api">Add a Tech Pioneer to the Project API</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#contributors">Contributors</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+------------------------------------------------------------------------
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+## 📖 About
 
-A list of Female Tech Pioneers API & Website using the Framework React.js. The goal of this Project is to document and share the histories of Women in Tech & STEM Roles. Everyone is welcome to share and participate in this project.
+Women Who've Changed Tech is both a data API and a React web app
+documenting key women in the history of technology and STEM.\
+Each entry highlights a pioneer's background, achievements, and verified
+sources. The API and site are community-driven and open for
+contributions.
 
-<p align="right"><a href="#top">↑</a></p>
+------------------------------------------------------------------------
 
-### Built With
+## 🧰 Built With
 
-This project uses various Frameworks, Libraries, and other technologies.
+  Technology                                 Purpose
+  ------------------------------------------ -------------------------
+  [React.js](https://reactjs.org/)           App framework
+  [Bootstrap 5](https://getbootstrap.com/)   UI styling
+  [Sass](https://sass-lang.com/)             Stylesheet preprocessor
+  [EmailJS](https://www.emailjs.com/)        Form/email integration
+  [Postman](https://www.postman.com/)        API testing
+  [Git + GitHub](https://github.com/)        Version control
+  [npm](https://www.npmjs.com/)              Dependency management
 
-| Technology | For |
-| :---------: | :---------: |
-| API's | Data List |
-| [![React.js](https://img.shields.io/badge/React.js-000000?style=flat&logo=React&link=https://reactjs.org/)](https://reactjs.org/) | Website Structure |
-| [![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=Bootstrap&link=https://getbootstrap.com/)](https://getbootstrap.com/) | Frontend Framework |
-| [![Sass](https://img.shields.io/badge/Sass-000000?style=flat&logo=Sass&link=https://sass-lang.com/)](https://sass-lang.com/) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=CSS3) | Frontend Styling |
-| ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=HTML5) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=JavaScript) | Various |
-| [![Postman](https://img.shields.io/badge/Postman-000000?style=flat&logo=Postman&link=postman.com)](https://www.postman.com/) | API Manager |
-| ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git) ![npm](https://img.shields.io/badge/npm-000000?style=flat&logo=npm) | Repository Management |
+------------------------------------------------------------------------
 
-<p align="right"><a href="#top">↑</a></p>
+## 🚀 Quick Start
 
-<!-- CONTRIBUTING -->
-## Contributing
-
- <img src="https://emojis.slackmojis.com/emojis/images/1617576678/27300/arrow.gif?1617576678" height="24px" width="24px"> Go to <a href="https://github.com/kwing25/Women-Who-ve-Changed-Tech/blob/main/CONTRIBUTING.md"> `CONTRIBUTING.md`</a>
-
-Contributions help this project grow and document the histories of Tech & STEM Female Pioneers. Any contributions you make are **greatly appreciated**! 🤝 <br><br>
-If you have a suggestion that would make this project better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! ⭐️
-### **General Contributions**
-  1. Fork the Project 
-  2. Clone the repo 
-  ```sh
-   git clone https://github.com/your_username/Women-Who-ve-Changed-Tech.git
-   ```
-  3. Create a New Branch for your contribution 
-  ```sh
-  git checkout -b branch-name
-  ```
-  4. Commit your Changes 
-```sh
-git commit -m "Your Commit Message"
+``` bash
+git clone https://github.com/kwing25/Women-Who-ve-Changed-Tech.git
+cd Women-Who-ve-Changed-Tech
+npm install
+npm start
 ```
-  5. Push to the Branch 
-```sh
-git push origin branch-name
+
+Then open **http://localhost:3000** in your browser.
+
+------------------------------------------------------------------------
+
+## 💡 How to Contribute
+
+We welcome developers, researchers, writers, and designers to
+collaborate!
+
+### 🛠️ General Contributions
+
+1.  **Fork the repo**
+
+    ``` bash
+    git fork https://github.com/kwing25/Women-Who-ve-Changed-Tech.git
+    cd Women-Who-ve-Changed-Tech
+    ```
+
+2.  **Create a branch**
+
+    ``` bash
+    git checkout -b feature/your-idea
+    ```
+
+3.  **Make your changes and commit**
+
+    ``` bash
+    git commit -m "Added new pioneer: Grace Hopper"
+    ```
+
+4.  **Push and open a Pull Request**
+
+> 💬 Check open
+> [issues](https://github.com/kwing25/Women-Who-ve-Changed-Tech/issues)
+> before starting work.
+
+------------------------------------------------------------------------
+
+### 🧠 Add a Tech Pioneer
+
+Each pioneer is represented by a JSON entry (see
+`schemas/pioneer.schema.json`).
+
+1.  Add a new file in `/src/data/pioneers/` named `first-last.json`.\
+
+2.  Include:
+
+    -   `name`
+    -   `bio`
+    -   `roles`
+    -   `fields`
+    -   at least one verified `source`
+
+3.  Validate your data:
+
+    ``` bash
+    npm run validate:data
+    ```
+
+4.  Submit your PR!
+
+Example:
+
+``` json
+{
+  "name": "Radia Perlman",
+  "bio": "Radia Perlman is a computer scientist known for inventing the Spanning Tree Protocol (STP), a key technology in network bridges.",
+  "roles": ["computer scientist"],
+  "fields": ["networking"],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Radia_Perlman",
+      "title": "Radia Perlman – Wikipedia"
+    }
+  ],
+  "slug": "radia-perlman"
+}
 ```
-  6. Open a Pull Request
 
-> ⚠️ Note: 
-  Please look at [open issues](https://github.com/kwing25/Women-Who-ve-Changed-Tech/issues) & include all contribution details when submitting a [Pull Request](https://github.com/kwing25/Women-Who-ve-Changed-Tech/blob/550b3e897a317802292a49cdb78031851d177b06/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md). Thanks!
+------------------------------------------------------------------------
 
+## 🧩 Roadmap
 
-  <p align="right"><a href="#top">↑</a></p>
+-   ✅ React app & API integration\
+-   ✅ Data schema validation (AJV)\
+-   ⏳ Internationalization (i18n)\
+-   ⏳ Search & filters\
+-   ⏳ Timeline visualization
 
-### Add a Tech Pioneer to the Project API
+See [open
+issues](https://github.com/kwing25/Women-Who-ve-Changed-Tech/issues) for
+current tasks.
 
-☞ See [Tech Pioneer Contribution](https://github.com/kwing25/Women-Who-ve-Changed-Tech/blob/550b3e897a317802292a49cdb78031851d177b06/api/TECH-PIONEER-CONTRIBUTE.md) for more info
+------------------------------------------------------------------------
 
-## Usage
+## 📜 License
 
-To Clone:  (```git clone https://github.com/your_username/Women-Who-ve-Changed-Tech.git```)
+-   **Code:** MIT\
+-   **Data:** CC BY 4.0\
+    You may share and adapt entries with attribution to *Women Who've
+    Changed Tech*.
 
-<p align="right"><a href="#top">↑</a></p>
+------------------------------------------------------------------------
 
-<!-- ROADMAP -->
-## Roadmap
+## 📬 Contact
 
-See the [open issues](https://github.com/kwing25/Women-Who-ve-Changed-Tech/issues) for a list of proposed updates (and issues).
+**Kendra Wing**\
+[GitHub @kwing25](https://github.com/kwing25)\
+[LinkedIn](https://www.linkedin.com/in/kendrawing/)
 
+------------------------------------------------------------------------
 
-<p align="right"><a href="#top">↑</a></p>
+## ❤️ Acknowledgments
 
-<!-- LICENSE -->
-## License
-This project is licensed under the MIT license. 
+Thanks to all Hacktoberfest contributors and open-data collaborators!
 
-See `LICENSE.md` for more information.
-<p align="right"><a href="#top">↑</a></p>
+Resources that inspired this project: - [Computer History
+Museum](https://www.computerhistory.org/) -
+[Biography.com](https://www.biography.com/) -
+[Britannica](https://www.britannica.com/) - [API Evangelist -- Women in
+Tech](https://women-in-tech.apievangelist.com/)
 
-<!-- CONTACT -->
-## Contact
+------------------------------------------------------------------------
 
-[![GitHub ](https://img.shields.io/badge/GitHub-@kwing25-85e2cd?style=flat&logo=GitHub&link=https://github.com/kwing25)](https://github.com/kwing25)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/kendrawing/)](https://www.linkedin.com/in/kendrawing/)
-
-
-<p align="right"><a href="#top">↑</a></p>
-
-## Contributors
-#### *Thanks to all the <a href="https://hacktoberfest.digitalocean.com/"> <i> Hacktoberfest 2021 & 2022</i> </a>  Contributors!* 
-
-<a href="https://github.com/kwing25/Women-Who-ve-Changed-Tech">
-  <img src="https://contrib.rocks/image?repo=kwing25/Women-Who-ve-Changed-Tech" />
-</a>
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-This project has been made with many resources and contributors. Thank you for all who've have contributed and helped this project grow 👏
-
-* [Computer History Museum](https://www.computerhistory.org/) - <i>Research & References</i>
-* [Famous Scientists](https://www.famousscientists.org/ada-lovelace/) - <i>Research & References</i>
-* [Biography](https://www.biography.com/) - <i>Biographies</i>
-* [Britannica](https://www.britannica.com/) - <i>Biographies & References</i>
-* [API Evangelist](https://women-in-tech.apievangelist.com/) - <i>Research</i>
-* [Documentation Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - <i>Documentation</i>
-* [Awesome Open Source](https://awesomeopensource.com/) - <i>Open Source Documentation</i>
-* [Amazing Github Template](https://github.com/dec0dOS/amazing-github-template) - <i>Readme</i>
-* [Editor.md](https://pandao.github.io/editor.md/en.html) - <i>Markdown</i>
-* [Discordmojis](https://discordmojis.com/) - <i>Markdown Graphics</i>
-
-<p align="right"><a href="#top">↑</a></p>
-
----
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-pull-requests.svg)](https://forthebadge.com)
-
+> Built with 💜 by the open-source community.
